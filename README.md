@@ -49,8 +49,8 @@ tutto schermo e bilancia il mix mentre suoni, analizzando l'audio di **tutti i c
 
 L6 e L-8 non sono supportati: non hanno il BTA-1.
 
-**Hai un L-20?** Aiutami a verificarlo: apri il programma, premi **Prova mixer**, fai le prove guidate
-(canali audio e comandi) e manda il rapporto che salva sulla Scrivania all'indirizzo qui sotto.
+**Hai un L-20?** Aiutami a verificarlo su Windows, Linux o Mac: segui la **[procedura di prova per il
+L-20](PROVA_L20.md)** (mezz'ora, il programma ti guida) e mandami per email il file che prepara.
 
 ## DEMO e versione completa
 
@@ -123,6 +123,8 @@ analysing the audio of **every channel**.  The program is in **English, Italian,
 |---|---|---|---|
 | ZOOM LiveTrak **L12next** | USB + Bluetooth (BTA-1), verified | Assist and Auto | full (automatic gain) |
 | ZOOM LiveTrak **L-20** | being tested | Assist (recommended faders) | advice (you turn the gain) |
+
+**Do you have an L-20?** Help me test it on Windows, Linux or Mac: follow the **[L-20 test procedure](PROVA_L20.md#english)**.
 
 **Download** the free **DEMO** from the [Releases](../../releases): Windows 10/11 (`...-windows-x64-setup.exe`,
 install the ZOOM driver first), Linux (`...-linux-x86_64.tar.gz`, then `sh installa.sh`), Mac Apple Silicon
