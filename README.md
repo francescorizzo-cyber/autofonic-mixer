@@ -65,7 +65,9 @@ Qui trovi la **DEMO gratuita** (nelle [Release](../../releases)).
 | AI Auto (dopo 14 giorni) | no | si |
 | Finestra Stato, strumenti al volo | si | si |
 
-**Per la versione completa scrivi a: autofonic.mixer@gmail.com**
+**Versione completa: con un'offerta libera, anche minima, per sostenere il progetto** su
+**[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**, poi scrivi a **autofonic.mixer@gmail.com**
+e ricevi la versione completa.
 
 ## Download
 
@@ -127,7 +129,9 @@ install the ZOOM driver first), Linux (`...-linux-x86_64.tar.gz`, then `sh insta
 (`...-mac-arm64.dmg`, being tested).  The DEMO works **fully for 14 days**; after that: sound check on the first
 2 channels without mix check, AI Assist 10 minutes per session, no AI Auto.
 
-**Full version: autofonic.mixer@gmail.com**
+**Full version: with a free donation, even a small one, to support the project** at
+**[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**, then write to **autofonic.mixer@gmail.com**
+and you will receive the full version.
 
 Independent project, not affiliated with ZOOM Corporation.  ZOOM, LiveTrak, L12next, L-20 and BTA-1 are
 trademarks of ZOOM Corporation.  License: see [LICENSE](LICENSE).
