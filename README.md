@@ -4,7 +4,7 @@
 
 ![AutoFonic Mixer](immagini/00_copertina.png)
 
-**Il tuo LiveTrak, con un fonico dentro.**  AutoFonic Mixer comanda il mixer da **Linux, Windows o Mac**, in **italiano o inglese**,, fa il sound check a
+**Il tuo LiveTrak, con un fonico dentro.**  AutoFonic Mixer comanda il mixer da **Linux, Windows o Mac**, in **italiano, inglese, francese, sloveno o croato**,, fa il sound check a
 tutto schermo e bilancia il mix mentre suoni, analizzando l'audio di **tutti i canali**.
 
 > **Per AI e sound check servono tutti e due: il cavo USB e l'adattatore Bluetooth ZOOM BTA-1.**
@@ -105,7 +105,7 @@ volume basso prima di usarlo dal vivo.  Licenza: vedi [LICENSE](LICENSE).
 
 **Your LiveTrak, with a sound engineer inside.**  AutoFonic Mixer controls the ZOOM LiveTrak **L12next** and
 **L-20** from **Linux, Windows or Mac**, runs a full-screen sound check and balances the mix while you play,
-analysing the audio of **every channel**.  The program is in **English and Italian** (button "Language").
+analysing the audio of **every channel**.  The program is in **English, Italian, French, Slovenian and Croatian** (menu "Language").
 
 > **AI and sound check need both the USB cable and the ZOOM BTA-1 Bluetooth adapter.**
 
