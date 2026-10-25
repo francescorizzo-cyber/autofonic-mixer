@@ -1,8 +1,10 @@
 # AutoFonic Mixer per ZOOM LiveTrak L12next e L-20
 
+*[English below](#english)*
+
 ![AutoFonic Mixer](immagini/00_copertina.png)
 
-**Il tuo LiveTrak, con un fonico dentro.**  AutoFonic Mixer comanda il mixer da **Linux o Windows**, fa il sound check a
+**Il tuo LiveTrak, con un fonico dentro.**  AutoFonic Mixer comanda il mixer da **Linux, Windows o Mac**, in **italiano o inglese**,, fa il sound check a
 tutto schermo e bilancia il mix mentre suoni, analizzando l'audio di **tutti i canali**.
 
 > **Per AI e sound check servono tutti e due: il cavo USB e l'adattatore Bluetooth ZOOM BTA-1.**
@@ -21,7 +23,11 @@ tutto schermo e bilancia il mix mentre suoni, analizzando l'audio di **tutti i c
   per ogni strumento e le regole musicali (cassa e basso, coppia di overhead, batteria come gruppo).
 - **Tutti i canali**: 10 sul L12next, 18 sul L-20.  Un mic ambientale, su qualsiasi canale, ascolta la sala.
 - **Strumenti al volo**: tocca il nome sotto una striscia e scegli cassa, rullante, tom, overhead, voce,
-  basso...  AI e sound check si adeguano subito.
+  basso, tastiera, lettore/base (mp3, computer, telefono)...  AI e sound check si adeguano subito.
+- **Rispetta il tuo mixer**: non cambia mai scena da solo, non tocca monitor ne' master; a fine sound check
+  scegli tu in quale scena salvare.
+- **Si vede dal banco**: quando si collega, i MUTE del L12next si accendono in sequenza e tornano com'erano
+  (solo in silenzio, mai mentre suonate).
 - **Finestra Stato**: cosa sta facendo il programma adesso, i canali con livello, gain e fader, e il diario
   in diretta di ogni correzione.
 
@@ -43,6 +49,9 @@ tutto schermo e bilancia il mix mentre suoni, analizzando l'audio di **tutti i c
 
 L6 e L-8 non sono supportati: non hanno il BTA-1.
 
+**Hai un L-20?** Aiutami a verificarlo: apri il programma, premi **Prova mixer**, fai le prove guidate
+(canali audio e comandi) e manda il rapporto che salva sulla Scrivania all'indirizzo qui sotto.
+
 ## DEMO e versione completa
 
 Qui trovi la **DEMO gratuita** (nelle [Release](../../releases)).
@@ -50,9 +59,10 @@ Qui trovi la **DEMO gratuita** (nelle [Release](../../releases)).
 | | DEMO | Completa |
 |---|---|---|
 | Comandi del mixer (strisce, mandate, scene, registratore) | si | si |
-| Sound check | primi 2 canali, senza mix check | tutti i canali, 4 fasi |
-| AI Assist | 10 minuti a sessione | sempre |
-| AI Auto | no | si |
+| Primi 14 giorni | **tutto come la completa** | - |
+| Sound check (dopo 14 giorni) | primi 2 canali, senza mix check | tutti i canali, 4 fasi |
+| AI Assist (dopo 14 giorni) | 10 minuti a sessione | sempre |
+| AI Auto (dopo 14 giorni) | no | si |
 | Finestra Stato, strumenti al volo | si | si |
 
 **Per la versione completa scrivi a: autofonic.mixer@gmail.com**
@@ -88,3 +98,36 @@ Nelle [Release](../../releases) trovi la DEMO per i due sistemi:
 Progetto indipendente, **non affiliato, sponsorizzato o approvato da ZOOM Corporation**.  ZOOM, LiveTrak,
 L12next, L-20 e BTA-1 sono marchi di ZOOM Corporation.  Il programma e' fornito senza garanzia: provalo a
 volume basso prima di usarlo dal vivo.  Licenza: vedi [LICENSE](LICENSE).
+
+---
+
+## English
+
+**Your LiveTrak, with a sound engineer inside.**  AutoFonic Mixer controls the ZOOM LiveTrak **L12next** and
+**L-20** from **Linux, Windows or Mac**, runs a full-screen sound check and balances the mix while you play,
+analysing the audio of **every channel**.  The program is in **English and Italian** (button "Language").
+
+> **AI and sound check need both the USB cable and the ZOOM BTA-1 Bluetooth adapter.**
+
+- **The whole mixer on screen**: strips, sends, scenes, recorder, master; full channel with gain, comp, EQ.
+- **Full-screen sound check** in 4 phases: room silence, line check (gain, sound, drum phase), mix check,
+  save to the scene you choose.
+- **AI Studio / Live**: *Assist* suggests fader positions, *Auto* corrects them while you play.
+- **Respects your mixer**: never changes scene by itself, never touches monitor sends or master.
+- **Instruments on the fly**, including a **player / backing track** (mp3, computer, phone).
+- **Test mixer**: guided tests and a report to send when something does not work.
+
+| Mixer | Commands | AI | Sound check |
+|---|---|---|---|
+| ZOOM LiveTrak **L12next** | USB + Bluetooth (BTA-1), verified | Assist and Auto | full (automatic gain) |
+| ZOOM LiveTrak **L-20** | being tested | Assist (recommended faders) | advice (you turn the gain) |
+
+**Download** the free **DEMO** from the [Releases](../../releases): Windows 10/11 (`...-windows-x64-setup.exe`,
+install the ZOOM driver first), Linux (`...-linux-x86_64.tar.gz`, then `sh installa.sh`), Mac Apple Silicon
+(`...-mac-arm64.dmg`, being tested).  The DEMO works **fully for 14 days**; after that: sound check on the first
+2 channels without mix check, AI Assist 10 minutes per session, no AI Auto.
+
+**Full version: autofonic.mixer@gmail.com**
+
+Independent project, not affiliated with ZOOM Corporation.  ZOOM, LiveTrak, L12next, L-20 and BTA-1 are
+trademarks of ZOOM Corporation.  License: see [LICENSE](LICENSE).
