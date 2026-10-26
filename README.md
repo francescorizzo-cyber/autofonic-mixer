@@ -4,7 +4,8 @@
 
 ![AutoFonic Mixer](immagini/00_copertina.png)
 
-**Il tuo LiveTrak, con un fonico dentro.**  AutoFonic Mixer comanda il mixer da **Linux, Windows o Mac**, in **10 lingue** (italiano, inglese, francese, spagnolo, tedesco, portoghese, svedese, danese, sloveno,
+**Il tuo LiveTrak, con un fonico dentro.**  AutoFonic Mixer comanda il mixer da **Linux, Windows o Mac**, e ora
+anche dal **telefono o tablet Android**, in **10 lingue** (italiano, inglese, francese, spagnolo, tedesco, portoghese, svedese, danese, sloveno,
 croato), fa il sound check a tutto schermo e bilancia il mix mentre suoni, analizzando l'audio di **tutti i canali**.
 
 > **Per AI e sound check servono tutti e due: il cavo USB e l'adattatore Bluetooth ZOOM BTA-1.**
@@ -33,6 +34,9 @@ croato), fa il sound check a tutto schermo e bilancia il mix mentre suoni, anali
 - **Accordatore** (nuovo nella 2.6): chitarra e basso (accordatura standard, Drop D, mezzo tono sotto...) e
   batteria passo passo: tiranti uguali sulla battente e sulla risonante, poi la nota di ogni tamburo per lo
   stile che scegli (jazz, medio, rock).
+- **App per Android** (nuova nella 2.7): telefono e tablet, via Bluetooth (BTA-1).  Fader, mute, solo, pan,
+  mandate ai monitor, pagina del canale con gain, compressore, EQ a 3 bande (con la curva), low cut ed effetto,
+  scene del L12next, strumenti e nomi per ogni canale, 10 lingue.
 - **Finestra Stato**: cosa sta facendo il programma adesso, i canali con livello, gain e fader, e il diario
   in diretta di ogni correzione.
 
@@ -63,28 +67,28 @@ Qui trovi la **DEMO gratuita** (nelle [Release](../../releases)).
 
 | | DEMO | Completa |
 |---|---|---|
-| Comandi del mixer (strisce, mandate, scene, registratore) | si | si |
-| Primi 14 giorni | **tutto come la completa** | - |
-| Sound check (dopo 14 giorni) | primi 2 canali, senza mix check | tutti i canali, 4 fasi |
-| AI Assist (dopo 14 giorni) | 10 minuti a sessione | sempre |
-| AI Auto (dopo 14 giorni) | no | si |
-| Esporta SD | tutto per 7 giorni, poi solo tracce WAV | tutto (tracce, master, mix, MP3) |
-| Accordatore | 7 giorni | sempre |
-| Finestra Stato, strumenti al volo | si | si |
+| Programma per PC | **tutto come la completa per 14 giorni**, poi non comanda più il mixer | sempre |
+| Esporta SD (PC) | tutto per 7 giorni, poi solo tracce WAV | tutto (tracce, master, mix, MP3) |
+| Accordatore (PC) | 7 giorni | sempre |
+| App Android | **tutto per 7 giorni**, poi non comanda più il mixer | sempre |
 
-**Versione completa: con un'offerta libera, anche minima, per sostenere il progetto** su
-**[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**, poi scrivi a **autofonic.mixer@gmail.com**
-e ricevi la versione completa.
+**Versione completa: con un'offerta libera, anche minima, per sostenere il progetto.**
+1. Fai l'offerta su **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**.
+2. Scrivi a **autofonic.mixer@gmail.com** il **codice del tuo PC o telefono** (8 caratteri): nella DEMO lo
+   trovi con il pulsante **🔑 Sblocca** (PC) o toccando **DEMO** (Android).
+3. Ricevi il **codice di sblocco** (12 caratteri): inseriscilo nello stesso punto e la DEMO diventa la
+   versione **completa**, senza scaricare niente.  Il codice vale per quel PC o quel telefono.
 
 ## Download
 
-Nelle [Release](../../releases) trovi la DEMO per tre sistemi:
+Nelle [Release](../../releases) trovi la DEMO per quattro sistemi:
 
 | Sistema | File |
 |---|---|
 | Windows 10 / 11 (64 bit) | `AutoFonicMixer-DEMO-<versione>-windows-x64-setup.exe` |
 | Linux (Ubuntu / Debian, 64 bit) | `AutoFonicMixer-DEMO-<versione>-linux-x86_64.tar.gz` |
 | Mac (Apple Silicon, in prova) | `AutoFonicMixer-DEMO-<versione>-mac-arm64.dmg` (prima volta: tasto destro → Apri) |
+| Android 8 o più recente (telefono, tablet) | `AutoFonicMixer-DEMO-<versione>-android.apk` |
 
 ## Installazione su Windows
 
@@ -102,6 +106,19 @@ Nelle [Release](../../releases) trovi la DEMO per tre sistemi:
 3. Esci dalla sessione e rientra.
 4. Avvia: `autofonic-mixer` (oppure `autofonic-mixer L20`), o dal menu "AutoFonic Mixer".
 5. Accendi il mixer, attacca il cavo USB e il BTA-1: il programma li trova **da solo** (USB, audio e Bluetooth) e si ricollega se il cavo si stacca.
+
+## Installazione su Android
+
+1. Dal telefono apri la pagina delle [Release](../../releases) e scarica `AutoFonicMixer-DEMO-...-android.apk`.
+2. Aprilo: Android chiede di **consentire l'installazione** da questa fonte (browser o file): consenti e
+   installa.
+3. Inserisci il **BTA-1** nel mixer **prima di accenderlo**, chiudi l'app ZOOM (il BTA-1 accetta un solo
+   collegamento) e apri **AutoFonic Mixer**: consenti "Dispositivi nelle vicinanze" e il collegamento parte da
+   solo.
+4. Tocca il **nome in cima a una striscia** per la pagina del canale (gain, comp, EQ...), **Canali** per gli
+   strumenti, **🎬 Scene** per le scene, **🌐** per la lingua.
+
+Il L-20 sull'app Android è **in prova**: se qualcosa non va, premi **Rapporto** e mandamelo.
 
 ## Comandare il mixer da un'altra stanza
 
@@ -126,7 +143,7 @@ volume basso prima di usarlo dal vivo.  Licenza: vedi [LICENSE](LICENSE).
 ## English
 
 **Your LiveTrak, with a sound engineer inside.**  AutoFonic Mixer controls the ZOOM LiveTrak **L12next** and
-**L-20** from **Linux, Windows or Mac**, runs a full-screen sound check and balances the mix while you play,
+**L-20** from **Linux, Windows or Mac**, and now also from an **Android phone or tablet**, runs a full-screen sound check and balances the mix while you play,
 analysing the audio of **every channel**.  The program is in **10 languages**: English, Italian, French, Spanish, German, Portuguese, Swedish, Danish,
 Slovenian and Croatian (menu "Language").
 
@@ -141,6 +158,9 @@ Slovenian and Croatian (menu "Language").
 - **SD export** (new in 2.6): the recordings on the mixer's SD card as WAV tracks named after the channel,
   the master as WAV or MP3 and a stereo mix of the tracks.
 - **Tuner** (new in 2.6): guitar, bass and drums (lugs even on both heads, then the note of each drum).
+- **Android app** (new in 2.7): phone and tablet over Bluetooth (BTA-1): faders, mute, solo, pan, monitor
+  sends, channel page with gain, comp, 3-band EQ (with its curve), low cut and effect, L12next scenes,
+  instruments and names for each channel, 10 languages.
 - **Test mixer**: guided tests and a report to send when something does not work.
 
 | Mixer | Commands | AI | Sound check |
@@ -152,13 +172,16 @@ Slovenian and Croatian (menu "Language").
 
 **Download** the free **DEMO** from the [Releases](../../releases): Windows 10/11 (`...-windows-x64-setup.exe`,
 install the ZOOM driver first), Linux (`...-linux-x86_64.tar.gz`, then `sh installa.sh`), Mac Apple Silicon
-(`...-mac-arm64.dmg`, being tested).  The DEMO works **fully for 14 days**; after that: sound check on the first
-2 channels without mix check, AI Assist 10 minutes per session, no AI Auto.  SD export: everything for 7 days,
-then WAV tracks only.  Tuner: 7 days.
+(`...-mac-arm64.dmg`, being tested), Android 8 or newer (`...-android.apk`: download it on the phone, allow the
+installation, plug the BTA-1 in before switching the desk on, close the ZOOM app).  The PC DEMO works **fully
+for 14 days**, the Android DEMO for **7 days**; after that they no longer control the mixer.  SD export and tuner
+(PC): 7 days.
 
-**Full version: with a free donation, even a small one, to support the project** at
+**Full version: with a free donation, even a small one, to support the project.**  Donate at
 **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**, then write to **autofonic.mixer@gmail.com**
-and you will receive the full version.
+with the **code of your PC or phone** (8 characters: **🔑 Unlock** button on the PC, tap **DEMO** on Android).
+You receive an **unlock code** (12 characters): enter it in the same place and the DEMO becomes the **full
+version**, nothing to download.  The code works for that PC or phone.
 
 **Controlling the desk from another room** (soundproofed studio): the BTA-1 Bluetooth has a short range and
 soundproofing blocks it.  Best option: a small computer next to the desk on the USB cable, running AutoFonic
