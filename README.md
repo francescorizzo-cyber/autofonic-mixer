@@ -4,8 +4,8 @@
 
 ![AutoFonic Mixer](immagini/00_copertina.png)
 
-**Il tuo LiveTrak, con un fonico dentro.**  AutoFonic Mixer comanda il mixer da **Linux, Windows o Mac**, in **italiano, inglese, francese, sloveno o croato**,, fa il sound check a
-tutto schermo e bilancia il mix mentre suoni, analizzando l'audio di **tutti i canali**.
+**Il tuo LiveTrak, con un fonico dentro.**  AutoFonic Mixer comanda il mixer da **Linux, Windows o Mac**, in **10 lingue** (italiano, inglese, francese, spagnolo, tedesco, portoghese, svedese, danese, sloveno,
+croato), fa il sound check a tutto schermo e bilancia il mix mentre suoni, analizzando l'audio di **tutti i canali**.
 
 > **Per AI e sound check servono tutti e due: il cavo USB e l'adattatore Bluetooth ZOOM BTA-1.**
 > Il cavo USB porta l'audio di ogni canale e i comandi; il BTA-1 porta lo stato completo del mixer (gain e
@@ -28,6 +28,11 @@ tutto schermo e bilancia il mix mentre suoni, analizzando l'audio di **tutti i c
   scegli tu in quale scena salvare.
 - **Si vede dal banco**: quando si collega, i MUTE del L12next si accendono in sequenza e tornano com'erano
   (solo in silenzio, mai mentre suonate).
+- **Esporta SD** (nuovo nella 2.6): le registrazioni della scheda SD del mixer diventano tracce WAV col nome
+  del canale ("03 Tom.wav"), il master in WAV o MP3 e un mix stereo dalle tracce, in WAV o MP3.
+- **Accordatore** (nuovo nella 2.6): chitarra e basso (accordatura standard, Drop D, mezzo tono sotto...) e
+  batteria passo passo: tiranti uguali sulla battente e sulla risonante, poi la nota di ogni tamburo per lo
+  stile che scegli (jazz, medio, rock).
 - **Finestra Stato**: cosa sta facendo il programma adesso, i canali con livello, gain e fader, e il diario
   in diretta di ogni correzione.
 
@@ -63,6 +68,8 @@ Qui trovi la **DEMO gratuita** (nelle [Release](../../releases)).
 | Sound check (dopo 14 giorni) | primi 2 canali, senza mix check | tutti i canali, 4 fasi |
 | AI Assist (dopo 14 giorni) | 10 minuti a sessione | sempre |
 | AI Auto (dopo 14 giorni) | no | si |
+| Esporta SD | tutto per 7 giorni, poi solo tracce WAV | tutto (tracce, master, mix, MP3) |
+| Accordatore | 7 giorni | sempre |
 | Finestra Stato, strumenti al volo | si | si |
 
 **Versione completa: con un'offerta libera, anche minima, per sostenere il progetto** su
@@ -71,12 +78,13 @@ e ricevi la versione completa.
 
 ## Download
 
-Nelle [Release](../../releases) trovi la DEMO per i due sistemi:
+Nelle [Release](../../releases) trovi la DEMO per tre sistemi:
 
 | Sistema | File |
 |---|---|
 | Windows 10 / 11 (64 bit) | `AutoFonicMixer-DEMO-<versione>-windows-x64-setup.exe` |
 | Linux (Ubuntu / Debian, 64 bit) | `AutoFonicMixer-DEMO-<versione>-linux-x86_64.tar.gz` |
+| Mac (Apple Silicon, in prova) | `AutoFonicMixer-DEMO-<versione>-mac-arm64.dmg` (prima volta: tasto destro → Apri) |
 
 ## Installazione su Windows
 
@@ -107,7 +115,8 @@ volume basso prima di usarlo dal vivo.  Licenza: vedi [LICENSE](LICENSE).
 
 **Your LiveTrak, with a sound engineer inside.**  AutoFonic Mixer controls the ZOOM LiveTrak **L12next** and
 **L-20** from **Linux, Windows or Mac**, runs a full-screen sound check and balances the mix while you play,
-analysing the audio of **every channel**.  The program is in **English, Italian, French, Slovenian and Croatian** (menu "Language").
+analysing the audio of **every channel**.  The program is in **10 languages**: English, Italian, French, Spanish, German, Portuguese, Swedish, Danish,
+Slovenian and Croatian (menu "Language").
 
 > **AI and sound check need both the USB cable and the ZOOM BTA-1 Bluetooth adapter.**
 
@@ -117,6 +126,9 @@ analysing the audio of **every channel**.  The program is in **English, Italian,
 - **AI Studio / Live**: *Assist* suggests fader positions, *Auto* corrects them while you play.
 - **Respects your mixer**: never changes scene by itself, never touches monitor sends or master.
 - **Instruments on the fly**, including a **player / backing track** (mp3, computer, phone).
+- **SD export** (new in 2.6): the recordings on the mixer's SD card as WAV tracks named after the channel,
+  the master as WAV or MP3 and a stereo mix of the tracks.
+- **Tuner** (new in 2.6): guitar, bass and drums (lugs even on both heads, then the note of each drum).
 - **Test mixer**: guided tests and a report to send when something does not work.
 
 | Mixer | Commands | AI | Sound check |
@@ -129,7 +141,8 @@ analysing the audio of **every channel**.  The program is in **English, Italian,
 **Download** the free **DEMO** from the [Releases](../../releases): Windows 10/11 (`...-windows-x64-setup.exe`,
 install the ZOOM driver first), Linux (`...-linux-x86_64.tar.gz`, then `sh installa.sh`), Mac Apple Silicon
 (`...-mac-arm64.dmg`, being tested).  The DEMO works **fully for 14 days**; after that: sound check on the first
-2 channels without mix check, AI Assist 10 minutes per session, no AI Auto.
+2 channels without mix check, AI Assist 10 minutes per session, no AI Auto.  SD export: everything for 7 days,
+then WAV tracks only.  Tuner: 7 days.
 
 **Full version: with a free donation, even a small one, to support the project** at
 **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**, then write to **autofonic.mixer@gmail.com**
