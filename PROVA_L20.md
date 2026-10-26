@@ -25,7 +25,16 @@ da mandarmi per email.
 - **Mac**: apri il `.dmg` e trascina l'app in Applicazioni.  La prima volta: tasto destro → *Apri*.  Consenti
   **microfono** (serve per leggere l'audio USB del mixer) e **Bluetooth**.
 
-## 2. Collega
+## 2. Prepara il L-20 (dal manuale ZOOM) - a mixer SPENTO
+
+Questi interruttori sul retro si leggono solo all'accensione: impostali **prima** di accendere.
+- **MODE** su **AUDIO INTERFACE** (non CARD READER, non USB HOST).
+- **SAMPLE RATE** su **44.1 o 48 kHz**: a 96 kHz l'interfaccia audio USB non funziona.
+- **CLASS COMPLIANT MODE**: su **Linux** e **Mac** mettilo su **ON** (su Linux non esiste il driver ZOOM; sul Mac
+  con ON non serve il driver).  Su **Windows** lascialo su OFF e usa il driver ZOOM.
+- Inserisci il **BTA-1 prima di accendere** il mixer: il manuale dice che va collegato a mixer spento.
+
+## 3. Collega
 
 1. Apri AutoFonic Mixer e in alto a sinistra scegli **L20**.
 2. Accendi il L-20, collega il cavo USB e il BTA-1.  Chiudi l'app ZOOM sul telefono (il mixer accetta un solo
@@ -35,7 +44,7 @@ da mandarmi per email.
 
 Fai una **foto dello schermo** in questo momento: serve per vedere cosa ha trovato.
 
-## 3. Prova mixer (il pulsante in alto)
+## 4. Prova mixer (il pulsante in alto)
 
 1. **Prova canali audio**: il programma ti dice "suona solo nel CH1", poi CH2...  Suona o parla **solo** in
    quel canale: il programma vede da solo quale canale USB si accende.  Per i canali senza niente collegato
@@ -47,17 +56,17 @@ Fai una **foto dello schermo** in questo momento: serve per vedere cosa ha trova
 3. **Salva rapporto**: crea il file `AutoFonicMixer_rapporto_L20_<data>.zip` sulla **Scrivania** (o nella
    tua cartella utente).
 
-## 4. Se hai tempo: altre due prove
+## 5. Se hai tempo: altre due prove
 
 - **Sound check**: premi *Sound check* e segui le fasi con quello che hai collegato.  Dimmi se i consigli
   ("alza", "abbassa", "fermati qui") corrispondono a quello che senti.
-- **Esporta SD**: registra qualche secondo sulla SD del L-20, poi metti la SD nel computer e premi
-  **Esporta SD**.  Fai una **foto dell'elenco dei file** dentro la cartella della registrazione sulla SD (es.
+- **Esporta SD**: registra qualche secondo sulla SD del L-20, poi metti la SD nel computer (oppure spegni il
+  mixer, metti MODE su **CARD READER** e riaccendi) e premi **Esporta SD**.  Fai una **foto dell'elenco dei file** dentro la cartella della registrazione sulla SD (es.
   `PROJECT/251025_203000`): mi serve per sapere come il L-20 chiama i file.
 
-Dopo queste prove salva di nuovo il rapporto (punto 3): così contiene tutto.
+Dopo queste prove salva di nuovo il rapporto (punto 4): così contiene tutto.
 
-## 5. Cosa mandarmi
+## 6. Cosa mandarmi
 
 Scrivi a **autofonic.mixer@gmail.com**, oggetto **"Prova L-20"**, e allega:
 
@@ -90,15 +99,19 @@ have it), something plugged into the channels (a mic, a guitar, an mp3 player), 
 1. **Install** - Windows: install the **ZOOM L-20 driver** first, then the setup.exe (do not pair the BTA-1 in
    Windows settings).  Linux: unpack, `sh installa.sh`, log out and in.  Mac: open the .dmg, drag the app to
    Applications, first time right click → Open, allow microphone and Bluetooth.
-2. **Connect** - choose **L20** at the top left, switch on the L-20, plug in USB and BTA-1, close the ZOOM
+2. **Prepare the L-20 (from ZOOM's manual), with the desk OFF** - the rear switches are read only at power-on:
+   **MODE** on **AUDIO INTERFACE**; **SAMPLE RATE** 44.1 or 48 kHz (USB audio does not work at 96 kHz);
+   **CLASS COMPLIANT MODE** **ON** on **Linux** and **Mac** (there is no ZOOM driver for Linux), OFF on Windows
+   with the ZOOM driver; plug the **BTA-1 in before switching on**.
+3. **Connect** - choose **L20** at the top left, switch on the L-20, plug in USB and BTA-1, close the ZOOM
    phone app, wait a minute, press **Read mixer state**.  Take a **screenshot**.
-3. **Test mixer** (button at the top) - **Audio channel test** (play only into the channel it asks; *Skip* for
+4. **Test mixer** (button at the top) - **Audio channel test** (play only into the channel it asks; *Skip* for
    empty channels; *Save the order* at the end if it is different), **Command test** (do what it asks on the
    mixer, then answer Yes/No when it tries MUTE and SOLO), **Save report**: it creates
    `AutoFonicMixer_rapporto_L20_<date>.zip` on the **Desktop**.
-4. **If you have time** - try the **Sound check**, and **SD export** with a short recording: take a
+5. **If you have time** - try the **Sound check**, and **SD export** with a short recording (SD card in the PC, or MODE on CARD READER): take a
    **screenshot of the file list** inside the recording folder on the SD card.  Then save the report again.
-5. **Email** to **autofonic.mixer@gmail.com**, subject **"L-20 test"**: the **zip** file, the **screenshots**,
+6. **Email** to **autofonic.mixer@gmail.com**, subject **"L-20 test"**: the **zip** file, the **screenshots**,
    and two lines: your system (**Windows / Linux / Mac** and version) and what worked and what did not.
 
 The zip only contains technical data of the program and the mixer (ports and audio devices found, messages
