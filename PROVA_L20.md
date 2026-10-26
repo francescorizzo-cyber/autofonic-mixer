@@ -66,6 +66,17 @@ Fai una **foto dello schermo** in questo momento: serve per vedere cosa ha trova
 
 Dopo queste prove salva di nuovo il rapporto (punto 4): così contiene tutto.
 
+## Se qualcosa non va
+
+| Cosa vedi | Cosa fare |
+|---|---|
+| **"Nessun L-20 trovato" sull'USB, meter spenti, "Audio assente"** | A mixer spento metti **MODE** su AUDIO INTERFACE e **SAMPLE RATE** a 44.1 o 48 kHz.  Su **Linux** e **Mac** metti **CLASS COMPLIANT MODE su ON**; su **Windows** installa il driver ZOOM del L-20.  Poi riaccendi. |
+| **Muovi i fader via Bluetooth ma l'USB resta "non collegato"** | Normale per i comandi: sul L-20 passano solo dal Bluetooth (BTA-1).  Conta l'**audio** USB: se il riquadro "Audio" non diventa verde, vedi la riga sopra. |
+| **Il Bluetooth non trova il L-20** | Spegni il mixer, inserisci il **BTA-1**, riaccendi.  Chiudi l'app ZOOM su iPad/telefono (il BTA-1 accetta un solo collegamento).  Avvicina il computer: muri e pareti insonorizzate bloccano il segnale. |
+| **"Esporta SD" non trova le registrazioni** | Premi "Scegli cartella..." e indica la SD o la cartella FOLDER01...  (oppure MODE su CARD READER e riaccendi). |
+
+In ogni caso salva il rapporto (punto 4) e mandamelo: anche un rapporto di "non funziona" mi aiuta.
+
 ## 6. Cosa mandarmi
 
 Scrivi a **autofonic.mixer@gmail.com**, oggetto **"Prova L-20"**, e allega:
@@ -113,6 +124,18 @@ have it), something plugged into the channels (a mic, a guitar, an mp3 player), 
    **screenshot of the file list** inside the recording folder on the SD card.  Then save the report again.
 6. **Email** to **autofonic.mixer@gmail.com**, subject **"L-20 test"**: the **zip** file, the **screenshots**,
    and two lines: your system (**Windows / Linux / Mac** and version) and what worked and what did not.
+
+**If something does not work**
+- **"No L-20 found" on USB, no meters, "No audio"**: with the desk OFF set **MODE** to AUDIO INTERFACE and **SAMPLE
+  RATE** to 44.1 or 48 kHz.  On **Linux** and **Mac** set **CLASS COMPLIANT MODE ON**; on **Windows** install the
+  ZOOM L-20 driver.  Then switch on again.
+- **Faders move over Bluetooth but USB stays "not connected"**: normal for commands, on the L-20 they only go
+  through the BTA-1.  What matters is the USB **audio**: if the "Audio" box does not turn green, see above.
+- **Bluetooth does not find the L-20**: switch the desk off, plug in the **BTA-1**, switch on.  Close the ZOOM app
+  on iPad/phone (one connection only).  Move the computer closer: walls and soundproofing block the signal.
+- **SD export finds no recordings**: press "Choose folder..." and pick the SD card or a FOLDER01... folder.
+
+Save the report anyway and send it: a "it doesn't work" report helps too.
 
 The zip only contains technical data of the program and the mixer (ports and audio devices found, messages
 exchanged with the mixer, the program log, your answers to the tests): no personal files.
