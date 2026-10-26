@@ -103,6 +103,18 @@ Nelle [Release](../../releases) trovi la DEMO per tre sistemi:
 4. Avvia: `autofonic-mixer` (oppure `autofonic-mixer L20`), o dal menu "AutoFonic Mixer".
 5. Accendi il mixer, attacca il cavo USB e il BTA-1: il programma li trova **da solo** (USB, audio e Bluetooth) e si ricollega se il cavo si stacca.
 
+## Comandare il mixer da un'altra stanza
+
+Studio insonorizzato e regia in un'altra stanza?
+- **Bluetooth (BTA-1)**: ha poca portata e un muro insonorizzato lo blocca quasi del tutto.  Si può provare un
+  adattatore Bluetooth USB su una prolunga corta, il più vicino possibile alla sala.  Dà solo i comandi
+  (fader, mute, scene), non l'audio dei canali.
+- **Soluzione migliore**: un piccolo computer accanto al mixer (un vecchio portatile o un mini PC), collegato con
+  il cavo USB e con AutoFonic Mixer acceso.  Dall'altra stanza lo comandi via **Wi-Fi con il desktop remoto**
+  (Desktop remoto di Windows, Chrome Remote Desktop, AnyDesk...): hai tutto, senza cavi tra le stanze.
+- Per **ascoltare** dalla regia serve comunque un collegamento audio: cuffie senza fili su un'uscita monitor,
+  oppure un programma di ascolto a distanza sullo stesso computer.
+
 ## Avvertenze
 
 Progetto indipendente, **non affiliato, sponsorizzato o approvato da ZOOM Corporation**.  ZOOM, LiveTrak,
@@ -147,6 +159,11 @@ then WAV tracks only.  Tuner: 7 days.
 **Full version: with a free donation, even a small one, to support the project** at
 **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**, then write to **autofonic.mixer@gmail.com**
 and you will receive the full version.
+
+**Controlling the desk from another room** (soundproofed studio): the BTA-1 Bluetooth has a short range and
+soundproofing blocks it.  Best option: a small computer next to the desk on the USB cable, running AutoFonic
+Mixer, controlled from the other room over **Wi-Fi with remote desktop** (Windows Remote Desktop, Chrome Remote
+Desktop, AnyDesk...).  To listen you still need an audio link (e.g. wireless headphones on a monitor out).
 
 Independent project, not affiliated with ZOOM Corporation.  ZOOM, LiveTrak, L12next, L-20 and BTA-1 are
 trademarks of ZOOM Corporation.  License: see [LICENSE](LICENSE).
