@@ -73,6 +73,7 @@ Dopo queste prove salva di nuovo il rapporto (punto 4): così contiene tutto.
 | **"Nessun L-20 trovato" sull'USB, meter spenti, "Audio assente"** | A mixer spento metti **MODE** su AUDIO INTERFACE e **SAMPLE RATE** a 44.1 o 48 kHz.  Su **Linux** e **Mac** metti **CLASS COMPLIANT MODE su ON**; su **Windows** installa il driver ZOOM del L-20.  Poi riaccendi. |
 | **Muovi i fader via Bluetooth ma l'USB resta "non collegato"** | Normale per i comandi: sul L-20 passano solo dal Bluetooth (BTA-1).  Conta l'**audio** USB: se il riquadro "Audio" non diventa verde, vedi la riga sopra. |
 | **Il Bluetooth non trova il L-20** | Spegni il mixer, inserisci il **BTA-1**, riaccendi.  Chiudi l'app ZOOM su iPad/telefono (il BTA-1 accetta un solo collegamento).  Avvicina il computer: muri e pareti insonorizzate bloccano il segnale. |
+| **Linux in tedesco (o altra lingua): il sistema vede il L-20 (es. "L-20 Mehrkanal") ma il programma dice "audio USB non trovato"** | Fino alla 2.6 il programma non capiva l'elenco delle schede audio scritto in una lingua diversa da inglese e italiano.  Avvialo dal terminale così: `LC_ALL=C ~/.local/bin/autofonic-mixer L20` (dalla 2.7 non serve più). |
 | **"Esporta SD" non trova le registrazioni** | Premi "Scegli cartella..." e indica la SD o la cartella FOLDER01...  (oppure MODE su CARD READER e riaccendi). |
 
 In ogni caso salva il rapporto (punto 4) e mandamelo: anche un rapporto di "non funziona" mi aiuta.
@@ -133,6 +134,10 @@ have it), something plugged into the channels (a mic, a guitar, an mp3 player), 
   through the BTA-1.  What matters is the USB **audio**: if the "Audio" box does not turn green, see above.
 - **Bluetooth does not find the L-20**: switch the desk off, plug in the **BTA-1**, switch on.  Close the ZOOM app
   on iPad/phone (one connection only).  Move the computer closer: walls and soundproofing block the signal.
+- **Linux in German (or another language): the system sees the L-20 (e.g. "L-20 Mehrkanal") but the program says
+  "USB audio not found"**: up to 2.6 the program did not understand the sound card list written in a language other
+  than English or Italian.  Start it from a terminal like this: `LC_ALL=C ~/.local/bin/autofonic-mixer L20` (not
+  needed from 2.7 on).
 - **SD export finds no recordings**: press "Choose folder..." and pick the SD card or a FOLDER01... folder.
 
 Save the report anyway and send it: a "it doesn't work" report helps too.
