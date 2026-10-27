@@ -11,7 +11,10 @@ nessun dato personale**.
   scambiare con lui i comandi (fader, mute, EQ, scene...).  Non cerca la tua posizione: su Android 12 e
   successivi il permesso "Dispositivi nelle vicinanze" è dichiarato *senza uso della posizione*; su Android 8-11
   il sistema chiede il permesso di posizione solo perché è obbligatorio per cercare dispositivi Bluetooth.
-- **Impostazioni**: nomi dei canali, strumenti, nomi delle scene, lingua e data di inizio della prova restano
+- **Microfono** (dalla 2.8, solo se apri la caccia ai fischi o l'accordatore): il suono si analizza **sul
+  telefono, in tempo reale**, per trovare la frequenza di un fischio o la nota suonata.  Non viene registrato,
+  salvato o mandato a nessuno.  Il microfono si spegne quando chiudi la finestra.
+- **Impostazioni**: nomi dei canali, strumenti, nomi delle scene, setup salvati, lingua e data di inizio della prova restano
   **solo sul tuo dispositivo**.
 - **Acquisti (Google Play)**: il pagamento è gestito interamente da Google Play.  L'app riceve solo la conferma
   che la versione completa è stata acquistata; nessun dato di pagamento arriva allo sviluppatore tramite l'app.
@@ -31,7 +34,10 @@ data**.
   commands with it (faders, mute, EQ, scenes...).  It does not look for your location: on Android 12 and later the
   "Nearby devices" permission is declared *without location use*; on Android 8-11 the system asks for the location
   permission only because it is required to scan for Bluetooth devices.
-- **Settings**: channel names, instruments, scene names, language and the trial start date stay **only on your
+- **Microphone** (from 2.8, only when you open the feedback finder or the tuner): the sound is analysed **on the
+  phone, in real time**, to find the frequency of a feedback ring or the note being played.  It is not recorded,
+  stored or sent to anyone.  The microphone turns off when you close the window.
+- **Settings**: channel names, instruments, scene names, saved setups, language and the trial start date stay **only on your
   device**.
 - **Purchases (Google Play)**: payment is handled entirely by Google Play.  The app only receives the confirmation
   that the full version was purchased; no payment data reaches the developer through the app.
