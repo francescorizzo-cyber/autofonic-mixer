@@ -4,7 +4,7 @@
 
 ![AutoFonic Mixer](immagini/00_copertina.png)
 
-**Il tuo LiveTrak, con un fonico dentro.**  AutoFonic Mixer comanda il mixer da **Linux, Windows o Mac**, e ora
+**Il tuo LiveTrak, con un fonico dentro.**  AutoFonic Mixer comanda il mixer da **Linux o Windows**, e ora
 anche dal **telefono o tablet Android**, in **10 lingue** (italiano, inglese, francese, spagnolo, tedesco, portoghese, svedese, danese, sloveno,
 croato), fa il sound check a tutto schermo e bilancia il mix mentre suoni, analizzando l'audio di **tutti i canali**.
 
@@ -58,7 +58,7 @@ croato), fa il sound check a tutto schermo e bilancia il mix mentre suoni, anali
 
 L6 e L-8 non sono supportati: non hanno il BTA-1.
 
-**Hai un L-20?** Aiutami a verificarlo su Windows, Linux o Mac: segui la **[procedura di prova per il
+**Hai un L-20?** Aiutami a verificarlo su Windows o Linux: segui la **[procedura di prova per il
 L-20](PROVA_L20.md)** (mezz'ora, il programma ti guida) e mandami per email il file che prepara.
 
 ## DEMO e versione completa
@@ -87,7 +87,6 @@ Nelle [Release](../../releases) trovi la DEMO per quattro sistemi:
 |---|---|
 | Windows 10 / 11 (64 bit) | `AutoFonicMixer-DEMO-<versione>-windows-x64-setup.exe` |
 | Linux (Ubuntu / Debian, 64 bit) | `AutoFonicMixer-DEMO-<versione>-linux-x86_64.tar.gz` |
-| Mac (Apple Silicon, in prova) | `AutoFonicMixer-DEMO-<versione>-mac-arm64.dmg` (prima volta: tasto destro → Apri) |
 | Android 8 o più recente (telefono, tablet) | `AutoFonicMixer-DEMO-<versione>-android.apk` |
 
 ## Installazione su Windows
@@ -143,7 +142,7 @@ volume basso prima di usarlo dal vivo.  Licenza: vedi [LICENSE](LICENSE).
 ## English
 
 **Your LiveTrak, with a sound engineer inside.**  AutoFonic Mixer controls the ZOOM LiveTrak **L12next** and
-**L-20** from **Linux, Windows or Mac**, and now also from an **Android phone or tablet**, runs a full-screen sound check and balances the mix while you play,
+**L-20** from **Linux or Windows**, and now also from an **Android phone or tablet**, runs a full-screen sound check and balances the mix while you play,
 analysing the audio of **every channel**.  The program is in **10 languages**: English, Italian, French, Spanish, German, Portuguese, Swedish, Danish,
 Slovenian and Croatian (menu "Language").
 
@@ -168,11 +167,10 @@ Slovenian and Croatian (menu "Language").
 | ZOOM LiveTrak **L12next** | USB + Bluetooth (BTA-1), verified | Assist and Auto | full (automatic gain) |
 | ZOOM LiveTrak **L-20** | being tested | Assist (recommended faders) | advice (you turn the gain) |
 
-**Do you have an L-20?** Help me test it on Windows, Linux or Mac: follow the **[L-20 test procedure](PROVA_L20.md#english)**.
+**Do you have an L-20?** Help me test it on Windows or Linux: follow the **[L-20 test procedure](PROVA_L20.md#english)**.
 
 **Download** the free **DEMO** from the [Releases](../../releases): Windows 10/11 (`...-windows-x64-setup.exe`,
-install the ZOOM driver first), Linux (`...-linux-x86_64.tar.gz`, then `sh installa.sh`), Mac Apple Silicon
-(`...-mac-arm64.dmg`, being tested), Android 8 or newer (`...-android.apk`: download it on the phone, allow the
+install the ZOOM driver first), Linux (`...-linux-x86_64.tar.gz`, then `sh installa.sh`), Android 8 or newer (`...-android.apk`: download it on the phone, allow the
 installation, plug the BTA-1 in before switching the desk on, close the ZOOM app).  The PC DEMO works **fully
 for 14 days**, the Android DEMO for **7 days**; after that they no longer control the mixer.  SD export and tuner
 (PC): 7 days.
