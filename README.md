@@ -81,13 +81,17 @@ Qui trovi la **DEMO gratuita** (nelle [Release](../../releases)).
 
 ## Download
 
-Nelle [Release](../../releases) trovi la DEMO per quattro sistemi:
+Nelle [Release](../../releases) trovi la DEMO per Windows, Linux e Android (e l'ultima per Mac):
 
 | Sistema | File |
 |---|---|
 | Windows 10 / 11 (64 bit) | `AutoFonicMixer-DEMO-<versione>-windows-x64-setup.exe` |
 | Linux (Ubuntu / Debian, 64 bit) | `AutoFonicMixer-DEMO-<versione>-linux-x86_64.tar.gz` |
 | Android 8 o più recente (telefono, tablet) | `AutoFonicMixer-DEMO-<versione>-android.apk` |
+| Mac (Apple Silicon) - **ultima versione 2.7.0, niente più aggiornamenti** | `AutoFonicMixer-DEMO-2.7.0-mac-arm64.dmg` (prima volta: tasto destro → Apri) |
+
+> **Mac**: la versione per Mac si ferma alla **2.7.0**.  Resta scaricabile e funziona (anche con il codice di
+> sblocco), ma non riceve più aggiornamenti né nuove funzioni.  Non è mai stata provata con un mixer vero.
 
 ## Installazione su Windows
 
@@ -170,7 +174,7 @@ Slovenian and Croatian (menu "Language").
 **Do you have an L-20?** Help me test it on Windows or Linux: follow the **[L-20 test procedure](PROVA_L20.md#english)**.
 
 **Download** the free **DEMO** from the [Releases](../../releases): Windows 10/11 (`...-windows-x64-setup.exe`,
-install the ZOOM driver first), Linux (`...-linux-x86_64.tar.gz`, then `sh installa.sh`), Android 8 or newer (`...-android.apk`: download it on the phone, allow the
+install the ZOOM driver first), Linux (`...-linux-x86_64.tar.gz`, then `sh installa.sh`), Mac Apple Silicon (`AutoFonicMixer-DEMO-2.7.0-mac-arm64.dmg`: **last Mac version, no further updates**), Android 8 or newer (`...-android.apk`: download it on the phone, allow the
 installation, plug the BTA-1 in before switching the desk on, close the ZOOM app).  The PC DEMO works **fully
 for 14 days**, the Android DEMO for **7 days**; after that they no longer control the mixer.  SD export and tuner
 (PC): 7 days.
