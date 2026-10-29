@@ -67,10 +67,10 @@ Qui trovi la **DEMO gratuita** (nelle [Release](../../releases)).
 
 | | DEMO | Completa |
 |---|---|---|
-| Programma per PC | **tutto come la completa per 14 giorni**, poi non comanda più il mixer | sempre |
+| Programma per PC | **tutto come la completa per 14 giorni** | sempre |
 | Esporta SD (PC) | tutto per 7 giorni, poi solo tracce WAV | tutto (tracce, master, mix, MP3) |
 | Accordatore (PC) | 7 giorni | sempre |
-| App Android | **tutto per 7 giorni**, poi non comanda più il mixer | sempre |
+| App Android | **tutto per 7 giorni** | sempre |
 
 **Versione completa: con un'offerta libera, anche minima, per sostenere il progetto.**
 1. Fai l'offerta su **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**.
@@ -176,7 +176,7 @@ Slovenian and Croatian (menu "Language").
 **Download** the free **DEMO** from the [Releases](../../releases): Windows 10/11 (`...-windows-x64-setup.exe`,
 install the ZOOM driver first), Linux (`...-linux-x86_64.tar.gz`, then `sh installa.sh`), Mac Apple Silicon (`AutoFonicMixer-DEMO-2.7.0-mac-arm64.dmg`: **last Mac version, no further updates**), Android 8 or newer (`...-android.apk`: download it on the phone, allow the
 installation, plug the BTA-1 in before switching the desk on, close the ZOOM app).  The PC DEMO works **fully
-for 14 days**, the Android DEMO for **7 days**; after that they no longer control the mixer.  SD export and tuner
+for 14 days**, the Android DEMO for **7 days**.  SD export and tuner
 (PC): 7 days.
 
 **Full version: with a free donation, even a small one, to support the project.**  Donate at
