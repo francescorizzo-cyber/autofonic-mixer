@@ -79,6 +79,22 @@ Qui trovi la **DEMO gratuita** (nelle [Release](../../releases)).
 3. Ricevi il **codice di sblocco** (12 caratteri): inseriscilo nello stesso punto e la DEMO diventa la
    versione **completa**, senza scaricare niente.  Il codice vale per quel PC o quel telefono.
 
+## Personalizzazioni su richiesta
+
+Ogni band, locale o chiesa lavora a modo suo: AutoFonic Mixer si può **adattare su richiesta**.  Qualche esempio:
+
+- **mute di gruppo**: un tasto che spegne più canali (o tutti) insieme, per le pause e i cambi palco;
+- **controllo dal palco di un solo canale**: il cantante o il chitarrista regola dal suo Android solo il suo
+  canale o la sua spia, senza toccare il resto;
+- **fader collegati**: alzi o abbassi più canali insieme (batteria, cori, tastiere) mantenendo le proporzioni;
+- **controlli parziali**: si vedono solo i canali o i comandi che decidi tu (per esempio solo i volumi);
+- **limiti di sicurezza**: un tetto massimo a fader e master, così nessuno alza troppo il volume per sbaglio;
+- **scaletta**: ogni brano richiama la sua scena con un tocco, nell'ordine del concerto;
+- **dissolvenze automatiche** del master e un **tasto "pausa"** (musica di sottofondo accesa, microfoni spenti);
+- nomi, colori e disposizione dei canali come piace a te.
+
+Scrivi a **autofonic.mixer@gmail.com** e racconta cosa ti serve.
+
 ## Download
 
 Nelle [Release](../../releases) trovi la DEMO per Windows, Linux e Android (e l'ultima per Mac):
@@ -189,6 +205,12 @@ for 14 days**, the Android DEMO for **7 days**.  SD export and tuner
 with the **code of your PC or phone** (8 characters: **🔑 Unlock** button on the PC, tap **DEMO** on Android).
 You receive an **unlock code** (12 characters): enter it in the same place and the DEMO becomes the **full
 version**, nothing to download.  The code works for that PC or phone.
+
+**Custom features on request**: every band, venue or church works its own way, so AutoFonic Mixer can be
+**adapted on request**: mute groups (several or all channels at once), stage control of one chosen channel or
+monitor mix from an Android phone, linked faders, partial control (only the channels or controls you choose),
+safety limits on faders and master, a setlist with one scene per song, automatic fades, a "break" button,
+your own names, colours and layout.  Write to **autofonic.mixer@gmail.com** and tell me what you need.
 
 **Controlling the desk from another room** (soundproofed studio): the BTA-1 Bluetooth has a short range and
 soundproofing blocks it.  Best option: a small computer next to the desk on the USB cable, running AutoFonic
