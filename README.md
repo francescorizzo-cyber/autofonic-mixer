@@ -112,6 +112,11 @@ Nelle [Release](../../releases) trovi la DEMO per Windows, Linux e Android (e l'
 
 ## Installazione su Android
 
+**Ora anche su Google Play: [AutoFonic Mixer su Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer)** - si installa e si aggiorna da sola,
+7 giorni di prova completa, poi la versione completa si acquista una volta sola su Google Play (4,99 €).
+
+Oppure, senza Google Play:
+
 1. Dal telefono apri la pagina delle [Release](../../releases) e scarica `AutoFonicMixer-DEMO-...-android.apk`.
 2. Aprilo: Android chiede di **consentire l'installazione** da questa fonte (browser o file): consenti e
    installa.
@@ -174,7 +179,7 @@ Slovenian and Croatian (menu "Language").
 **Do you have an L-20?** Help me test it on Windows or Linux: follow the **[L-20 test procedure](PROVA_L20.md#english)**.
 
 **Download** the free **DEMO** from the [Releases](../../releases): Windows 10/11 (`...-windows-x64-setup.exe`,
-install the ZOOM driver first), Linux (`...-linux-x86_64.tar.gz`, then `sh installa.sh`), Mac Apple Silicon (`AutoFonicMixer-DEMO-2.7.0-mac-arm64.dmg`: **last Mac version, no further updates**), Android 8 or newer (`...-android.apk`: download it on the phone, allow the
+install the ZOOM driver first), Linux (`...-linux-x86_64.tar.gz`, then `sh installa.sh`), Mac Apple Silicon (`AutoFonicMixer-DEMO-2.7.0-mac-arm64.dmg`: **last Mac version, no further updates**), Android 8 or newer (**now on [Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer)**, or `...-android.apk`: download it on the phone, allow the
 installation, plug the BTA-1 in before switching the desk on, close the ZOOM app).  The PC DEMO works **fully
 for 14 days**, the Android DEMO for **7 days**.  SD export and tuner
 (PC): 7 days.
