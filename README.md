@@ -57,8 +57,8 @@ croato), fa il sound check a tutto schermo e bilancia il mix mentre suoni, anali
 | ZOOM LiveTrak **L-20** | in prova | Assist (posizione consigliata dei fader) | a consigli (giri tu il gain) |
 
 **In arrivo con la 2.8 (in prova): ZOOM LiveTrak L6 e L6max** nell'app Android, collegati con il **cavo USB-C**
-(senza BTA-1): volume, mute, pan, EQ, mandate AUX1/AUX2 ed effetti, scene A–C.  **Hai un L6?** Scrivi a
-**autofonic.mixer@gmail.com**: cerco chi lo provi, in cambio della versione completa gratis.
+(senza BTA-1): volume, mute, pan, EQ, mandate AUX1/AUX2 ed effetti, scene A–C.  **Hai un L6?** Segui la **[procedura di prova per il L6](PROVA_L6.md)** e scrivi a
+**autofonic.mixer@gmail.com**: in cambio ricevi la versione completa gratis.
 
 Il L-8 non si può comandare: non ha né MIDI né BTA-1.
 
@@ -197,8 +197,8 @@ Slovenian and Croatian (menu "Language").
 | ZOOM LiveTrak **L-20** | being tested | Assist (recommended faders) | advice (you turn the gain) |
 
 **Coming in 2.8 (being tested): ZOOM LiveTrak L6 and L6max** in the Android app, connected with a **USB-C cable**
-(no BTA-1): level, mute, pan, EQ, AUX1/AUX2 and effect sends, scenes A–C.  **Do you have an L6?** Write to
-**autofonic.mixer@gmail.com**: I'm looking for testers, the full version is free in exchange.  The L-8 cannot be
+(no BTA-1): level, mute, pan, EQ, AUX1/AUX2 and effect sends, scenes A–C.  **Do you have an L6?** See the **[L6 test procedure](PROVA_L6.md#english)** and write to
+**autofonic.mixer@gmail.com**: the full version is free in exchange.  The L-8 cannot be
 controlled (no MIDI, no BTA-1).
 
 **Do you have an L-20?** Help me test it on Windows or Linux: follow the **[L-20 test procedure](PROVA_L20.md#english)**.
