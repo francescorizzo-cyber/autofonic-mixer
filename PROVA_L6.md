@@ -16,10 +16,11 @@ funziona.  **In cambio ricevi la versione completa gratis.**
 Scrivi a **autofonic.mixer@gmail.com** (oggetto **"Prova L6"**): ti mando l'app Android e il programma per PC di
 prova.
 
-**Novità 2.8.1**: dal telefono anche **senza fili**, con un adattatore Bluetooth MIDI (**CME WIDI Jack**) inserito
+**Novità 2.8.1 / 2.8.2**: dal telefono e dal PC anche **senza fili**, con un adattatore Bluetooth MIDI (**CME WIDI Jack**) inserito
 nella presa MIDI del L6 (se il mixer non risponde, sposta l'interruttore della polarità sul WIDI).  Se sul L6 hai
 cambiato il **canale MIDI**, sceglilo uguale nell'app (tocca il nome del mixer → Canale MIDI) e sul PC (pulsante
-**Canale MIDI**).  Nell'app puoi anche **unire due canali in stereo** (🔗).
+**Canale MIDI**).  Nell'app puoi anche **unire due canali in stereo** (🔗).  Sul PC, senza cavo, premi **Bluetooth**: volumi, mute, EQ
+e mandate funzionano; sound check e AI vogliono il cavo USB.
 
 ## 1. Prova con il telefono Android (10 minuti)
 
@@ -66,10 +67,10 @@ it works.  **You get the full version for free in exchange.**
 Windows or Linux PC (on Windows, the ZOOM L6 driver for the audio); something plugged into the channels.  Write to
 **autofonic.mixer@gmail.com** (subject **"L6 test"**) and I'll send you the test app and program.
 
-**New in 2.8.1**: the phone also works **wirelessly** with a Bluetooth MIDI adapter (**CME WIDI Jack**) in the L6's
+**New in 2.8.1 / 2.8.2**: the phone and the PC also work **wirelessly** with a Bluetooth MIDI adapter (**CME WIDI Jack**) in the L6's
 MIDI socket (no response: flip the WIDI polarity switch).  If you changed the L6's **MIDI channel**, set the same in
 the app (tap the mixer name → MIDI channel) and on the PC (**Canale MIDI** button).  The app can also **link two
-channels in stereo** (🔗).
+channels in stereo** (🔗).  On the PC, without the cable, press **Bluetooth** (sound check and AI need the USB cable).
 
 1. **Android (10 minutes)**: open the app, tap the mixer name at the top and choose **ZOOM LiveTrak L6**.  Connect
    the phone to the L6's USB port and switch the desk on ("connected" at the top).  **Turn a few knobs on the L6**:
