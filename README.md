@@ -1,230 +1,222 @@
-# AutoFonic Mixer per ZOOM LiveTrak L12next e L-20
+<div align="center">
 
-*[English below](#english)*
+# 🎛️ AutoFonic Mixer
+
+### Your ZOOM LiveTrak, with a sound engineer inside
+**L12next · L-20 / L-20R · L6 / L6max** — from your **PC** (Windows, Linux, Mac) and your **Android phone**
+
+[![Download](https://img.shields.io/badge/⬇_Download-Windows_·_Linux_·_Mac-ffca28?style=for-the-badge)](../../releases/latest)
+[![Google Play](https://img.shields.io/badge/Google_Play-Android-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer)
+[![Video](https://img.shields.io/badge/▶_Video-1_minute-e53935?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/BZv4WPJ-NJI)
+
+*[Italiano più sotto](#italiano)*
 
 ![AutoFonic Mixer](immagini/00_copertina.png)
 
-**Il tuo LiveTrak, con un fonico dentro.**  AutoFonic Mixer comanda il mixer da **Linux o Windows**, e ora
-anche dal **telefono o tablet Android**, in **10 lingue** (italiano, inglese, francese, spagnolo, tedesco, portoghese, svedese, danese, sloveno,
-croato), fa il sound check a tutto schermo e bilancia il mix mentre suoni, analizzando l'audio di **tutti i canali**.
+</div>
 
-> **Per AI e sound check servono tutti e due: il cavo USB e l'adattatore Bluetooth ZOOM BTA-1.**
-> Il cavo USB porta l'audio di ogni canale e i comandi; il BTA-1 porta lo stato completo del mixer (gain e
-> fader veri).
+AutoFonic Mixer controls your LiveTrak from your **computer** or **phone**, runs a **full-screen sound check**
+(readable even from behind the drums) and **balances the mix while you play**, listening to the audio of
+every channel.  In **10 languages**.
 
-## Cosa fa
+## 🎚️ Supported mixers
 
-- **Tutto il mixer sullo schermo**: strisce con mute, solo, fase, pan, fader e meter; mandate ai monitor,
-  scene, registratore, master.  Canale completo: gain, boost, compressore, low cut, EQ a 3 bande con medi
-  parametrici, effetto e tutte le mandate.
-- **Sound check a tutto schermo**, leggibile dalla batteria, in 4 fasi: silenzio in sala, line check (uno
-  strumento alla volta: gain, suono, fase dei tamburi), mix check (tutta la band: i fader si bilanciano),
-  salvataggio nella scena del mixer.
-- **AI Studio / Live**: *Assist* propone, *Auto* corregge i fader da sola mentre suonate, con i pesi giusti
-  per ogni strumento e le regole musicali (cassa e basso, coppia di overhead, batteria come gruppo).
-- **Tutti i canali**: 10 sul L12next, 18 sul L-20.  Un mic ambientale, su qualsiasi canale, ascolta la sala.
-- **Strumenti al volo**: tocca il nome sotto una striscia e scegli cassa, rullante, tom, overhead, voce,
-  basso, tastiera, lettore/base (mp3, computer, telefono)...  AI e sound check si adeguano subito.
-- **Rispetta il tuo mixer**: non cambia mai scena da solo, non tocca monitor ne' master; a fine sound check
-  scegli tu in quale scena salvare.
-- **Si vede dal banco**: quando si collega, i MUTE del L12next si accendono in sequenza e tornano com'erano
-  (solo in silenzio, mai mentre suonate).
-- **Esporta SD** (nuovo nella 2.6): le registrazioni della scheda SD del mixer diventano tracce WAV col nome
-  del canale ("03 Tom.wav"), il master in WAV o MP3 e un mix stereo dalle tracce, in WAV o MP3.
-- **Accordatore** (nuovo nella 2.6): chitarra e basso (accordatura standard, Drop D, mezzo tono sotto...) e
-  batteria passo passo: tiranti uguali sulla battente e sulla risonante, poi la nota di ogni tamburo per lo
-  stile che scegli (jazz, medio, rock).
-- **App per Android** (nuova nella 2.7): telefono e tablet, via Bluetooth (BTA-1).  Fader, mute, solo, pan,
-  mandate ai monitor, pagina del canale con gain, compressore, EQ a 3 bande (con la curva), low cut ed effetto,
-  scene del L12next, strumenti e nomi per ogni canale, 10 lingue.
-- **Finestra Stato**: cosa sta facendo il programma adesso, i canali con livello, gain e fader, e il diario
-  in diretta di ogni correzione.
+| Mixer | Connection | PC | Android |
+|---|---|---|---|
+| **L12next** | USB + ZOOM BTA-1 Bluetooth | ✅ everything, verified | ✅ verified |
+| **L-20 / L-20R** | USB + ZOOM BTA-1 Bluetooth | 🧪 being tested | 🧪 being tested |
+| **L6 / L6max** 🆕 | USB-C cable, or **wireless** with a CME WIDI Jack | 🧪 being tested | 🧪 being tested |
+
+The L-8 cannot be controlled: it has neither MIDI nor the BTA-1.
+
+> 🙋 **Got an L6 or an L-20?** Help me test it and get the **full version for free**:
+> [L6 test](PROVA_L6.md#english) · [L-20 test](PROVA_L20.md#english) · write to **autofonic.mixer@gmail.com**
+
+## 💻 On the PC (Windows · Linux · Mac)
+
+- **The whole mixer on screen**: faders, mute, solo, phase, pan, meters, monitor sends, scenes, recorder.
+- **Channel page** 🆕: EQ curve, fader with meter, values in dB and Hz (click the channel name).
+- **Full-screen sound check** in 4 phases: room silence, one instrument at a time (gain, sound, drum phase),
+  the whole band (faders get balanced), saved to the scene you choose.
+- **AI Studio / Live**: *Assist* suggests, *Auto* corrects the faders while you play, with the right rules for
+  each instrument.  An optional room mic also listens to the room.
+- **SD export**: the recordings on the SD card become WAV tracks named after the channel, plus the master and
+  a stereo mix, in WAV or MP3.
+- **Tuner** for guitar, bass and drums.
+- **Respects your mixer**: never changes scene by itself, never touches monitor sends or master.
+
+Sound check and AI need the **USB cable** (it carries every channel's audio) and, on L12next and L-20, the **BTA-1**.
 
 | | |
 |---|---|
 | ![Mixer](immagini/01_mixer_L12next.png) | ![Sound check](immagini/02_soundcheck_line_check.png) |
-| ![Fasi del sound check](immagini/02_soundcheck_fasi.png) | ![Salvataggio](immagini/03_salvataggio_scene.png) |
-| ![Strumento al volo](immagini/04_strumento_al_volo.png) | ![Stato](immagini/05_finestra_stato.png) |
-| ![Canale completo e Canali](immagini/06_canale_e_canali.png) | ![L-20](immagini/07_L20.png) |
+| ![Channel page](immagini/08_pagina_canale.png) | ![Status](immagini/05_finestra_stato.png) |
 
-*Le immagini sono schermate reali del programma, prese con un mixer simulato.*
+## 📱 On Android
 
-## Mixer supportati
+**[AutoFonic Mixer on Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer)**: your phone becomes the mixer's remote control, right from the stage.
 
-| Mixer | Comandi | AI | Sound check |
-|---|---|---|---|
-| ZOOM LiveTrak **L12next** | USB + Bluetooth (BTA-1), verificati | Assist e Auto | completo (gain automatico) |
-| ZOOM LiveTrak **L-20** | in prova | Assist (posizione consigliata dei fader) | a consigli (giri tu il gain) |
+- Faders, mute, solo, pan, monitor sends, channel page with EQ and curve, scenes
+- 🎤 **feedback finder** with the phone mic · 🎸 **tuner** · 💾 **saved setups**
+- 🎧 **musician mode**: each player controls only their own monitor mix · 🔗 **stereo link** · 🔒 **touch lock**
+- 7-day free trial, then a one-time purchase
 
-**In arrivo con la 2.8 (in prova): ZOOM LiveTrak L6 e L6max** nell'app Android, collegati con il **cavo USB-C**
-(senza BTA-1): volume, mute, pan, EQ, mandate AUX1/AUX2 ed effetti, scene A–C.  **Hai un L6?** Segui la **[procedura di prova per il L6](PROVA_L6.md)** e scrivi a
-**autofonic.mixer@gmail.com**: in cambio ricevi la versione completa gratis.
+## ▶️ Watch the video
 
-Il L-8 non si può comandare: non ha né MIDI né BTA-1.
+[![Video](immagini/09_video.jpg)](https://youtu.be/BZv4WPJ-NJI)
 
-**Hai un L-20?** Aiutami a verificarlo su Windows o Linux: segui la **[procedura di prova per il
-L-20](PROVA_L20.md)** (mezz'ora, il programma ti guida) e mandami per email il file che prepara.
+## ⬇️ Download
 
-## DEMO e versione completa
+From the **[Releases](../../releases/latest)**:
 
-Qui trovi la **DEMO gratuita** (nelle [Release](../../releases)).
-
-| | DEMO | Completa |
-|---|---|---|
-| Programma per PC | **tutto come la completa per 14 giorni** | sempre |
-| Esporta SD (PC) | tutto per 7 giorni, poi solo tracce WAV | tutto (tracce, master, mix, MP3) |
-| Accordatore (PC) | 7 giorni | sempre |
-| App Android | **tutto per 7 giorni** | sempre |
-
-**Versione completa: con un'offerta libera, anche minima, per sostenere il progetto.**
-1. Fai l'offerta su **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**.
-2. Scrivi a **autofonic.mixer@gmail.com** il **codice del tuo PC o telefono** (8 caratteri): nella DEMO lo
-   trovi con il pulsante **🔑 Sblocca** (PC) o toccando **DEMO** (Android).
-3. Ricevi il **codice di sblocco** (12 caratteri): inseriscilo nello stesso punto e la DEMO diventa la
-   versione **completa**, senza scaricare niente.  Il codice vale per quel PC o quel telefono.
-
-## Personalizzazioni su richiesta
-
-Ogni band, locale o chiesa lavora a modo suo: AutoFonic Mixer si può **adattare su richiesta**.  Qualche esempio:
-
-- **mute di gruppo**: un tasto che spegne più canali (o tutti) insieme, per le pause e i cambi palco;
-- **controllo dal palco di un solo canale**: il cantante o il chitarrista regola dal suo Android solo il suo
-  canale o la sua spia, senza toccare il resto;
-- **fader collegati**: alzi o abbassi più canali insieme (batteria, cori, tastiere) mantenendo le proporzioni;
-- **controlli parziali**: si vedono solo i canali o i comandi che decidi tu (per esempio solo i volumi);
-- **limiti di sicurezza**: un tetto massimo a fader e master, così nessuno alza troppo il volume per sbaglio;
-- **scaletta**: ogni brano richiama la sua scena con un tocco, nell'ordine del concerto;
-- **dissolvenze automatiche** del master e un **tasto "pausa"** (musica di sottofondo accesa, microfoni spenti);
-- nomi, colori e disposizione dei canali come piace a te.
-
-Scrivi a **autofonic.mixer@gmail.com** e racconta cosa ti serve.
-
-## Download
-
-Nelle [Release](../../releases) trovi la DEMO per Windows, Linux, Mac e Android:
-
-| Sistema | File |
+| System | File |
 |---|---|
-| Windows 10 / 11 (64 bit) | `AutoFonicMixer-DEMO-<versione>-windows-x64-setup.exe` |
-| Linux (Ubuntu / Debian, 64 bit) | `AutoFonicMixer-DEMO-<versione>-linux-x86_64.tar.gz` |
-| Android 8 o più recente (telefono, tablet) | `AutoFonicMixer-DEMO-<versione>-android.apk` |
-| Mac (Apple Silicon) | `AutoFonicMixer-DEMO-<versione>-mac-arm64.dmg` (prima volta: tasto destro → Apri) |
+| Windows 10 / 11 | `AutoFonicMixer-DEMO-<version>-windows-x64-setup.exe` (install the ZOOM driver first) |
+| Linux (Ubuntu / Debian) | `AutoFonicMixer-DEMO-<version>-linux-x86_64.tar.gz` (then `sh installa.sh`) |
+| Mac (Apple Silicon) | `AutoFonicMixer-DEMO-<version>-mac-arm64.dmg` (first time: right click → Open) |
+| Android | better from [Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer), or `...-android.apk` |
 
-> **Mac**: dalla **2.8.5** la versione per Mac torna aggiornata.  Non è ancora stata provata con un mixer vero:
-> se hai un Mac e un LiveTrak, scrivimi.
+**Full version**: free donation, even a small one, at **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**.
+Then email **autofonic.mixer@gmail.com** the **code of your PC or phone** (**🔑 Unlock** button on the PC, tap
+**DEMO** on Android): you get an unlock code, nothing to download.
 
-## Installazione su Windows
+## 🛠️ Custom features on request
 
-1. Installa il **driver ZOOM** del tuo mixer (dal sito ZOOM): serve per l'audio di tutti i canali (ASIO).
-2. Lancia `AutoFonicMixer-DEMO-...-windows-x64-setup.exe` (non servono i permessi di amministratore).
-   Se SmartScreen avvisa "app non riconosciuta": *Ulteriori informazioni* → *Esegui comunque*.
-3. Avvia **AutoFonic Mixer** dal menu Start.
-4. Accendi il Bluetooth del PC.  Il BTA-1 **non** va abbinato nelle impostazioni di Windows: il programma lo
-   trova da solo.  Attacca il cavo USB: anche quello viene trovato da solo.
+Every band, venue or church works its own way: **mute groups**, **linked faders**, **partial control** (each
+phone sees only what you choose), **safety limits** on faders and master, a **setlist** with one scene per
+song, **automatic fades**, a **"break" button**, your own names, colours and layout.
+Write to **autofonic.mixer@gmail.com** and tell me what you need.
 
-## Installazione su Linux (Ubuntu / Debian, PC 64 bit)
+<details>
+<summary><b>📖 Installation and tips</b></summary>
 
-1. Scarica dalle [Release](../../releases) il file `AutoFonicMixer-DEMO-...-linux-x86_64.tar.gz` e scompattalo.
-2. Nella cartella: `sh installa.sh` (installa gli strumenti ALSA e Bluetooth, i permessi e l'icona nel menu).
-3. Esci dalla sessione e rientra.
-4. Avvia: `autofonic-mixer` (oppure `autofonic-mixer L20`), o dal menu "AutoFonic Mixer".
-5. Accendi il mixer, attacca il cavo USB e il BTA-1: il programma li trova **da solo** (USB, audio e Bluetooth) e si ricollega se il cavo si stacca.
+**Windows**
+1. Install your mixer's **ZOOM driver** (from the ZOOM website): it is needed for the audio of every channel.
+2. Run the `...-windows-x64-setup.exe` file.  If SmartScreen warns you: *More info* → *Run anyway*.
+3. Switch on the PC's Bluetooth (don't pair the BTA-1: the program finds it by itself) and plug in the USB cable.
 
-## Installazione su Android
+**Linux**
+1. Unpack the `.tar.gz`, run `sh installa.sh` in the folder, log out and back in.
+2. Start "AutoFonic Mixer" from the menu: USB, audio and Bluetooth are found automatically.
 
-**Ora anche su Google Play: [AutoFonic Mixer su Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer)** - si installa e si aggiorna da sola,
-7 giorni di prova completa, poi la versione completa si acquista una volta sola su Google Play (4,99 €).
+**Mac**: open the `.dmg`, drag the app into Applications; the first time: right click → Open.  The Mac version
+has not been tested with a real mixer yet: if you have a Mac and a LiveTrak, write to me.
 
-Oppure, senza Google Play:
+**Android without Google Play**: download the `.apk` on the phone and allow the installation.  With L12next and
+L-20, plug the BTA-1 in **before** switching the mixer on and close the ZOOM app (the BTA-1 accepts one
+connection only).  With the L6: USB-C cable into the mixer's USB port, or a CME WIDI Jack in the MIDI socket.
 
-1. Dal telefono apri la pagina delle [Release](../../releases) e scarica `AutoFonicMixer-DEMO-...-android.apk`.
-2. Aprilo: Android chiede di **consentire l'installazione** da questa fonte (browser o file): consenti e
-   installa.
-3. Inserisci il **BTA-1** nel mixer **prima di accenderlo**, chiudi l'app ZOOM (il BTA-1 accetta un solo
-   collegamento) e apri **AutoFonic Mixer**: consenti "Dispositivi nelle vicinanze" e il collegamento parte da
-   solo.
-4. Tocca il **nome in cima a una striscia** per la pagina del canale (gain, comp, EQ...), **Canali** per gli
-   strumenti, **🎬 Scene** per le scene, **🌐** per la lingua.
+**Mixer in another room**: Bluetooth has a short range.  Better: a small computer next to the mixer on the USB
+cable, controlled from the other room with remote desktop over Wi-Fi.
 
-Il L-20 sull'app Android è **in prova**: se qualcosa non va, premi **Rapporto** e mandamelo.
-
-## Comandare il mixer da un'altra stanza
-
-Studio insonorizzato e regia in un'altra stanza?
-- **Bluetooth (BTA-1)**: ha poca portata e un muro insonorizzato lo blocca quasi del tutto.  Si può provare un
-  adattatore Bluetooth USB su una prolunga corta, il più vicino possibile alla sala.  Dà solo i comandi
-  (fader, mute, scene), non l'audio dei canali.
-- **Soluzione migliore**: un piccolo computer accanto al mixer (un vecchio portatile o un mini PC), collegato con
-  il cavo USB e con AutoFonic Mixer acceso.  Dall'altra stanza lo comandi via **Wi-Fi con il desktop remoto**
-  (Desktop remoto di Windows, Chrome Remote Desktop, AnyDesk...): hai tutto, senza cavi tra le stanze.
-- Per **ascoltare** dalla regia serve comunque un collegamento audio: cuffie senza fili su un'uscita monitor,
-  oppure un programma di ascolto a distanza sullo stesso computer.
-
-## Avvertenze
-
-Progetto indipendente, **non affiliato, sponsorizzato o approvato da ZOOM Corporation**.  ZOOM, LiveTrak,
-L12next, L-20 e BTA-1 sono marchi di ZOOM Corporation.  Il programma e' fornito senza garanzia: provalo a
-volume basso prima di usarlo dal vivo.  Licenza: vedi [LICENSE](LICENSE).
+</details>
 
 ---
 
-## English
+<div align="center">
 
-**Your LiveTrak, with a sound engineer inside.**  AutoFonic Mixer controls the ZOOM LiveTrak **L12next** and
-**L-20** from **Linux or Windows**, and now also from an **Android phone or tablet**, runs a full-screen sound check and balances the mix while you play,
-analysing the audio of **every channel**.  The program is in **10 languages**: English, Italian, French, Spanish, German, Portuguese, Swedish, Danish,
-Slovenian and Croatian (menu "Language").
+<a id="italiano"></a>
 
-> **AI and sound check need both the USB cable and the ZOOM BTA-1 Bluetooth adapter.**
+# 🇮🇹 Italiano
 
-- **The whole mixer on screen**: strips, sends, scenes, recorder, master; full channel with gain, comp, EQ.
-- **Full-screen sound check** in 4 phases: room silence, line check (gain, sound, drum phase), mix check,
-  save to the scene you choose.
-- **AI Studio / Live**: *Assist* suggests fader positions, *Auto* corrects them while you play.
-- **Respects your mixer**: never changes scene by itself, never touches monitor sends or master.
-- **Instruments on the fly**, including a **player / backing track** (mp3, computer, phone).
-- **SD export** (new in 2.6): the recordings on the mixer's SD card as WAV tracks named after the channel,
-  the master as WAV or MP3 and a stereo mix of the tracks.
-- **Tuner** (new in 2.6): guitar, bass and drums (lugs even on both heads, then the note of each drum).
-- **Android app** (new in 2.7): phone and tablet over Bluetooth (BTA-1): faders, mute, solo, pan, monitor
-  sends, channel page with gain, comp, 3-band EQ (with its curve), low cut and effect, L12next scenes,
-  instruments and names for each channel, 10 languages.
-- **Test mixer**: guided tests and a report to send when something does not work.
+### Il tuo ZOOM LiveTrak, con un fonico dentro
+**L12next · L-20 / L-20R · L6 / L6max** — dal **PC** (Windows, Linux, Mac) e dal **telefono Android**
 
-| Mixer | Commands | AI | Sound check |
+[![Scarica](https://img.shields.io/badge/⬇_Scarica-Windows_·_Linux_·_Mac-ffca28?style=for-the-badge)](../../releases/latest)
+[![Google Play](https://img.shields.io/badge/Google_Play-Android-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer)
+[![Video](https://img.shields.io/badge/▶_Video-1_minuto-e53935?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/OXLS1chrFMM)
+
+</div>
+
+AutoFonic Mixer comanda il tuo LiveTrak dal **computer** o dal **telefono**, fa il **sound check a tutto
+schermo** (leggibile anche da dietro la batteria) e **bilancia il mix mentre suoni**, ascoltando l'audio di
+tutti i canali.  In **10 lingue**.
+
+## 🎚️ Mixer supportati
+
+| Mixer | Collegamento | PC | Android |
 |---|---|---|---|
-| ZOOM LiveTrak **L12next** | USB + Bluetooth (BTA-1), verified | Assist and Auto | full (automatic gain) |
-| ZOOM LiveTrak **L-20** | being tested | Assist (recommended faders) | advice (you turn the gain) |
+| **L12next** | USB + Bluetooth ZOOM BTA-1 | ✅ tutto, verificato | ✅ verificato |
+| **L-20 / L-20R** | USB + Bluetooth ZOOM BTA-1 | 🧪 in prova | 🧪 in prova |
+| **L6 / L6max** 🆕 | cavo USB-C, oppure **senza fili** con un CME WIDI Jack | 🧪 in prova | 🧪 in prova |
 
-**Coming in 2.8 (being tested): ZOOM LiveTrak L6 and L6max** in the Android app, connected with a **USB-C cable**
-(no BTA-1): level, mute, pan, EQ, AUX1/AUX2 and effect sends, scenes A–C.  **Do you have an L6?** See the **[L6 test procedure](PROVA_L6.md#english)** and write to
-**autofonic.mixer@gmail.com**: the full version is free in exchange.  The L-8 cannot be
-controlled (no MIDI, no BTA-1).
+Il L-8 non si può comandare: non ha né MIDI né BTA-1.
 
-**Do you have an L-20?** Help me test it on Windows or Linux: follow the **[L-20 test procedure](PROVA_L20.md#english)**.
+> 🙋 **Hai un L6 o un L-20?** Aiutami a provarlo e ricevi **gratis la versione completa**:
+> [prova L6](PROVA_L6.md) · [prova L-20](PROVA_L20.md) · scrivi a **autofonic.mixer@gmail.com**
 
-**Download** the free **DEMO** from the [Releases](../../releases): Windows 10/11 (`...-windows-x64-setup.exe`,
-install the ZOOM driver first), Linux (`...-linux-x86_64.tar.gz`, then `sh installa.sh`), Mac Apple Silicon (`...-mac-arm64.dmg`, updated again from 2.8.5; first time: right click → Open), Android 8 or newer (**now on [Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer)**, or `...-android.apk`: download it on the phone, allow the
-installation, plug the BTA-1 in before switching the desk on, close the ZOOM app).  The PC DEMO works **fully
-for 14 days**, the Android DEMO for **7 days**.  SD export and tuner
-(PC): 7 days.
+## 💻 Sul PC (Windows · Linux · Mac)
 
-**Full version: with a free donation, even a small one, to support the project.**  Donate at
-**[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**, then write to **autofonic.mixer@gmail.com**
-with the **code of your PC or phone** (8 characters: **🔑 Unlock** button on the PC, tap **DEMO** on Android).
-You receive an **unlock code** (12 characters): enter it in the same place and the DEMO becomes the **full
-version**, nothing to download.  The code works for that PC or phone.
+- **Tutto il mixer sullo schermo**: fader, mute, solo, fase, pan, meter, mandate ai monitor, scene, registratore.
+- **Pagina del canale** 🆕: curva dell'EQ, fader con meter, valori in dB e Hz (clic sul nome del canale).
+- **Sound check a tutto schermo** in 4 fasi: silenzio in sala, uno strumento alla volta (gain, suono, fase
+  dei tamburi), tutta la band (i fader si bilanciano), salvataggio nella scena che scegli tu.
+- **AI Studio / Live**: *Assist* propone, *Auto* corregge i fader mentre suonate, con le regole giuste per
+  ogni strumento.  Un microfono ambientale, se vuoi, ascolta anche la sala.
+- **Esporta SD**: le registrazioni della scheda SD diventano tracce WAV col nome del canale, il master e un
+  mix stereo, in WAV o MP3.
+- **Accordatore** per chitarra, basso e batteria.
+- **Rispetta il tuo mixer**: non cambia mai scena da solo e non tocca monitor né master.
 
-**Custom features on request**: every band, venue or church works its own way, so AutoFonic Mixer can be
-**adapted on request**: mute groups (several or all channels at once), stage control of one chosen channel or
-monitor mix from an Android phone, linked faders, partial control (only the channels or controls you choose),
-safety limits on faders and master, a setlist with one scene per song, automatic fades, a "break" button,
-your own names, colours and layout.  Write to **autofonic.mixer@gmail.com** and tell me what you need.
+Per sound check e AI servono il **cavo USB** (porta l'audio di ogni canale) e, su L12next e L-20, il **BTA-1**.
 
-**Controlling the desk from another room** (soundproofed studio): the BTA-1 Bluetooth has a short range and
-soundproofing blocks it.  Best option: a small computer next to the desk on the USB cable, running AutoFonic
-Mixer, controlled from the other room over **Wi-Fi with remote desktop** (Windows Remote Desktop, Chrome Remote
-Desktop, AnyDesk...).  To listen you still need an audio link (e.g. wireless headphones on a monitor out).
+## 📱 Su Android
 
-Independent project, not affiliated with ZOOM Corporation.  ZOOM, LiveTrak, L12next, L-20 and BTA-1 are
-trademarks of ZOOM Corporation.  License: see [LICENSE](LICENSE).
+**[AutoFonic Mixer su Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer)**: il telefono diventa il telecomando del mixer, dal palco.
+
+- Fader, mute, solo, pan, mandate ai monitor, pagina del canale con EQ e curva, scene
+- 🎤 **caccia ai fischi** con il microfono del telefono · 🎸 **accordatore** · 💾 **setup salvati**
+- 🎧 **modalità musicista**: ognuno regola solo la propria spia · 🔗 **canali uniti in stereo** · 🔒 **blocco dei tocchi**
+- 7 giorni di prova completa, poi un solo acquisto
+
+## ⬇️ Scarica
+
+Dalle **[Release](../../releases/latest)**:
+
+| Sistema | File |
+|---|---|
+| Windows 10 / 11 | `AutoFonicMixer-DEMO-<versione>-windows-x64-setup.exe` (prima installa il driver ZOOM) |
+| Linux (Ubuntu / Debian) | `AutoFonicMixer-DEMO-<versione>-linux-x86_64.tar.gz` (poi `sh installa.sh`) |
+| Mac (Apple Silicon) | `AutoFonicMixer-DEMO-<versione>-mac-arm64.dmg` (prima volta: tasto destro → Apri) |
+| Android | meglio da [Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer), oppure `...-android.apk` |
+
+**Versione completa**: con un'offerta libera, anche minima, su **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**.
+Poi scrivi a **autofonic.mixer@gmail.com** il **codice del tuo PC o telefono** (pulsante **🔑 Sblocca** sul PC,
+tocca **DEMO** su Android): ricevi il codice di sblocco, senza scaricare niente.
+
+## 🛠️ Personalizzazioni su richiesta
+
+Ogni band, locale o chiesa lavora a modo suo: **mute di gruppo**, **fader collegati**, **controlli parziali**
+(ogni telefono vede solo quello che decidi tu), **limiti di sicurezza** a fader e master, **scaletta** con una
+scena per brano, **dissolvenze automatiche**, tasto **"pausa"**, nomi, colori e disposizione come piace a te.
+Scrivi a **autofonic.mixer@gmail.com** e racconta cosa ti serve.
+
+<details>
+<summary><b>📖 Installazione e consigli</b></summary>
+
+**Windows**
+1. Installa il **driver ZOOM** del tuo mixer (dal sito ZOOM): serve per l'audio di tutti i canali.
+2. Lancia il file `...-windows-x64-setup.exe`.  Se SmartScreen avvisa: *Ulteriori informazioni* → *Esegui comunque*.
+3. Accendi il Bluetooth del PC (il BTA-1 non va abbinato: il programma lo trova da solo) e attacca il cavo USB.
+
+**Linux**
+1. Scompatta il `.tar.gz`, nella cartella esegui `sh installa.sh`, esci dalla sessione e rientra.
+2. Avvia "AutoFonic Mixer" dal menu: USB, audio e Bluetooth si trovano da soli.
+
+**Mac**: apri il `.dmg`, trascina l'app in Applicazioni, la prima volta: tasto destro → Apri.  La versione
+per Mac non è ancora stata provata con un mixer vero: se hai un Mac e un LiveTrak, scrivimi.
+
+**Android senza Google Play**: scarica l'`.apk` dal telefono e consenti l'installazione.  Con L12next e
+L-20 inserisci il BTA-1 **prima** di accendere il mixer e chiudi l'app ZOOM (il BTA-1 accetta un solo
+collegamento).  Con il L6: cavo USB-C nella presa USB del mixer, oppure un CME WIDI Jack nella presa MIDI.
+
+**Mixer in un'altra stanza**: il Bluetooth ha poca portata.  Meglio un piccolo computer accanto al mixer,
+sul cavo USB, comandato dall'altra stanza con il desktop remoto via Wi-Fi.
+
+</details>
+
+---
+
+<sub>Independent project, not affiliated with, sponsored or endorsed by ZOOM Corporation.  ZOOM, LiveTrak,
+L12next, L-20, L6 and BTA-1 are trademarks of ZOOM Corporation.  Provided without warranty: try it at low volume
+before using it live.  · Progetto indipendente, non affiliato a ZOOM Corporation.  License: [LICENSE](LICENSE).</sub>
