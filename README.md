@@ -111,6 +111,11 @@ cable, controlled from the other room with remote desktop over Wi-Fi.
 
 </details>
 
+## 🙏 Contributors
+
+- **[haidelaidelo](https://github.com/haidelaidelo)** (Gabriele): first tests on a real **ZOOM LiveTrak L6**,
+  USB audio channel order, MIDI controls, and lots of good ideas.
+
 ---
 
 <div align="center">
@@ -214,6 +219,11 @@ collegamento).  Con il L6: cavo USB-C nella presa USB del mixer, oppure un CME W
 sul cavo USB, comandato dall'altra stanza con il desktop remoto via Wi-Fi.
 
 </details>
+
+## 🙏 Chi ha contribuito
+
+- **[haidelaidelo](https://github.com/haidelaidelo)** (Gabriele): le prime prove su un **ZOOM LiveTrak L6** vero,
+  l'ordine dei canali audio USB, i comandi MIDI e tante buone idee.
 
 ---
 
