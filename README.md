@@ -19,13 +19,17 @@ AutoFonic Mixer controls your LiveTrak from your **computer** or **phone**, runs
 (readable even from behind the drums) and **balances the mix while you play**, listening to the audio of
 every channel.  In **10 languages**.
 
+> 🙋 **Got an L-20 / L-20R or an L6?**  Tell me if it works with your mixer and get the **full version for free**.
+> A short test guide: [L-20](PROVA_L20.md#english) · [L6](PROVA_L6.md#english) — or just write to **autofonic.mixer@gmail.com**
+> what works and what doesn't.
+
 ## 🎚️ Supported mixers
 
 | Mixer | Connection | PC | Android |
 |---|---|---|---|
 | **L12next** | USB + ZOOM BTA-1 Bluetooth | ✅ everything, verified | ✅ verified |
 | **L-20 / L-20R** | USB + ZOOM BTA-1 Bluetooth | 🧪 being tested | 🧪 being tested |
-| **L6 / L6max** 🆕 | USB-C cable, or **wireless** with a CME WIDI Jack | 🧪 being tested | 🧪 being tested |
+| **L6 / L6max** 🆕 | USB-C cable, or **wireless** with a CME WIDI Jack | 🟡 tested by one user | 🟡 tested by one user |
 
 The L-8 cannot be controlled: it has neither MIDI nor the BTA-1.
 
@@ -137,13 +141,17 @@ AutoFonic Mixer comanda il tuo LiveTrak dal **computer** o dal **telefono**, fa 
 schermo** (leggibile anche da dietro la batteria) e **bilancia il mix mentre suoni**, ascoltando l'audio di
 tutti i canali.  In **10 lingue**.
 
+> 🙋 **Hai un L-20 / L-20R o un L6?**  Dimmi se funziona con il tuo mixer e ricevi **gratis la versione completa**.
+> Una breve guida alla prova: [L-20](PROVA_L20.md) · [L6](PROVA_L6.md) — oppure scrivi semplicemente ad
+> **autofonic.mixer@gmail.com** cosa funziona e cosa no.
+
 ## 🎚️ Mixer supportati
 
 | Mixer | Collegamento | PC | Android |
 |---|---|---|---|
 | **L12next** | USB + Bluetooth ZOOM BTA-1 | ✅ tutto, verificato | ✅ verificato |
 | **L-20 / L-20R** | USB + Bluetooth ZOOM BTA-1 | 🧪 in prova | 🧪 in prova |
-| **L6 / L6max** 🆕 | cavo USB-C, oppure **senza fili** con un CME WIDI Jack | 🧪 in prova | 🧪 in prova |
+| **L6 / L6max** 🆕 | cavo USB-C, oppure **senza fili** con un CME WIDI Jack | 🟡 provato da un utente | 🟡 provato da un utente |
 
 Il L-8 non si può comandare: non ha né MIDI né BTA-1.
 
