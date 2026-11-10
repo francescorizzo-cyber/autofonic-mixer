@@ -28,7 +28,7 @@ every channel.  In **10 languages**.
 | Mixer | Connection | PC | Android |
 |---|---|---|---|
 | **L12next** | USB + ZOOM BTA-1 Bluetooth | ✅ everything, verified | ✅ verified |
-| **L-20 / L-20R** | USB + ZOOM BTA-1 Bluetooth | 🧪 being tested | 🧪 being tested |
+| **L-20 / L-20R** | USB + ZOOM BTA-1 Bluetooth | 🟡 L-20R: connects and reads the mixer, commands being checked | 🧪 being tested |
 | **L6 / L6max** 🆕 | USB-C cable, or **wireless** with a CME WIDI Jack | 🟡 tested by one user | 🟡 tested by one user |
 
 The L-8 cannot be controlled: it has neither MIDI nor the BTA-1.
@@ -150,7 +150,7 @@ tutti i canali.  In **10 lingue**.
 | Mixer | Collegamento | PC | Android |
 |---|---|---|---|
 | **L12next** | USB + Bluetooth ZOOM BTA-1 | ✅ tutto, verificato | ✅ verificato |
-| **L-20 / L-20R** | USB + Bluetooth ZOOM BTA-1 | 🧪 in prova | 🧪 in prova |
+| **L-20 / L-20R** | USB + Bluetooth ZOOM BTA-1 | 🟡 L-20R: si collega e legge il mixer, comandi in verifica | 🧪 in prova |
 | **L6 / L6max** 🆕 | cavo USB-C, oppure **senza fili** con un CME WIDI Jack | 🟡 provato da un utente | 🟡 provato da un utente |
 
 Il L-8 non si può comandare: non ha né MIDI né BTA-1.
