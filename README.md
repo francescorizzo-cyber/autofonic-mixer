@@ -120,6 +120,8 @@ cable, controlled from the other room with remote desktop over Wi-Fi.
 
 - **[haidelaidelo](https://github.com/haidelaidelo)** (Gabriele): first tests on a real **ZOOM LiveTrak L6**,
   USB audio channel order, MIDI controls, and lots of good ideas.
+- **Alan Pattle**: first tests on a real **ZOOM LiveTrak L-20**: the report that made channel meters, mutes and pan
+  work on the L-20.
 
 ---
 
@@ -234,6 +236,8 @@ sul cavo USB, comandato dall'altra stanza con il desktop remoto via Wi-Fi.
 
 - **[haidelaidelo](https://github.com/haidelaidelo)** (Gabriele): le prime prove su un **ZOOM LiveTrak L6** vero,
   l'ordine dei canali audio USB, i comandi MIDI e tante buone idee.
+- **Alan Pattle**: le prime prove su un **ZOOM LiveTrak L-20** vero: il rapporto che ha fatto funzionare meter,
+  mute e pan sull'L-20.
 
 ---
 
