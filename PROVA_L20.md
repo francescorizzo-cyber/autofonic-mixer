@@ -41,7 +41,7 @@ Questi interruttori sul retro si leggono solo all'accensione: impostali **prima*
 
 Fai una **foto dello schermo** in questo momento: serve per vedere cosa ha trovato.
 
-## 4. Prova mixer (il pulsante in alto)
+## 4. Prova mixer (dalla 2.8.10: in alto **☰ Altro → Prova mixer**)
 
 1. **Prova canali audio**: il programma ti dice "suona solo nel CH1", poi CH2...  Suona o parla **solo** in
    quel canale: il programma vede da solo quale canale USB si accende.  Per i canali senza niente collegato
@@ -113,7 +113,7 @@ have it), something plugged into the channels (a mic, a guitar, an mp3 player), 
    with the ZOOM driver; plug the **BTA-1 in before switching on**.
 3. **Connect** - choose **L20** at the top left, switch on the L-20, plug in USB and BTA-1, close the ZOOM
    phone app, wait a minute, press **Read mixer state**.  Take a **screenshot**.
-4. **Test mixer** (button at the top) - **Audio channel test** (play only into the channel it asks; *Skip* for
+4. **Test mixer** (from 2.8.10: **☰ More → Test mixer** at the top) - **Audio channel test** (play only into the channel it asks; *Skip* for
    empty channels; *Save the order* at the end if it is different), **Command test** (do what it asks on the
    mixer, then answer Yes/No when it tries MUTE and SOLO), **Save report**: it creates
    `AutoFonicMixer_rapporto_L20_<date>.zip` on the **Desktop**.
