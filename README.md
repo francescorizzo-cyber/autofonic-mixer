@@ -22,6 +22,7 @@ every channel.  In **10 languages**.
 > 🙋 **Got an L-20 / L-20R or an L6?**  Tell me if it works with your mixer and get the **full version for free**.
 > A short test guide: [L-20](PROVA_L20.md#english) · [L6](PROVA_L6.md#english) — or just write to **autofonic.mixer@gmail.com**
 > what works and what doesn't.
+> 💬 Feedback, problems, ideas: **[open an issue](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (free GitHub account) or email.
 
 ## 🎚️ Supported mixers
 
@@ -144,6 +145,7 @@ tutti i canali.  In **10 lingue**.
 > 🙋 **Hai un L-20 / L-20R o un L6?**  Dimmi se funziona con il tuo mixer e ricevi **gratis la versione completa**.
 > Una breve guida alla prova: [L-20](PROVA_L20.md) · [L6](PROVA_L6.md) — oppure scrivi semplicemente ad
 > **autofonic.mixer@gmail.com** cosa funziona e cosa no.
+> 💬 Commenti, problemi, idee: **[scrivi qui](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (account GitHub gratuito) oppure per email.
 
 ## 🎚️ Mixer supportati
 

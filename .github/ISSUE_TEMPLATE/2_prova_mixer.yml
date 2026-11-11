@@ -1,0 +1,36 @@
+name: "🎛️ I tested it on my mixer / L'ho provato sul mio mixer"
+description: "Tell what works on your L-20, L-20R or L6 · Dimmi cosa funziona sul tuo L-20, L-20R o L6 (versione completa in regalo)"
+labels: ["mixer test"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        🎁 Testers get the **full version for free**: after posting, email your PC/phone code to autofonic.mixer@gmail.com.
+        🎁 Chi fa la prova riceve **gratis la versione completa**: dopo aver scritto qui, manda il codice del PC/telefono ad autofonic.mixer@gmail.com.
+        **Never write the unlock code here** (this page is public). · **Non scrivere qui il codice di sblocco** (questa pagina è pubblica).
+  - type: dropdown
+    id: mixer
+    attributes:
+      label: "Mixer"
+      options: ["L-20", "L-20R", "L6 / L6max", "L12next"]
+    validations:
+      required: true
+  - type: checkboxes
+    id: works
+    attributes:
+      label: "What works? · Cosa funziona?"
+      options:
+        - label: "Connects / Si collega"
+        - label: "Faders move both ways / I fader si muovono nei due sensi"
+        - label: "Mute"
+        - label: "EQ"
+        - label: "Monitor sends (A-F) / Mandate delle spie"
+        - label: "Pan"
+        - label: "Scenes / Scene"
+        - label: "Meters / Meter"
+        - label: "Sound check"
+  - type: textarea
+    id: notes
+    attributes:
+      label: "What doesn't work, and notes · Cosa non funziona, e note"
+      description: "Attach the **Test mixer** report (.zip) if you can. · Allega il rapporto della **Prova mixer** (.zip) se puoi."

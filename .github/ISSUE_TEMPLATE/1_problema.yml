@@ -1,0 +1,40 @@
+name: "🐞 Something doesn't work / Qualcosa non funziona"
+description: "Report a problem with AutoFonic Mixer · Segnala un problema"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping! English or Italian, as you prefer. · Grazie! Scrivi in inglese o in italiano, come preferisci.
+        If you can, attach the report from **☰ More → Test mixer** (a .zip on your Desktop). · Se puoi, allega il rapporto di **☰ Altro → Prova mixer**.
+  - type: dropdown
+    id: mixer
+    attributes:
+      label: "Mixer"
+      options: ["L12next", "L-20", "L-20R", "L6 / L6max", "Other / Altro"]
+    validations:
+      required: true
+  - type: dropdown
+    id: device
+    attributes:
+      label: "Where / Dove"
+      options: ["Windows", "Linux", "Mac", "Android (Google Play)", "Android (.apk from GitHub)"]
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: "Version / Versione"
+      placeholder: "e.g. 2.8.10 (window title / titolo della finestra)"
+  - type: dropdown
+    id: link
+    attributes:
+      label: "Connection / Collegamento"
+      options: ["USB cable", "Bluetooth BTA-1", "CME WIDI Jack", "Not connected / Non collegato"]
+  - type: textarea
+    id: what
+    attributes:
+      label: "What happened? · Cosa è successo?"
+      description: "What you did, what you expected, what you got. Screenshots help a lot. · Cosa hai fatto, cosa ti aspettavi, cosa è successo. Le foto dello schermo aiutano molto."
+    validations:
+      required: true

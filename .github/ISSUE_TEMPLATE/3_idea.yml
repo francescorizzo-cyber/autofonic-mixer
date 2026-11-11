@@ -1,0 +1,16 @@
+name: "💡 Idea / Richiesta"
+description: "Suggest a feature · Proponi una funzione"
+labels: ["idea"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: "Your idea · La tua idea"
+      description: "What would help you on stage or in rehearsal? · Cosa ti aiuterebbe sul palco o in sala prove?"
+    validations:
+      required: true
+  - type: dropdown
+    id: mixer
+    attributes:
+      label: "Mixer"
+      options: ["L12next", "L-20", "L-20R", "L6 / L6max", "Any / Tutti"]
