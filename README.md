@@ -29,7 +29,7 @@ every channel.  In **10 languages**.
 | Mixer | Connection | PC | Android |
 |---|---|---|---|
 | **L12next** | USB + ZOOM BTA-1 Bluetooth | ✅ everything, verified | ✅ verified |
-| **L-20 / L-20R** | USB + ZOOM BTA-1 Bluetooth | 🟡 L-20R: connects and reads the mixer, commands being checked | 🧪 being tested |
+| **L-20 / L-20R** | USB + ZOOM BTA-1 Bluetooth | 🟡 L-20, tested by Alan: faders and meters work, 2.8.13 fixes MUTE/SOLO and Read mixer state · L-20R: connects and reads the mixer | 🧪 being tested |
 | **L6 / L6max** 🆕 | USB-C cable, or **wireless** with a CME WIDI Jack | 🟡 tested by one user | 🟡 tested by one user |
 
 The L-8 cannot be controlled: it has neither MIDI nor the BTA-1.
@@ -120,8 +120,11 @@ cable, controlled from the other room with remote desktop over Wi-Fi.
 
 - **[haidelaidelo](https://github.com/haidelaidelo)** (Gabriele): first tests on a real **ZOOM LiveTrak L6**,
   USB audio channel order, MIDI controls, and lots of good ideas.
-- **[alanpattle](https://github.com/alanpattle)** (Alan Pattle): first tests on a real **ZOOM LiveTrak L-20**: the report that made channel meters, mutes and pan
-  work on the L-20.
+- **[alanpattle](https://github.com/alanpattle)** (Alan Pattle): the **ZOOM LiveTrak L-20** tester. Thank you Alan!
+  He tests every new version on his real L-20, on the phone and on his Windows laptop, and sends detailed reports.
+  His reports showed the L-20 meter layout, that the L-20 switches MUTE and SOLO with the value 1 (not 127),
+  where names, faders and pan sit in the L-20 mixer state, and a missing file that stopped Bluetooth on Windows.
+  Thanks to him, version 2.8.13 brings working meters, MUTE/SOLO and "Read mixer state" to the L-20.
 
 ---
 
@@ -154,7 +157,7 @@ tutti i canali.  In **10 lingue**.
 | Mixer | Collegamento | PC | Android |
 |---|---|---|---|
 | **L12next** | USB + Bluetooth ZOOM BTA-1 | ✅ tutto, verificato | ✅ verificato |
-| **L-20 / L-20R** | USB + Bluetooth ZOOM BTA-1 | 🟡 L-20R: si collega e legge il mixer, comandi in verifica | 🧪 in prova |
+| **L-20 / L-20R** | USB + Bluetooth ZOOM BTA-1 | 🟡 L-20, provato da Alan: fader e meter funzionano, la 2.8.13 corregge MUTE/SOLO e Leggi stato · L-20R: si collega e legge il mixer | 🧪 in prova |
 | **L6 / L6max** 🆕 | cavo USB-C, oppure **senza fili** con un CME WIDI Jack | 🟡 provato da un utente | 🟡 provato da un utente |
 
 Il L-8 non si può comandare: non ha né MIDI né BTA-1.
@@ -236,8 +239,11 @@ sul cavo USB, comandato dall'altra stanza con il desktop remoto via Wi-Fi.
 
 - **[haidelaidelo](https://github.com/haidelaidelo)** (Gabriele): le prime prove su un **ZOOM LiveTrak L6** vero,
   l'ordine dei canali audio USB, i comandi MIDI e tante buone idee.
-- **[alanpattle](https://github.com/alanpattle)** (Alan Pattle): le prime prove su un **ZOOM LiveTrak L-20** vero: il rapporto che ha fatto funzionare meter,
-  mute e pan sull'L-20.
+- **[alanpattle](https://github.com/alanpattle)** (Alan Pattle): il tester del **ZOOM LiveTrak L-20**. Grazie Alan!
+  Prova ogni nuova versione sul suo L-20 vero, dal telefono e dal portatile Windows, e manda rapporti dettagliati.
+  I suoi rapporti hanno fatto scoprire com'è fatto il pacchetto dei meter del L-20, che il L-20 accende MUTE e SOLO
+  con il valore 1 (non 127), dove stanno nomi, fader e pan nello stato del mixer e un file mancante che bloccava il
+  Bluetooth su Windows.  Grazie a lui la 2.8.13 porta sull'L-20 meter, MUTE/SOLO e "Leggi stato dal mixer".
 
 ---
 
