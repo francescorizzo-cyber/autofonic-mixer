@@ -128,8 +128,10 @@ cable, controlled from the other room with remote desktop over Wi-Fi.
 - **[alanpattle](https://github.com/alanpattle)** (Alan Pattle): the **ZOOM LiveTrak L-20** tester. Thank you Alan!
   He tests every new version on his real L-20, on the phone and on his Windows laptop, and sends detailed reports.
   His reports showed the L-20 meter layout, that the L-20 switches MUTE and SOLO with the value 1 (not 127),
-  where names, faders and pan sit in the L-20 mixer state, and a missing file that stopped Bluetooth on Windows.
-  Thanks to him, version 2.8.13 brings working meters, MUTE/SOLO and "Read mixer state" to the L-20.
+  where names, faders and pan sit in the L-20 mixer state, that EQ HIGH goes from 0 to 60, and a missing file
+  that stopped Bluetooth on Windows. He then confirmed on his mixer that MUTE, SOLO, the master fader and
+  "Read mixer state" work. His ideas also brought the full report attached automatically to the email (2.8.15)
+  and the mixer's own channel names under the strips (2.8.16).
 
 ---
 
@@ -252,8 +254,10 @@ sul cavo USB, comandato dall'altra stanza con il desktop remoto via Wi-Fi.
 - **[alanpattle](https://github.com/alanpattle)** (Alan Pattle): il tester del **ZOOM LiveTrak L-20**. Grazie Alan!
   Prova ogni nuova versione sul suo L-20 vero, dal telefono e dal portatile Windows, e manda rapporti dettagliati.
   I suoi rapporti hanno fatto scoprire com'è fatto il pacchetto dei meter del L-20, che il L-20 accende MUTE e SOLO
-  con il valore 1 (non 127), dove stanno nomi, fader e pan nello stato del mixer e un file mancante che bloccava il
-  Bluetooth su Windows.  Grazie a lui la 2.8.13 porta sull'L-20 meter, MUTE/SOLO e "Leggi stato dal mixer".
+  con il valore 1 (non 127), dove stanno nomi, fader e pan nello stato del mixer, che l'EQ ALTI va da 0 a 60 e un
+  file mancante che bloccava il Bluetooth su Windows. Poi ha confermato sul suo mixer che MUTE, SOLO, master fader
+  e "Leggi stato dal mixer" funzionano. Dalle sue idee sono nati anche il rapporto completo allegato da solo
+  all'email (2.8.15) e i nomi dei canali del mixer sotto le strisce (2.8.16).
 
 ---
 
