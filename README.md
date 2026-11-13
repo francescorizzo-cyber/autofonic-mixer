@@ -120,6 +120,9 @@ cable, controlled from the other room with remote desktop over Wi-Fi.
 
 ## 🙏 Contributors
 
+- **Leonardo Locaputo** and **Daniele Sabatelli**: they play in Francesco's band. Every new feature is tried
+  with them first, in rehearsal and live, on the real L12next: it is thanks to them that AutoFonic can be tested
+  with a real band before it reaches you. Thank you guys!
 - **[haidelaidelo](https://github.com/haidelaidelo)** (Gabriele): first tests on a real **ZOOM LiveTrak L6**,
   USB audio channel order, MIDI controls, and lots of good ideas.
 - **[alanpattle](https://github.com/alanpattle)** (Alan Pattle): the **ZOOM LiveTrak L-20** tester. Thank you Alan!
@@ -241,6 +244,9 @@ sul cavo USB, comandato dall'altra stanza con il desktop remoto via Wi-Fi.
 
 ## 🙏 Chi ha contribuito
 
+- **Leonardo Locaputo** e **Daniele Sabatelli**: suonano con Francesco. Ogni nuova funzione si prova prima con
+  loro, alle prove e dal vivo, sul L12next vero: è grazie a loro che AutoFonic viene provato con una band vera
+  prima di arrivare a voi. Grazie ragazzi!
 - **[haidelaidelo](https://github.com/haidelaidelo)** (Gabriele): le prime prove su un **ZOOM LiveTrak L6** vero,
   l'ordine dei canali audio USB, i comandi MIDI e tante buone idee.
 - **[alanpattle](https://github.com/alanpattle)** (Alan Pattle): il tester del **ZOOM LiveTrak L-20**. Grazie Alan!
