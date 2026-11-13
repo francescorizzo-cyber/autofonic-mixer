@@ -29,7 +29,7 @@ every channel.  In **10 languages**.
 | Mixer | Connection | PC | Android |
 |---|---|---|---|
 | **L12next** | USB + ZOOM BTA-1 Bluetooth | ✅ everything, verified | ✅ verified |
-| **L-20 / L-20R** | USB + ZOOM BTA-1 Bluetooth | 🟡 L-20, tested by Alan: faders and meters work, 2.8.13 fixes MUTE/SOLO and Read mixer state · L-20R: connects and reads the mixer | 🧪 being tested |
+| **L-20 / L-20R** | USB + ZOOM BTA-1 Bluetooth | 🟡 L-20, tested by Alan: faders, meters, MUTE/SOLO, master and Read mixer state work · L-20R: connects and reads the mixer | 🧪 being tested |
 | **L6 / L6max** 🆕 | USB-C cable, or **wireless** with a CME WIDI Jack | 🟡 tested by one user | 🟡 tested by one user |
 
 The L-8 cannot be controlled: it has neither MIDI nor the BTA-1.
@@ -131,7 +131,8 @@ cable, controlled from the other room with remote desktop over Wi-Fi.
   where names, faders and pan sit in the L-20 mixer state, that EQ HIGH goes from 0 to 60, and a missing file
   that stopped Bluetooth on Windows. He then confirmed on his mixer that MUTE, SOLO, the master fader and
   "Read mixer state" work. His ideas also brought the full report attached automatically to the email (2.8.15)
-  and the mixer's own channel names under the strips (2.8.16).
+  and the mixer's own channel names under the strips (2.8.16). His full reports then gave the exact meter
+  layout of every L-20 channel and the command of the CH19/20 fader (2.8.17).
 
 ---
 
@@ -164,7 +165,7 @@ tutti i canali.  In **10 lingue**.
 | Mixer | Collegamento | PC | Android |
 |---|---|---|---|
 | **L12next** | USB + Bluetooth ZOOM BTA-1 | ✅ tutto, verificato | ✅ verificato |
-| **L-20 / L-20R** | USB + Bluetooth ZOOM BTA-1 | 🟡 L-20, provato da Alan: fader e meter funzionano, la 2.8.13 corregge MUTE/SOLO e Leggi stato · L-20R: si collega e legge il mixer | 🧪 in prova |
+| **L-20 / L-20R** | USB + Bluetooth ZOOM BTA-1 | 🟡 L-20, provato da Alan: fader, meter, MUTE/SOLO, master e Leggi stato funzionano · L-20R: si collega e legge il mixer | 🧪 in prova |
 | **L6 / L6max** 🆕 | cavo USB-C, oppure **senza fili** con un CME WIDI Jack | 🟡 provato da un utente | 🟡 provato da un utente |
 
 Il L-8 non si può comandare: non ha né MIDI né BTA-1.
@@ -257,7 +258,8 @@ sul cavo USB, comandato dall'altra stanza con il desktop remoto via Wi-Fi.
   con il valore 1 (non 127), dove stanno nomi, fader e pan nello stato del mixer, che l'EQ ALTI va da 0 a 60 e un
   file mancante che bloccava il Bluetooth su Windows. Poi ha confermato sul suo mixer che MUTE, SOLO, master fader
   e "Leggi stato dal mixer" funzionano. Dalle sue idee sono nati anche il rapporto completo allegato da solo
-  all'email (2.8.15) e i nomi dei canali del mixer sotto le strisce (2.8.16).
+  all'email (2.8.15) e i nomi dei canali del mixer sotto le strisce (2.8.16). I suoi rapporti completi hanno poi
+  dato la posizione esatta dei meter di tutti i canali del L-20 e il comando del fader di CH19/20 (2.8.17).
 
 ---
 
