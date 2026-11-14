@@ -37,7 +37,7 @@ The L-8 cannot be controlled: it has neither MIDI nor the BTA-1.
 > 🙋 **Got an L6 or an L-20?** Help me test it and get the **full version for free**:
 > [L6 test](PROVA_L6.md#english) · [L-20 test](PROVA_L20.md#english) · write to **autofonic.mixer@gmail.com**
 
-> 🧪 **Got a ZOOM R12 or R20 recorder?** There is a separate **tester app, only for R12 / R20 testers** (Android, listen only, it changes nothing on the recorder): [🧪 R12 / R20 tester app](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/tag/tester-r12-r20)
+> 🧪 **Got a ZOOM R12 or R20 recorder?** There is a **test, only for R12 / R20 testers** (Android app, or Windows / Linux PC; listen only, it changes nothing on the recorder): [🧪 R12 / R20 test: download and instructions](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/tag/tester-r12-r20)
 
 ## 💻 On the PC (Windows · Linux · Mac)
 
@@ -173,7 +173,7 @@ Il L-8 non si può comandare: non ha né MIDI né BTA-1.
 > 🙋 **Hai un L6 o un L-20?** Aiutami a provarlo e ricevi **gratis la versione completa**:
 > [prova L6](PROVA_L6.md) · [prova L-20](PROVA_L20.md) · scrivi a **autofonic.mixer@gmail.com**
 
-> 🧪 **Hai un registratore ZOOM R12 o R20?** C'è un'**app a parte, solo per i tester di R12 / R20** (Android, solo ascolto, non cambia niente sul registratore): [🧪 app tester R12 / R20](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/tag/tester-r12-r20)
+> 🧪 **Hai un registratore ZOOM R12 o R20?** C'è una **prova solo per i tester di R12 / R20** (app Android, oppure PC Windows / Linux; solo ascolto, non cambia niente sul registratore): [🧪 prova R12 / R20: download e istruzioni](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/tag/tester-r12-r20)
 
 ## 💻 Sul PC (Windows · Linux · Mac)
 
