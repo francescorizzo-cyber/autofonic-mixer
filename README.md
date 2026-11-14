@@ -132,7 +132,8 @@ cable, controlled from the other room with remote desktop over Wi-Fi.
   that stopped Bluetooth on Windows. He then confirmed on his mixer that MUTE, SOLO, the master fader and
   "Read mixer state" work. His ideas also brought the full report attached automatically to the email (2.8.15)
   and the mixer's own channel names under the strips (2.8.16). His full reports then gave the exact meter
-  layout of every L-20 channel and the command of the CH19/20 fader (2.8.17).
+  layout of every L-20 channel and the commands of the stereo faders 17/18 and 19/20 (2.8.17, 2.8.19), and
+  confirmed on his Windows laptop that Bluetooth and audio now work.
 
 ---
 
@@ -259,7 +260,8 @@ sul cavo USB, comandato dall'altra stanza con il desktop remoto via Wi-Fi.
   file mancante che bloccava il Bluetooth su Windows. Poi ha confermato sul suo mixer che MUTE, SOLO, master fader
   e "Leggi stato dal mixer" funzionano. Dalle sue idee sono nati anche il rapporto completo allegato da solo
   all'email (2.8.15) e i nomi dei canali del mixer sotto le strisce (2.8.16). I suoi rapporti completi hanno poi
-  dato la posizione esatta dei meter di tutti i canali del L-20 e il comando del fader di CH19/20 (2.8.17).
+  dato la posizione esatta dei meter di tutti i canali del L-20 e i comandi dei fader stereo 17/18 e 19/20
+  (2.8.17, 2.8.19), e ha confermato sul suo portatile Windows che Bluetooth e audio ora funzionano.
 
 ---
 
