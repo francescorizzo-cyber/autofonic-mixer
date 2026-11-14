@@ -80,8 +80,8 @@ From the **[Releases](../../releases/latest)**:
 |---|---|
 | Windows 10 / 11 | `AutoFonicMixer-DEMO-<version>-windows-x64-setup.exe` (install the ZOOM driver first) |
 | Linux (Ubuntu / Debian) | `AutoFonicMixer-DEMO-<version>-linux-x86_64.tar.gz` (then `sh installa.sh`) |
-| Mac (Apple Silicon) | `AutoFonicMixer-DEMO-<version>-mac-arm64.dmg` (first time: right click → Open) |
 | Android | better from [Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer), or `...-android.apk` |
+| Mac (Apple Silicon) | `AutoFonicMixer-DEMO-<version>-mac-arm64.dmg` (first time: right click → Open) |
 
 **Full version**: free donation, even a small one, at **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**.
 Then email **autofonic.mixer@gmail.com** the **code of your PC or phone** (**🔑 Unlock** button on the PC, tap
@@ -208,8 +208,8 @@ Dalle **[Release](../../releases/latest)**:
 |---|---|
 | Windows 10 / 11 | `AutoFonicMixer-DEMO-<versione>-windows-x64-setup.exe` (prima installa il driver ZOOM) |
 | Linux (Ubuntu / Debian) | `AutoFonicMixer-DEMO-<versione>-linux-x86_64.tar.gz` (poi `sh installa.sh`) |
-| Mac (Apple Silicon) | `AutoFonicMixer-DEMO-<versione>-mac-arm64.dmg` (prima volta: tasto destro → Apri) |
 | Android | meglio da [Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer), oppure `...-android.apk` |
+| Mac (Apple Silicon) | `AutoFonicMixer-DEMO-<versione>-mac-arm64.dmg` (prima volta: tasto destro → Apri) |
 
 **Versione completa**: con un'offerta libera, anche minima, su **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**.
 Poi scrivi a **autofonic.mixer@gmail.com** il **codice del tuo PC o telefono** (pulsante **🔑 Sblocca** sul PC,
