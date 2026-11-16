@@ -5,7 +5,7 @@
 ### Your ZOOM LiveTrak, with a sound engineer inside
 **L12next · L-20 / L-20R · L6 / L6max** — from your **PC** (Windows, Linux, Mac) and your **Android phone**
 
-[![Download](https://img.shields.io/badge/⬇_Download-Windows_·_Linux_·_Mac-ffca28?style=for-the-badge)](../../releases/latest)
+[![Download](https://img.shields.io/badge/⬇_Download-Windows_·_Linux_·_Mac-ffca28?style=for-the-badge)](#download)
 [![Google Play](https://img.shields.io/badge/Google_Play-Android-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer)
 [![Video](https://img.shields.io/badge/▶_Video-1_minute-e53935?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/BZv4WPJ-NJI)
 
@@ -19,23 +19,35 @@ AutoFonic Mixer controls your LiveTrak from your **computer** or **phone**, runs
 (readable even from behind the drums) and **balances the mix while you play**, listening to the audio of
 every channel.  In **10 languages**.
 
-> 🙋 **Got an L-20 / L-20R or an L6?**  Tell me if it works with your mixer and get the **full version for free**.
-> A short test guide: [L-20](PROVA_L20.md#english) · [L6](PROVA_L6.md#english) — or just write to **autofonic.mixer@gmail.com**
-> what works and what doesn't.
-> 💬 Feedback, problems, ideas: **[open an issue](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (free GitHub account) or email.
+<a id="download"></a>
 
-## 🎚️ Supported mixers
+## ⬇️ Download — free demo
+
+Tap the button for your system: the download of the **latest version** starts right away.
+
+| System | Download | Notes |
+|---|---|---|
+| 🤖 **Android** 8+ | [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer) | 7-day full trial, then a one-time purchase · or the [APK file](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-android.apk) |
+| 🪟 **Windows** 10 / 11 | [![Windows](https://img.shields.io/badge/⬇_Download-Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-windows-x64-setup.exe) | install the **ZOOM driver** of your mixer first |
+| 🐧 **Linux** (Ubuntu / Debian) | [![Linux](https://img.shields.io/badge/⬇_Download-Linux-f9a825?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-linux-x86_64.tar.gz) | unpack, then `sh installa.sh` |
+| 🍎 **Mac** (Apple Silicon) | [![Mac](https://img.shields.io/badge/⬇_Download-Mac-555555?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-mac-arm64.dmg) | first time: right click → Open · not tested with a real mixer yet |
+
+Release notes and older versions: **[all releases](../../releases)**.  Full PC version: see [below](#full-version).
+
+## 🎚️ Supported mixers — all tested on real mixers ✅
 
 | Mixer | Connection | PC | Android |
 |---|---|---|---|
-| **L12next** | USB + ZOOM BTA-1 Bluetooth | ✅ everything, verified | ✅ verified |
-| **L-20 / L-20R** | USB + ZOOM BTA-1 Bluetooth | 🟡 L-20, tested by Alan: faders, meters, MUTE/SOLO, master and Read mixer state work · L-20R: connects and reads the mixer | 🧪 being tested |
-| **L6 / L6max** 🆕 | USB-C cable, or **wireless** with a CME WIDI Jack | 🟡 tested by one user | 🟡 tested by one user |
+| **L12next** | USB + ZOOM BTA-1 Bluetooth | ✅ works | ✅ works |
+| **L-20 / L-20R** | USB + ZOOM BTA-1 Bluetooth | ✅ works — all controls | ✅ works — all controls |
+| **L6 / L6max** | USB-C cable, or **wireless** with a CME WIDI Jack | ✅ works | ✅ works |
 
-The L-8 cannot be controlled: it has neither MIDI nor the BTA-1.
+**All controls** means faders, pan, mute, solo, EQ, low cut, sends, stereo channels, effect returns, scenes,
+recorder (with its time) and meters — every one tried by users on their own mixer
+(L-20: [Alan](#-contributors) · L6: [Gabriele](#-contributors)).  The L-8 cannot be controlled: it has neither
+MIDI nor the BTA-1.
 
-> 🙋 **Got an L6 or an L-20?** Help me test it and get the **full version for free**:
-> [L6 test](PROVA_L6.md#english) · [L-20 test](PROVA_L20.md#english) · write to **autofonic.mixer@gmail.com**
+> 💬 Feedback, problems, ideas: **[open an issue](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (free GitHub account) or write to **autofonic.mixer@gmail.com**.
 
 > 🧪 **Got a ZOOM R12 or R20 recorder?** There is a **test, only for R12 / R20 testers** (Android app, or Windows / Linux PC; listen only, it changes nothing on the recorder): [🧪 R12 / R20 test: download and instructions](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/tag/tester-r12-r20)
 
@@ -72,20 +84,14 @@ Sound check and AI need the **USB cable** (it carries every channel's audio) and
 
 [![Video](immagini/09_video.jpg)](https://youtu.be/BZv4WPJ-NJI)
 
-## ⬇️ Download
+<a id="full-version"></a>
 
-From the **[Releases](../../releases/latest)**:
+## 🔑 Full PC version
 
-| System | File |
-|---|---|
-| Windows 10 / 11 | `AutoFonicMixer-DEMO-<version>-windows-x64-setup.exe` (install the ZOOM driver first) |
-| Linux (Ubuntu / Debian) | `AutoFonicMixer-DEMO-<version>-linux-x86_64.tar.gz` (then `sh installa.sh`) |
-| Android | better from [Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer), or `...-android.apk` |
-| Mac (Apple Silicon) | `AutoFonicMixer-DEMO-<version>-mac-arm64.dmg` (first time: right click → Open) |
-
-**Full version**: free donation, even a small one, at **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**.
-Then email **autofonic.mixer@gmail.com** the **code of your PC or phone** (**🔑 Unlock** button on the PC, tap
-**DEMO** on Android): you get an unlock code, nothing to download.
+The PC download is a **free demo**.  **Full version**: free donation, even a small one, at **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**.
+Then email **autofonic.mixer@gmail.com** the **code of your PC** (**🔑 Unlock** button): you get an unlock code,
+nothing to download.  On Android: from Google Play the full version is bought inside the app; the APK from
+here unlocks the same way as the PC (tap **DEMO** for the phone's code).
 
 ## 🛠️ Custom features on request
 
@@ -99,7 +105,7 @@ Write to **autofonic.mixer@gmail.com** and tell me what you need.
 
 **Windows**
 1. Install your mixer's **ZOOM driver** (from the ZOOM website): it is needed for the audio of every channel.
-2. Run the `...-windows-x64-setup.exe` file.  If SmartScreen warns you: *More info* → *Run anyway*.
+2. Run the downloaded `AutoFonicMixer-DEMO-windows-x64-setup.exe` file.  If SmartScreen warns you: *More info* → *Run anyway*.
 3. Switch on the PC's Bluetooth (don't pair the BTA-1: the program finds it by itself) and plug in the USB cable.
 
 **Linux**
@@ -154,7 +160,7 @@ cable, controlled from the other room with remote desktop over Wi-Fi.
 ### Il tuo ZOOM LiveTrak, con un fonico dentro
 **L12next · L-20 / L-20R · L6 / L6max** — dal **PC** (Windows, Linux, Mac) e dal **telefono Android**
 
-[![Scarica](https://img.shields.io/badge/⬇_Scarica-Windows_·_Linux_·_Mac-ffca28?style=for-the-badge)](../../releases/latest)
+[![Scarica](https://img.shields.io/badge/⬇_Scarica-Windows_·_Linux_·_Mac-ffca28?style=for-the-badge)](#scarica)
 [![Google Play](https://img.shields.io/badge/Google_Play-Android-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer)
 [![Video](https://img.shields.io/badge/▶_Video-1_minuto-e53935?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/OXLS1chrFMM)
 
@@ -164,23 +170,35 @@ AutoFonic Mixer comanda il tuo LiveTrak dal **computer** o dal **telefono**, fa 
 schermo** (leggibile anche da dietro la batteria) e **bilancia il mix mentre suoni**, ascoltando l'audio di
 tutti i canali.  In **10 lingue**.
 
-> 🙋 **Hai un L-20 / L-20R o un L6?**  Dimmi se funziona con il tuo mixer e ricevi **gratis la versione completa**.
-> Una breve guida alla prova: [L-20](PROVA_L20.md) · [L6](PROVA_L6.md) — oppure scrivi semplicemente ad
-> **autofonic.mixer@gmail.com** cosa funziona e cosa no.
-> 💬 Commenti, problemi, idee: **[scrivi qui](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (account GitHub gratuito) oppure per email.
+<a id="scarica"></a>
 
-## 🎚️ Mixer supportati
+## ⬇️ Scarica — demo gratuita
+
+Tocca il pulsante del tuo sistema: parte subito lo scaricamento dell'**ultima versione**.
+
+| Sistema | Scarica | Note |
+|---|---|---|
+| 🤖 **Android** 8+ | [![Google Play](https://img.shields.io/badge/Disponibile_su-Google_Play-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer) | 7 giorni di prova completa, poi un solo acquisto · oppure il [file APK](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-android.apk) |
+| 🪟 **Windows** 10 / 11 | [![Windows](https://img.shields.io/badge/⬇_Scarica-Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-windows-x64-setup.exe) | prima installa il **driver ZOOM** del tuo mixer |
+| 🐧 **Linux** (Ubuntu / Debian) | [![Linux](https://img.shields.io/badge/⬇_Scarica-Linux-f9a825?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-linux-x86_64.tar.gz) | scompatta, poi `sh installa.sh` |
+| 🍎 **Mac** (Apple Silicon) | [![Mac](https://img.shields.io/badge/⬇_Scarica-Mac-555555?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-mac-arm64.dmg) | prima volta: tasto destro → Apri · non ancora provato con un mixer vero |
+
+Novità e versioni precedenti: **[tutte le release](../../releases)**.  Versione completa per PC: vedi [sotto](#versione-completa).
+
+## 🎚️ Mixer supportati — tutti provati su mixer veri ✅
 
 | Mixer | Collegamento | PC | Android |
 |---|---|---|---|
-| **L12next** | USB + Bluetooth ZOOM BTA-1 | ✅ tutto, verificato | ✅ verificato |
-| **L-20 / L-20R** | USB + Bluetooth ZOOM BTA-1 | 🟡 L-20, provato da Alan: fader, meter, MUTE/SOLO, master e Leggi stato funzionano · L-20R: si collega e legge il mixer | 🧪 in prova |
-| **L6 / L6max** 🆕 | cavo USB-C, oppure **senza fili** con un CME WIDI Jack | 🟡 provato da un utente | 🟡 provato da un utente |
+| **L12next** | USB + Bluetooth ZOOM BTA-1 | ✅ funziona | ✅ funziona |
+| **L-20 / L-20R** | USB + Bluetooth ZOOM BTA-1 | ✅ funziona — tutti i comandi | ✅ funziona — tutti i comandi |
+| **L6 / L6max** | cavo USB-C, oppure **senza fili** con un CME WIDI Jack | ✅ funziona | ✅ funziona |
 
-Il L-8 non si può comandare: non ha né MIDI né BTA-1.
+**Tutti i comandi** vuol dire fader, pan, mute, solo, EQ, low cut, mandate, canali stereo, ritorni degli effetti,
+scene, registratore (con il suo tempo) e meter — ognuno provato dagli utenti sul proprio mixer
+(L-20: [Alan](#-chi-ha-contribuito) · L6: [Gabriele](#-chi-ha-contribuito)).  Il L-8 non si può comandare: non ha
+né MIDI né BTA-1.
 
-> 🙋 **Hai un L6 o un L-20?** Aiutami a provarlo e ricevi **gratis la versione completa**:
-> [prova L6](PROVA_L6.md) · [prova L-20](PROVA_L20.md) · scrivi a **autofonic.mixer@gmail.com**
+> 💬 Commenti, problemi, idee: **[scrivi qui](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (account GitHub gratuito) oppure ad **autofonic.mixer@gmail.com**.
 
 > 🧪 **Hai un registratore ZOOM R12 o R20?** C'è una **prova solo per i tester di R12 / R20** (app Android, oppure PC Windows / Linux; solo ascolto, non cambia niente sul registratore): [🧪 prova R12 / R20: download e istruzioni](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/tag/tester-r12-r20)
 
@@ -208,20 +226,14 @@ Per sound check e AI servono il **cavo USB** (porta l'audio di ogni canale) e, s
 - 🎧 **modalità musicista**: ognuno regola solo la propria spia · 🔗 **canali uniti in stereo** · 🔒 **blocco dei tocchi**
 - 7 giorni di prova completa, poi un solo acquisto
 
-## ⬇️ Scarica
+<a id="versione-completa"></a>
 
-Dalle **[Release](../../releases/latest)**:
+## 🔑 Versione completa per PC
 
-| Sistema | File |
-|---|---|
-| Windows 10 / 11 | `AutoFonicMixer-DEMO-<versione>-windows-x64-setup.exe` (prima installa il driver ZOOM) |
-| Linux (Ubuntu / Debian) | `AutoFonicMixer-DEMO-<versione>-linux-x86_64.tar.gz` (poi `sh installa.sh`) |
-| Android | meglio da [Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer), oppure `...-android.apk` |
-| Mac (Apple Silicon) | `AutoFonicMixer-DEMO-<versione>-mac-arm64.dmg` (prima volta: tasto destro → Apri) |
-
-**Versione completa**: con un'offerta libera, anche minima, su **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**.
-Poi scrivi a **autofonic.mixer@gmail.com** il **codice del tuo PC o telefono** (pulsante **🔑 Sblocca** sul PC,
-tocca **DEMO** su Android): ricevi il codice di sblocco, senza scaricare niente.
+Quello del PC è una **demo gratuita**.  **Versione completa**: con un'offerta libera, anche minima, su **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**.
+Poi scrivi a **autofonic.mixer@gmail.com** il **codice del tuo PC** (pulsante **🔑 Sblocca**): ricevi il codice di
+sblocco, senza scaricare niente.  Su Android: da Google Play la versione completa si compra dentro l'app; l'APK
+di qui si sblocca come il PC (tocca **DEMO** per il codice del telefono).
 
 ## 🛠️ Personalizzazioni su richiesta
 
@@ -235,7 +247,7 @@ Scrivi a **autofonic.mixer@gmail.com** e racconta cosa ti serve.
 
 **Windows**
 1. Installa il **driver ZOOM** del tuo mixer (dal sito ZOOM): serve per l'audio di tutti i canali.
-2. Lancia il file `...-windows-x64-setup.exe`.  Se SmartScreen avvisa: *Ulteriori informazioni* → *Esegui comunque*.
+2. Lancia il file scaricato `AutoFonicMixer-DEMO-windows-x64-setup.exe`.  Se SmartScreen avvisa: *Ulteriori informazioni* → *Esegui comunque*.
 3. Accendi il Bluetooth del PC (il BTA-1 non va abbinato: il programma lo trova da solo) e attacca il cavo USB.
 
 **Linux**
