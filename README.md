@@ -124,7 +124,9 @@ cable, controlled from the other room with remote desktop over Wi-Fi.
   with them first, in rehearsal and live, on the real L12next: it is thanks to them that AutoFonic can be tested
   with a real band before it reaches you. Thank you guys!
 - **[haidelaidelo](https://github.com/haidelaidelo)** (Gabriele): first tests on a real **ZOOM LiveTrak L6**,
-  USB audio channel order, MIDI controls, and lots of good ideas.
+  USB audio channel order, MIDI controls, and lots of good ideas. He measured the five L6 effect types
+  (Hall, Room, Spring, Delay, Echo) now chosen with buttons, and confirmed that compressor, MONO and the other
+  switches work (2.8.24).
 - **[alanpattle](https://github.com/alanpattle)** (Alan Pattle): the **ZOOM LiveTrak L-20** tester. Thank you Alan!
   He tests every new version on his real L-20, on the phone and on his Windows laptop, and sends detailed reports.
   His reports showed the L-20 meter layout, that the L-20 switches MUTE and SOLO with the value 1 (not 127),
@@ -133,7 +135,13 @@ cable, controlled from the other room with remote desktop over Wi-Fi.
   "Read mixer state" work. His ideas also brought the full report attached automatically to the email (2.8.15)
   and the mixer's own channel names under the strips (2.8.16). His full reports then gave the exact meter
   layout of every L-20 channel and the commands of the stereo faders 17/18 and 19/20 (2.8.17, 2.8.19), and
-  confirmed on his Windows laptop that Bluetooth and audio now work.
+  confirmed on his Windows laptop that Bluetooth and audio now work. His tests then confirmed mutes, sends A–F and
+  the stereo sends read from the mixer (2.8.20, 2.8.21) and, on 16 November, **every new L-20 control** on his
+  mixer: MID FREQ, LOW CUT, polarity, EQ OFF, EFX 2, the stereo channels, the effect returns, scenes and master
+  mute (2.8.23). He also found that the PC channel meters stayed still when the sound did not go through the
+  PC (fixed in 2.8.24).
+- **The L-20R users** who sent reports from their mixers: thanks to them the FX1 / FX2 return faders were found
+  in the mixer state and are now in the app (2.8.23).
 
 ---
 
@@ -252,7 +260,9 @@ sul cavo USB, comandato dall'altra stanza con il desktop remoto via Wi-Fi.
   loro, alle prove e dal vivo, sul L12next vero: è grazie a loro che AutoFonic viene provato con una band vera
   prima di arrivare a voi. Grazie ragazzi!
 - **[haidelaidelo](https://github.com/haidelaidelo)** (Gabriele): le prime prove su un **ZOOM LiveTrak L6** vero,
-  l'ordine dei canali audio USB, i comandi MIDI e tante buone idee.
+  l'ordine dei canali audio USB, i comandi MIDI e tante buone idee. Ha misurato i cinque tipi di effetto del L6
+  (Hall, Room, Spring, Delay, Echo), che ora si scelgono con i tasti, e ha confermato che compressore, MONO e gli
+  altri interruttori funzionano (2.8.24).
 - **[alanpattle](https://github.com/alanpattle)** (Alan Pattle): il tester del **ZOOM LiveTrak L-20**. Grazie Alan!
   Prova ogni nuova versione sul suo L-20 vero, dal telefono e dal portatile Windows, e manda rapporti dettagliati.
   I suoi rapporti hanno fatto scoprire com'è fatto il pacchetto dei meter del L-20, che il L-20 accende MUTE e SOLO
@@ -261,7 +271,13 @@ sul cavo USB, comandato dall'altra stanza con il desktop remoto via Wi-Fi.
   e "Leggi stato dal mixer" funzionano. Dalle sue idee sono nati anche il rapporto completo allegato da solo
   all'email (2.8.15) e i nomi dei canali del mixer sotto le strisce (2.8.16). I suoi rapporti completi hanno poi
   dato la posizione esatta dei meter di tutti i canali del L-20 e i comandi dei fader stereo 17/18 e 19/20
-  (2.8.17, 2.8.19), e ha confermato sul suo portatile Windows che Bluetooth e audio ora funzionano.
+  (2.8.17, 2.8.19), e ha confermato sul suo portatile Windows che Bluetooth e audio ora funzionano. Le sue prove
+  hanno poi confermato mute, mandate A–F e mandate stereo lette dal mixer (2.8.20, 2.8.21) e, il 16 novembre,
+  **tutti i nuovi comandi del L-20** sul suo mixer: MID FREQ, LOW CUT, fase, EQ OFF, EFX 2, canali stereo, ritorni
+  degli effetti, scene e mute del master (2.8.23). Ha anche scoperto che sul PC i meter dei canali restavano
+  fermi quando il suono non passava dal PC (corretto nella 2.8.24).
+- **Gli utenti del L-20R** che hanno mandato i rapporti dai loro mixer: grazie a loro sono stati trovati nello
+  stato del mixer i fader dei ritorni FX1 / FX2, che ora sono nell'app (2.8.23).
 
 ---
 
