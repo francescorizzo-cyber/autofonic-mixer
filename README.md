@@ -49,7 +49,6 @@ MIDI nor the BTA-1.
 
 > 💬 Feedback, problems, ideas: **[open an issue](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (free GitHub account) or write to **autofonic.mixer@gmail.com**.
 
-> 🧪 **Got a ZOOM R12 or R20 recorder?** There is a **test, only for R12 / R20 testers** (Android app, or Windows / Linux PC; listen only, it changes nothing on the recorder): [🧪 R12 / R20 test: download and instructions](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/tag/tester-r12-r20)
 
 ## 💻 On the PC (Windows · Linux · Mac)
 
@@ -200,7 +199,6 @@ né MIDI né BTA-1.
 
 > 💬 Commenti, problemi, idee: **[scrivi qui](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (account GitHub gratuito) oppure ad **autofonic.mixer@gmail.com**.
 
-> 🧪 **Hai un registratore ZOOM R12 o R20?** C'è una **prova solo per i tester di R12 / R20** (app Android, oppure PC Windows / Linux; solo ascolto, non cambia niente sul registratore): [🧪 prova R12 / R20: download e istruzioni](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/tag/tester-r12-r20)
 
 ## 💻 Sul PC (Windows · Linux · Mac)
 
