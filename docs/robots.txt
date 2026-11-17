@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://francescorizzo-cyber.github.io/autofonic-mixer/sitemap.xml
