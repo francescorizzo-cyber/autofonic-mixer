@@ -19,6 +19,11 @@ AutoFonic Mixer controls your LiveTrak from your **computer** or **phone**, runs
 (readable even from behind the drums) and **balances the mix while you play**, listening to the audio of
 every channel.  In **10 languages**.
 
+**The ZOOM LiveTrak app for Android and PC.**  ZOOM's own control apps (L-20 Control, L-12 Control) run only on
+iPhone and iPad: AutoFonic Mixer is the **ZOOM L-20 / L-20R app for Android**, the **L12next remote control for
+Android**, and a **LiveTrak controller for Windows, Linux and Mac**.  Get it on
+**[Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer)**.
+
 <a id="download"></a>
 
 ## ⬇️ Download — free demo
@@ -122,6 +127,21 @@ connection only).  With the L6: USB-C cable into the mixer's USB port, or a CME 
 cable, controlled from the other room with remote desktop over Wi-Fi.
 
 </details>
+
+## ❓ FAQ
+
+**Is there a ZOOM L-20 / L-20R app for Android?**  Yes: AutoFonic Mixer, on [Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer).
+ZOOM's L-20 Control app exists only for iOS.  It connects with the ZOOM BTA-1 Bluetooth adapter, like ZOOM's app.
+
+**Can I control a ZOOM LiveTrak L-20R without an iPad?**  Yes, from an Android phone or from a Windows, Linux or
+Mac computer: faders, mute, solo, pan, EQ, monitor mixes A–F, effect returns, scenes and the SD recorder.
+
+**Is there an app for the ZOOM L12next / L-12 on Android or Windows?**  Yes, AutoFonic Mixer supports the L12next
+on Android and on the PC, where it also does the sound check and the automatic mix.
+
+**Does it work with the ZOOM L6 / L6max?**  Yes, with the USB-C cable, or wireless with a CME WIDI Jack.
+
+**Is it free?**  The PC version is a free demo; on Android there is a 7-day free trial, then a one-time purchase.
 
 ## 🙏 Contributors
 
@@ -263,6 +283,22 @@ collegamento).  Con il L6: cavo USB-C nella presa USB del mixer, oppure un CME W
 sul cavo USB, comandato dall'altra stanza con il desktop remoto via Wi-Fi.
 
 </details>
+
+## ❓ Domande frequenti
+
+**Esiste un'app per ZOOM L-20 / L-20R su Android?**  Sì: AutoFonic Mixer, su [Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer).
+L'app L-20 Control di ZOOM esiste solo per iOS.  Si collega con l'adattatore Bluetooth ZOOM BTA-1, come l'app ZOOM.
+
+**Posso comandare un ZOOM LiveTrak L-20R senza iPad?**  Sì, dal telefono Android o da un computer Windows, Linux
+o Mac: fader, mute, solo, pan, EQ, mix monitor A–F, ritorni effetti, scene e registratore SD.
+
+**C'è un'app per ZOOM L12next / L-12 su Android o Windows?**  Sì, AutoFonic Mixer supporta il L12next su Android
+e sul PC, dove fa anche il sound check e il mix automatico.
+
+**Funziona con ZOOM L6 / L6max?**  Sì, con il cavo USB-C, oppure senza fili con un CME WIDI Jack.
+
+**È gratis?**  La versione per PC è una demo gratuita; su Android ci sono 7 giorni di prova gratis, poi un solo
+acquisto.
 
 ## 🙏 Chi ha contribuito
 
