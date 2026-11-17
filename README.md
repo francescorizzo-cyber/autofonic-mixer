@@ -94,9 +94,9 @@ Sound check and AI need the **USB cable** (it carries every channel's audio) and
 
 ## 🔑 Full PC version
 
-The PC download is a **free demo**.  **Full version**: free donation, even a small one, at **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**.
-Then email **autofonic.mixer@gmail.com** the **code of your PC** (**🔑 Unlock** button): you get an unlock code,
-nothing to download.  On Android: from Google Play the full version is bought inside the app; the APK from
+The PC download is a **free demo**: everything works for 14 days.  **Full version: €9.99, one time only**, valid forever on
+that PC — pay at **[paypal.me/AutoFonicMixer/9.99EUR](https://paypal.me/AutoFonicMixer/9.99EUR)**, then email
+**autofonic.mixer@gmail.com** the **code of your PC** (**🔑 Unlock** button): you get an unlock code, nothing to download.  On Android: from Google Play the full version is bought inside the app; the APK from
 here unlocks the same way as the PC (tap **DEMO** for the phone's code).
 
 ## 🛠️ Custom features on request
@@ -250,9 +250,9 @@ Per sound check e AI servono il **cavo USB** (porta l'audio di ogni canale) e, s
 
 ## 🔑 Versione completa per PC
 
-Quello del PC è una **demo gratuita**.  **Versione completa**: con un'offerta libera, anche minima, su **[paypal.me/AutoFonicMixer](https://paypal.me/AutoFonicMixer)**.
-Poi scrivi a **autofonic.mixer@gmail.com** il **codice del tuo PC** (pulsante **🔑 Sblocca**): ricevi il codice di
-sblocco, senza scaricare niente.  Su Android: da Google Play la versione completa si compra dentro l'app; l'APK
+Quello del PC è una **demo gratuita**: funziona tutto per 14 giorni.  **Versione completa: 9,99 €, una volta sola**, vale
+per sempre su quel PC — paga su **[paypal.me/AutoFonicMixer/9.99EUR](https://paypal.me/AutoFonicMixer/9.99EUR)**, poi scrivi a
+**autofonic.mixer@gmail.com** il **codice del tuo PC** (pulsante **🔑 Sblocca**): ricevi il codice di sblocco, senza scaricare niente.  Su Android: da Google Play la versione completa si compra dentro l'app; l'APK
 di qui si sblocca come il PC (tocca **DEMO** per il codice del telefono).
 
 ## 🛠️ Personalizzazioni su richiesta
