@@ -3,7 +3,8 @@
 # 🎛️ AutoFonic Mixer
 
 ### Your ZOOM LiveTrak, with a sound engineer inside
-**L12next · L-20 / L-20R · L6 / L6max** — from your **PC** (Windows, Linux, Mac) and your **Android phone**
+**ZOOM** L12next · L-20 / L-20R · L6 / L6max — **Behringer / Midas** XR12 · XR16 · XR18 / MR18 · X32 / M32<br>
+from your **PC** (Windows, Linux, Mac) and your **Android phone**
 
 [![Download](https://img.shields.io/badge/⬇_Download-Windows_·_Linux_·_Mac-ffca28?style=for-the-badge)](#download)
 [![Google Play](https://img.shields.io/badge/Google_Play-Android-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer)
@@ -21,8 +22,8 @@ every channel.  In **10 languages**.
 
 🌐 **Website:** https://francescorizzo-cyber.github.io/autofonic-mixer/
 
-🧪 **New — Behringer X Air (XR12 · XR16 · XR18 · MR18) and X32 / Midas M32 beta:** looking for testers!
-[Download the test version and how to help](https://github.com/francescorizzo-cyber/autofonic-mixer/tree/beta-behringer)
+🆕 **New in version 2.9: Behringer and Midas mixers** — X Air **XR12 · XR16 · XR18** (and Midas MR12 / MR18) and
+**X32** (and Midas M32), from the PC over the network (Wi-Fi or cable).  See the [supported mixers](#supported).
 
 **The ZOOM LiveTrak app for Android and PC.**  ZOOM's own control apps (L-20 Control, L-12 Control) run only on
 iPhone and iPad: AutoFonic Mixer is the **ZOOM L-20 / L-20R app for Android**, the **L12next remote control for
@@ -44,18 +45,27 @@ Tap the button for your system: the download of the **latest version** starts ri
 
 Release notes and older versions: **[all releases](../../releases)**.  Full PC version: see [below](#full-version).
 
-## 🎚️ Supported mixers — all tested on real mixers ✅
+<a id="supported"></a>
+
+## 🎚️ Supported mixers
 
 | Mixer | Connection | PC | Android |
 |---|---|---|---|
 | **L12next** | USB + ZOOM BTA-1 Bluetooth | ✅ works | ✅ works |
 | **L-20 / L-20R** | USB + ZOOM BTA-1 Bluetooth | ✅ works — all controls | ✅ works — all controls |
 | **L6 / L6max** | USB-C cable, or **wireless** with a CME WIDI Jack | ✅ works | ✅ works |
+| **Behringer X Air XR18** · Midas MR18 | network: Wi-Fi or Ethernet cable | ✅ from 2.9 — with sound check and AI (USB audio) | — |
+| **Behringer X Air XR12 · XR16** · Midas MR12 | network: Wi-Fi or Ethernet cable | ✅ from 2.9 — with level and gain check | — |
+| **Behringer X32** · Midas M32 | network: Ethernet cable | ✅ from 2.9 — 32 channels, sound check and AI with the X-USB card | — |
 
 **All controls** means faders, pan, mute, solo, EQ, low cut, sends, stereo channels, effect returns, scenes,
 recorder (with its time) and meters — every one tried by users on their own mixer
 (L-20: [Alan](#-contributors) · L6: [Gabriele](#-contributors)).  The L-8 cannot be controlled: it has neither
 MIDI nor the BTA-1.
+
+**Behringer / Midas**: faders, mute, solo, pan, gain, phase, low cut, EQ, compressor, gate, sends to the buses
+and the effects, mute groups, scenes / snapshots and meters.  The mixer is found on the network by itself, and the
+channel names written on the mixer become the instruments of the sound check.
 
 > 💬 Feedback, problems, ideas: **[open an issue](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (free GitHub account) or write to **autofonic.mixer@gmail.com**.
 
@@ -145,6 +155,10 @@ on Android and on the PC, where it also does the sound check and the automatic m
 
 **Does it work with the ZOOM L6 / L6max?**  Yes, with the USB-C cable, or wireless with a CME WIDI Jack.
 
+**Does it work with the Behringer XR18, XR12, XR16 or X32 / Midas M32?**  Yes, from version 2.9, on the PC
+(Windows, Linux, Mac) over the network: faders, mute, EQ, compressor, gate, sends, mute groups, scenes.  With
+the XR18 / MR18 and the X32 (X-USB card) also the sound check and the automatic mix, listening to the USB audio.
+
 **Is it free?**  The PC version is a free demo; on Android there is a 7-day free trial, then a one-time purchase.
 
 ## 🙏 Contributors
@@ -181,7 +195,8 @@ on Android and on the PC, where it also does the sound check and the automatic m
 # 🇮🇹 Italiano
 
 ### Il tuo ZOOM LiveTrak, con un fonico dentro
-**L12next · L-20 / L-20R · L6 / L6max** — dal **PC** (Windows, Linux, Mac) e dal **telefono Android**
+**ZOOM** L12next · L-20 / L-20R · L6 / L6max — **Behringer / Midas** XR12 · XR16 · XR18 / MR18 · X32 / M32<br>
+dal **PC** (Windows, Linux, Mac) e dal **telefono Android**
 
 [![Scarica](https://img.shields.io/badge/⬇_Scarica-Windows_·_Linux_·_Mac-ffca28?style=for-the-badge)](#scarica)
 [![Google Play](https://img.shields.io/badge/Google_Play-Android-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer)
@@ -193,8 +208,8 @@ AutoFonic Mixer comanda il tuo LiveTrak dal **computer** o dal **telefono**, fa 
 schermo** (leggibile anche da dietro la batteria) e **bilancia il mix mentre suoni**, ascoltando l'audio di
 tutti i canali.  In **10 lingue**.
 
-🧪 **Novità — beta per Behringer X Air (XR12 · XR16 · XR18 · MR18) e X32 / Midas M32:** cerco tester!
-[Scarica la versione di prova e come aiutare](https://github.com/francescorizzo-cyber/autofonic-mixer/tree/beta-behringer#italiano)
+🆕 **Novità della versione 2.9: mixer Behringer e Midas** — X Air **XR12 · XR16 · XR18** (e Midas MR12 / MR18) e
+**X32** (e Midas M32), dal PC in rete (Wi-Fi o cavo).  Vedi i [mixer supportati](#mixer-supportati).
 
 <a id="scarica"></a>
 
@@ -211,18 +226,27 @@ Tocca il pulsante del tuo sistema: parte subito lo scaricamento dell'**ultima ve
 
 Novità e versioni precedenti: **[tutte le release](../../releases)**.  Versione completa per PC: vedi [sotto](#versione-completa).
 
-## 🎚️ Mixer supportati — tutti provati su mixer veri ✅
+<a id="mixer-supportati"></a>
+
+## 🎚️ Mixer supportati
 
 | Mixer | Collegamento | PC | Android |
 |---|---|---|---|
 | **L12next** | USB + Bluetooth ZOOM BTA-1 | ✅ funziona | ✅ funziona |
 | **L-20 / L-20R** | USB + Bluetooth ZOOM BTA-1 | ✅ funziona — tutti i comandi | ✅ funziona — tutti i comandi |
 | **L6 / L6max** | cavo USB-C, oppure **senza fili** con un CME WIDI Jack | ✅ funziona | ✅ funziona |
+| **Behringer X Air XR18** · Midas MR18 | rete: Wi-Fi o cavo Ethernet | ✅ dalla 2.9 — con sound check e AI (audio USB) | — |
+| **Behringer X Air XR12 · XR16** · Midas MR12 | rete: Wi-Fi o cavo Ethernet | ✅ dalla 2.9 — con controllo di livelli e gain | — |
+| **Behringer X32** · Midas M32 | rete: cavo Ethernet | ✅ dalla 2.9 — 32 canali, sound check e AI con la scheda X-USB | — |
 
 **Tutti i comandi** vuol dire fader, pan, mute, solo, EQ, low cut, mandate, canali stereo, ritorni degli effetti,
 scene, registratore (con il suo tempo) e meter — ognuno provato dagli utenti sul proprio mixer
 (L-20: [Alan](#-chi-ha-contribuito) · L6: [Gabriele](#-chi-ha-contribuito)).  Il L-8 non si può comandare: non ha
 né MIDI né BTA-1.
+
+**Behringer / Midas**: fader, mute, solo, pan, gain, fase, low cut, EQ, compressore, gate, mandate ai bus e agli
+effetti, mute group, scene / snapshot e meter.  Il mixer si trova da solo in rete, e i nomi dei canali scritti sul
+mixer diventano gli strumenti del sound check.
 
 > 💬 Commenti, problemi, idee: **[scrivi qui](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (account GitHub gratuito) oppure ad **autofonic.mixer@gmail.com**.
 
@@ -303,6 +327,10 @@ e sul PC, dove fa anche il sound check e il mix automatico.
 
 **Funziona con ZOOM L6 / L6max?**  Sì, con il cavo USB-C, oppure senza fili con un CME WIDI Jack.
 
+**Funziona con Behringer XR18, XR12, XR16 o X32 / Midas M32?**  Sì, dalla versione 2.9, sul PC (Windows, Linux,
+Mac) in rete: fader, mute, EQ, compressore, gate, mandate, mute group, scene.  Con XR18 / MR18 e X32 (scheda
+X-USB) anche il sound check e il mix automatico, ascoltando l'audio USB.
+
 **È gratis?**  La versione per PC è una demo gratuita; su Android ci sono 7 giorni di prova gratis, poi un solo
 acquisto.
 
@@ -333,6 +361,7 @@ acquisto.
 
 ---
 
-<sub>Independent project, not affiliated with, sponsored or endorsed by ZOOM Corporation.  ZOOM, LiveTrak,
-L12next, L-20, L6 and BTA-1 are trademarks of ZOOM Corporation.  Provided without warranty: try it at low volume
-before using it live.  · Progetto indipendente, non affiliato a ZOOM Corporation.  License: [LICENSE](LICENSE).</sub>
+<sub>Independent project, not affiliated with, sponsored or endorsed by ZOOM Corporation or Music Tribe.  ZOOM, LiveTrak,
+L12next, L-20, L6 and BTA-1 are trademarks of ZOOM Corporation; Behringer, X Air, X32, Midas, MR18 and M32 are
+trademarks of Music Tribe.  Provided without warranty: try it at low volume
+before using it live.  · Progetto indipendente, non affiliato a ZOOM Corporation né a Music Tribe.  License: [LICENSE](LICENSE).</sub>
