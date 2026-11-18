@@ -21,6 +21,9 @@ every channel.  In **10 languages**.
 
 🌐 **Website:** https://francescorizzo-cyber.github.io/autofonic-mixer/
 
+🧪 **New — Behringer X Air (XR12 · XR16 · XR18 · MR18) and X32 / Midas M32 beta:** looking for testers!
+[Download the test version and how to help](https://github.com/francescorizzo-cyber/autofonic-mixer/tree/beta-behringer)
+
 **The ZOOM LiveTrak app for Android and PC.**  ZOOM's own control apps (L-20 Control, L-12 Control) run only on
 iPhone and iPad: AutoFonic Mixer is the **ZOOM L-20 / L-20R app for Android**, the **L12next remote control for
 Android**, and a **LiveTrak controller for Windows, Linux and Mac**.  Get it on
@@ -189,6 +192,9 @@ on Android and on the PC, where it also does the sound check and the automatic m
 AutoFonic Mixer comanda il tuo LiveTrak dal **computer** o dal **telefono**, fa il **sound check a tutto
 schermo** (leggibile anche da dietro la batteria) e **bilancia il mix mentre suoni**, ascoltando l'audio di
 tutti i canali.  In **10 lingue**.
+
+🧪 **Novità — beta per Behringer X Air (XR12 · XR16 · XR18 · MR18) e X32 / Midas M32:** cerco tester!
+[Scarica la versione di prova e come aiutare](https://github.com/francescorizzo-cyber/autofonic-mixer/tree/beta-behringer#italiano)
 
 <a id="scarica"></a>
 
