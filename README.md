@@ -41,7 +41,7 @@ Tap the button for your system: the download of the **latest version** starts ri
 | 🤖 **Android** 8+ | [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer) | 7-day full trial, then a one-time purchase |
 | 🪟 **Windows** 10 / 11 | [![Windows](https://img.shields.io/badge/⬇_Download-Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-windows-x64-setup.exe) | install the **ZOOM driver** of your mixer first |
 | 🐧 **Linux** (Ubuntu / Debian) | [![Linux](https://img.shields.io/badge/⬇_Download-Linux-f9a825?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-linux-x86_64.tar.gz) | unpack, then `sh installa.sh` |
-| 🍎 **Mac** (Apple Silicon) | [![Mac](https://img.shields.io/badge/⬇_Download-Mac-555555?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-mac-arm64.dmg) | first time: right click → Open · not tested with a real mixer yet |
+| 🍎 **Mac** (Apple Silicon) | [![Mac](https://img.shields.io/badge/⬇_Download-Mac-555555?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-mac-arm64.dmg) | first time: right click → Open |
 
 Release notes and older versions: **[all releases](../../releases)**.  Full PC version: see [below](#full-version).
 
@@ -54,9 +54,9 @@ Release notes and older versions: **[all releases](../../releases)**.  Full PC v
 | **L12next** | USB + ZOOM BTA-1 Bluetooth | ✅ works | ✅ works |
 | **L-20 / L-20R** | USB + ZOOM BTA-1 Bluetooth | ✅ works — all controls | ✅ works — all controls |
 | **L6 / L6max** | USB-C cable, or **wireless** with a CME WIDI Jack | ✅ works | ✅ works |
-| **Behringer X Air XR18** · Midas MR18 | network: Wi-Fi or Ethernet cable | ✅ from 2.9 — with sound check and AI (USB audio) | — |
-| **Behringer X Air XR12 · XR16** · Midas MR12 | network: Wi-Fi or Ethernet cable | ✅ from 2.9 — with level and gain check | — |
-| **Behringer X32** · Midas M32 | network: Ethernet cable | ✅ from 2.9 — 32 channels, sound check and AI with the X-USB card | — |
+| **Behringer X Air XR18** · Midas MR18 | network: Wi-Fi or Ethernet cable | ✅ works — with sound check and AI (USB audio) | — |
+| **Behringer X Air XR12 · XR16** · Midas MR12 | network: Wi-Fi or Ethernet cable | ✅ works — with level and gain check | — |
+| **Behringer X32** · Midas M32 | network: Ethernet cable | ✅ works — 32 channels, sound check and AI with the X-USB card | — |
 
 **All controls** means faders, pan, mute, solo, EQ, low cut, sends, stereo channels, effect returns, scenes,
 recorder (with its time) and meters — every one tried by users on their own mixer
@@ -108,8 +108,8 @@ Sound check and AI need the **USB cable** (it carries every channel's audio) and
 ## 🔑 Full PC version
 
 The PC download is a **free demo**: everything works for 14 days.  **Full version: €9.99, one time only**, valid forever on
-that PC — pay at **[paypal.me/AutoFonicMixer/9.99EUR](https://paypal.me/AutoFonicMixer/9.99EUR)**, then email
-**autofonic.mixer@gmail.com** the **code of your PC** (**🔑 Unlock** button): you get an unlock code, nothing to download.  On Android: from Google Play the full version is bought inside the app.
+that PC — **[💳 Buy](https://buy.stripe.com/fZu8wO1DR85S9pugiB63K00)** by card, Google Pay or Apple Pay and write the
+**code of your PC** (**🔑 Unlock** button): the **unlock code appears right after paying** and arrives by email too, nothing to download.  On Android: from Google Play the full version is bought inside the app.
 
 ## 🛠️ Custom features on request
 
@@ -155,7 +155,7 @@ on Android and on the PC, where it also does the sound check and the automatic m
 
 **Does it work with the ZOOM L6 / L6max?**  Yes, with the USB-C cable, or wireless with a CME WIDI Jack.
 
-**Does it work with the Behringer XR18, XR12, XR16 or X32 / Midas M32?**  Yes, from version 2.9, on the PC
+**Does it work with the Behringer XR18, XR12, XR16 or X32 / Midas M32?**  Yes, on the PC
 (Windows, Linux, Mac) over the network: faders, mute, EQ, compressor, gate, sends, mute groups, scenes.  With
 the XR18 / MR18 and the X32 (X-USB card) also the sound check and the automatic mix, listening to the USB audio.
 
@@ -222,7 +222,7 @@ Tocca il pulsante del tuo sistema: parte subito lo scaricamento dell'**ultima ve
 | 🤖 **Android** 8+ | [![Google Play](https://img.shields.io/badge/Disponibile_su-Google_Play-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer) | 7 giorni di prova completa, poi un solo acquisto |
 | 🪟 **Windows** 10 / 11 | [![Windows](https://img.shields.io/badge/⬇_Scarica-Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-windows-x64-setup.exe) | prima installa il **driver ZOOM** del tuo mixer |
 | 🐧 **Linux** (Ubuntu / Debian) | [![Linux](https://img.shields.io/badge/⬇_Scarica-Linux-f9a825?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-linux-x86_64.tar.gz) | scompatta, poi `sh installa.sh` |
-| 🍎 **Mac** (Apple Silicon) | [![Mac](https://img.shields.io/badge/⬇_Scarica-Mac-555555?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-mac-arm64.dmg) | prima volta: tasto destro → Apri · non ancora provato con un mixer vero |
+| 🍎 **Mac** (Apple Silicon) | [![Mac](https://img.shields.io/badge/⬇_Scarica-Mac-555555?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-mac-arm64.dmg) | prima volta: tasto destro → Apri |
 
 Novità e versioni precedenti: **[tutte le release](../../releases)**.  Versione completa per PC: vedi [sotto](#versione-completa).
 
@@ -235,9 +235,9 @@ Novità e versioni precedenti: **[tutte le release](../../releases)**.  Versione
 | **L12next** | USB + Bluetooth ZOOM BTA-1 | ✅ funziona | ✅ funziona |
 | **L-20 / L-20R** | USB + Bluetooth ZOOM BTA-1 | ✅ funziona — tutti i comandi | ✅ funziona — tutti i comandi |
 | **L6 / L6max** | cavo USB-C, oppure **senza fili** con un CME WIDI Jack | ✅ funziona | ✅ funziona |
-| **Behringer X Air XR18** · Midas MR18 | rete: Wi-Fi o cavo Ethernet | ✅ dalla 2.9 — con sound check e AI (audio USB) | — |
-| **Behringer X Air XR12 · XR16** · Midas MR12 | rete: Wi-Fi o cavo Ethernet | ✅ dalla 2.9 — con controllo di livelli e gain | — |
-| **Behringer X32** · Midas M32 | rete: cavo Ethernet | ✅ dalla 2.9 — 32 canali, sound check e AI con la scheda X-USB | — |
+| **Behringer X Air XR18** · Midas MR18 | rete: Wi-Fi o cavo Ethernet | ✅ funziona — con sound check e AI (audio USB) | — |
+| **Behringer X Air XR12 · XR16** · Midas MR12 | rete: Wi-Fi o cavo Ethernet | ✅ funziona — con controllo di livelli e gain | — |
+| **Behringer X32** · Midas M32 | rete: cavo Ethernet | ✅ funziona — 32 canali, sound check e AI con la scheda X-USB | — |
 
 **Tutti i comandi** vuol dire fader, pan, mute, solo, EQ, low cut, mandate, canali stereo, ritorni degli effetti,
 scene, registratore (con il suo tempo) e meter — ognuno provato dagli utenti sul proprio mixer
@@ -280,8 +280,8 @@ Per sound check e AI servono il **cavo USB** (porta l'audio di ogni canale) e, s
 ## 🔑 Versione completa per PC
 
 Quello del PC è una **demo gratuita**: funziona tutto per 14 giorni.  **Versione completa: 9,99 €, una volta sola**, vale
-per sempre su quel PC — paga su **[paypal.me/AutoFonicMixer/9.99EUR](https://paypal.me/AutoFonicMixer/9.99EUR)**, poi scrivi a
-**autofonic.mixer@gmail.com** il **codice del tuo PC** (pulsante **🔑 Sblocca**): ricevi il codice di sblocco, senza scaricare niente.  Su Android: da Google Play la versione completa si compra dentro l'app.
+per sempre su quel PC — **[💳 Compra](https://buy.stripe.com/fZu8wO1DR85S9pugiB63K00)** con carta, Google Pay o Apple Pay e scrivi il
+**codice del tuo PC** (pulsante **🔑 Sblocca**): il **codice di sblocco compare subito dopo il pagamento** e arriva anche per email, senza scaricare niente.  Su Android: da Google Play la versione completa si compra dentro l'app.
 
 ## 🛠️ Personalizzazioni su richiesta
 
@@ -327,7 +327,7 @@ e sul PC, dove fa anche il sound check e il mix automatico.
 
 **Funziona con ZOOM L6 / L6max?**  Sì, con il cavo USB-C, oppure senza fili con un CME WIDI Jack.
 
-**Funziona con Behringer XR18, XR12, XR16 o X32 / Midas M32?**  Sì, dalla versione 2.9, sul PC (Windows, Linux,
+**Funziona con Behringer XR18, XR12, XR16 o X32 / Midas M32?**  Sì, sul PC (Windows, Linux,
 Mac) in rete: fader, mute, EQ, compressore, gate, mandate, mute group, scene.  Con XR18 / MR18 e X32 (scheda
 X-USB) anche il sound check e il mix automatico, ascoltando l'audio USB.
 
