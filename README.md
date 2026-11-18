@@ -34,7 +34,7 @@ Tap the button for your system: the download of the **latest version** starts ri
 
 | System | Download | Notes |
 |---|---|---|
-| 🤖 **Android** 8+ | [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer) | 7-day full trial, then a one-time purchase · or the [APK file](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-android.apk) |
+| 🤖 **Android** 8+ | [![Google Play](https://img.shields.io/badge/Get_it_on-Google_Play-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer) | 7-day full trial, then a one-time purchase |
 | 🪟 **Windows** 10 / 11 | [![Windows](https://img.shields.io/badge/⬇_Download-Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-windows-x64-setup.exe) | install the **ZOOM driver** of your mixer first |
 | 🐧 **Linux** (Ubuntu / Debian) | [![Linux](https://img.shields.io/badge/⬇_Download-Linux-f9a825?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-linux-x86_64.tar.gz) | unpack, then `sh installa.sh` |
 | 🍎 **Mac** (Apple Silicon) | [![Mac](https://img.shields.io/badge/⬇_Download-Mac-555555?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-mac-arm64.dmg) | first time: right click → Open · not tested with a real mixer yet |
@@ -96,8 +96,7 @@ Sound check and AI need the **USB cable** (it carries every channel's audio) and
 
 The PC download is a **free demo**: everything works for 14 days.  **Full version: €9.99, one time only**, valid forever on
 that PC — pay at **[paypal.me/AutoFonicMixer/9.99EUR](https://paypal.me/AutoFonicMixer/9.99EUR)**, then email
-**autofonic.mixer@gmail.com** the **code of your PC** (**🔑 Unlock** button): you get an unlock code, nothing to download.  On Android: from Google Play the full version is bought inside the app; the APK from
-here unlocks the same way as the PC (tap **DEMO** for the phone's code).
+**autofonic.mixer@gmail.com** the **code of your PC** (**🔑 Unlock** button): you get an unlock code, nothing to download.  On Android: from Google Play the full version is bought inside the app.
 
 ## 🛠️ Custom features on request
 
@@ -119,9 +118,9 @@ Write to **autofonic.mixer@gmail.com** and tell me what you need.
 2. Start "AutoFonic Mixer" from the menu: USB, audio and Bluetooth are found automatically.
 
 **Mac**: open the `.dmg`, drag the app into Applications; the first time: right click → Open.  The Mac version
-has not been tested with a real mixer yet: if you have a Mac and a LiveTrak, write to me.
+has been tried with an L-20R over Bluetooth and USB.
 
-**Android without Google Play**: download the `.apk` on the phone and allow the installation.  With L12next and
+**Android**: install AutoFonic Mixer from [Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer).  With L12next and
 L-20, plug the BTA-1 in **before** switching the mixer on and close the ZOOM app (the BTA-1 accepts one
 connection only).  With the L6: USB-C cable into the mixer's USB port, or a CME WIDI Jack in the MIDI socket.
 
@@ -199,7 +198,7 @@ Tocca il pulsante del tuo sistema: parte subito lo scaricamento dell'**ultima ve
 
 | Sistema | Scarica | Note |
 |---|---|---|
-| 🤖 **Android** 8+ | [![Google Play](https://img.shields.io/badge/Disponibile_su-Google_Play-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer) | 7 giorni di prova completa, poi un solo acquisto · oppure il [file APK](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-android.apk) |
+| 🤖 **Android** 8+ | [![Google Play](https://img.shields.io/badge/Disponibile_su-Google_Play-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer) | 7 giorni di prova completa, poi un solo acquisto |
 | 🪟 **Windows** 10 / 11 | [![Windows](https://img.shields.io/badge/⬇_Scarica-Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-windows-x64-setup.exe) | prima installa il **driver ZOOM** del tuo mixer |
 | 🐧 **Linux** (Ubuntu / Debian) | [![Linux](https://img.shields.io/badge/⬇_Scarica-Linux-f9a825?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-linux-x86_64.tar.gz) | scompatta, poi `sh installa.sh` |
 | 🍎 **Mac** (Apple Silicon) | [![Mac](https://img.shields.io/badge/⬇_Scarica-Mac-555555?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/francescorizzo-cyber/autofonic-mixer/releases/latest/download/AutoFonicMixer-DEMO-mac-arm64.dmg) | prima volta: tasto destro → Apri · non ancora provato con un mixer vero |
@@ -252,8 +251,7 @@ Per sound check e AI servono il **cavo USB** (porta l'audio di ogni canale) e, s
 
 Quello del PC è una **demo gratuita**: funziona tutto per 14 giorni.  **Versione completa: 9,99 €, una volta sola**, vale
 per sempre su quel PC — paga su **[paypal.me/AutoFonicMixer/9.99EUR](https://paypal.me/AutoFonicMixer/9.99EUR)**, poi scrivi a
-**autofonic.mixer@gmail.com** il **codice del tuo PC** (pulsante **🔑 Sblocca**): ricevi il codice di sblocco, senza scaricare niente.  Su Android: da Google Play la versione completa si compra dentro l'app; l'APK
-di qui si sblocca come il PC (tocca **DEMO** per il codice del telefono).
+**autofonic.mixer@gmail.com** il **codice del tuo PC** (pulsante **🔑 Sblocca**): ricevi il codice di sblocco, senza scaricare niente.  Su Android: da Google Play la versione completa si compra dentro l'app.
 
 ## 🛠️ Personalizzazioni su richiesta
 
@@ -275,9 +273,9 @@ Scrivi a **autofonic.mixer@gmail.com** e racconta cosa ti serve.
 2. Avvia "AutoFonic Mixer" dal menu: USB, audio e Bluetooth si trovano da soli.
 
 **Mac**: apri il `.dmg`, trascina l'app in Applicazioni, la prima volta: tasto destro → Apri.  La versione
-per Mac non è ancora stata provata con un mixer vero: se hai un Mac e un LiveTrak, scrivimi.
+per Mac è stata provata con un L-20R, in Bluetooth e con il cavo USB.
 
-**Android senza Google Play**: scarica l'`.apk` dal telefono e consenti l'installazione.  Con L12next e
+**Android**: installa AutoFonic Mixer da [Google Play](https://play.google.com/store/apps/details?id=com.autofonic.mixer).  Con L12next e
 L-20 inserisci il BTA-1 **prima** di accendere il mixer e chiudi l'app ZOOM (il BTA-1 accetta un solo
 collegamento).  Con il L6: cavo USB-C nella presa USB del mixer, oppure un CME WIDI Jack nella presa MIDI.
 
