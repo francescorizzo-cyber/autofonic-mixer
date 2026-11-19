@@ -76,8 +76,8 @@ channel names written on the mixer become the instruments of the sound check.
 their own channels and set up the mix in peace: EQ, faders, monitor sends, even the AI sound check — the day
 before the gig or with the venue still empty.
 
-- **One button for everything**: AutoFonic Mixer arms the channels, records, rewinds and plays, with **loop** on
-  the part you choose
+- **One button for everything**: AutoFonic Mixer arms the channels, records, rewinds and plays, in **loop**: when
+  the recording ends it starts again
 - the recorded tracks of **CH1–16** come back into their channels, exactly as the mixer's REC/PLAY keys do
 - **"Back to live"** puts every channel back as it was, also if you close the program, the Bluetooth drops or the
   demo ends: no channel stays without its input at the gig
@@ -282,8 +282,8 @@ mixer diventano gli strumenti del sound check.
 nei loro canali e sistemi il mix con calma: EQ, fader, mandate ai monitor, anche il sound check con l'AI — il
 giorno prima del concerto o con il locale ancora vuoto.
 
-- **Un pulsante per tutto**: AutoFonic Mixer prepara i canali, registra, torna all'inizio e fa ripartire, con il
-  **loop** sul pezzo che scegli
+- **Un pulsante per tutto**: AutoFonic Mixer prepara i canali, registra, torna all'inizio e fa ripartire, in
+  **loop**: quando la registrazione finisce riparte da capo
 - le tracce registrate di **CH1–16** tornano nei loro canali, proprio come con i tasti REC/PLAY del mixer
 - **"Torna al live"** rimette ogni canale com'era, anche se chiudi il programma, cade il Bluetooth o finisce la
   demo: al concerto nessun canale resta senza il suo ingresso
