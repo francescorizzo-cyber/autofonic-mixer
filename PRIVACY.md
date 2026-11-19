@@ -1,6 +1,6 @@
 # AutoFonic Mixer - Informativa sulla privacy / Privacy policy
 
-*Ultimo aggiornamento / Last updated: 27/10/2026*
+*Ultimo aggiornamento / Last updated: 19/11/2026*
 
 ## Italiano
 
@@ -20,7 +20,13 @@ nessun dato personale**.
   che la versione completa è stata acquistata; nessun dato di pagamento arriva allo sviluppatore tramite l'app.
 - **Rapporto**: il pulsante "Rapporto" prepara un testo tecnico (modello del telefono, versione di Android,
   messaggi scambiati con il mixer) che **tu** puoi decidere di mandare per email.  Niente viene inviato da solo.
-- Nessuna pubblicità, nessuna statistica, nessun tracciamento, nessuna connessione a internet da parte dell'app
+- **Programma per PC e internet**: il pulsante "Aggiornamenti" chiede a GitHub qual è l'ultima versione.  La finestra
+  "Sblocca" (dalla 2.9.1) chiede al servizio di sblocco di AutoFonic Mixer se il **codice di questo PC** (8 lettere e
+  numeri, nessun dato personale) risulta pagato, così il programma si sblocca da solo.  Non viene mandato nient'altro.
+- **Acquisti sul PC**: si paga nel browser, sulla pagina di **Stripe** (carta, Google Pay, Apple Pay) o su **PayPal**,
+  che gestiscono i dati di pagamento.  Lo sviluppatore riceve solo l'email e il codice del PC, per mandarti il codice
+  di sblocco.
+- Nessuna pubblicità, nessuna statistica, nessun tracciamento.  L'app per telefono non si collega a internet
   (tranne la verifica degli acquisti con Google Play nella versione del Play Store).
 
 Contatto: **autofonic.mixer@gmail.com**
@@ -43,7 +49,13 @@ data**.
   that the full version was purchased; no payment data reaches the developer through the app.
 - **Report**: the "Report" button prepares a technical text (phone model, Android version, messages exchanged with
   the mixer) that **you** can choose to send by email.  Nothing is sent automatically.
-- No ads, no analytics, no tracking, no internet connection by the app (except checking purchases with Google
-  Play in the Play Store version).
+- **PC program and internet**: the "Updates" button asks GitHub which is the latest version.  The "Unlock" window
+  (from 2.9.1) asks the AutoFonic Mixer unlock service whether the **code of this PC** (8 letters and numbers, no
+  personal data) has been paid, so the program unlocks by itself.  Nothing else is sent.
+- **Purchases on the PC**: you pay in the browser, on the **Stripe** page (card, Google Pay, Apple Pay) or on
+  **PayPal**, which handle the payment data.  The developer only receives the email and the PC code, to send you the
+  unlock code.
+- No ads, no analytics, no tracking.  The phone app does not connect to the internet (except checking purchases with
+  Google Play in the Play Store version).
 
 Contact: **autofonic.mixer@gmail.com**
