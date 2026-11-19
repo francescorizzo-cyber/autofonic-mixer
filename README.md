@@ -108,9 +108,13 @@ Sound check and AI need the **USB cable** (it carries every channel's audio) and
 ## 🔑 Full PC version
 
 The PC download is a **free demo**: everything works for 14 days.  **Full version: €9.99, one time only**, valid forever on
-that PC.  You need the **code of your PC** (**🔑 Unlock** button in the program), then choose how to pay:
+that PC.
 
-- **[💳 Card, Google Pay or Apple Pay](https://buy.stripe.com/fZu8wO1DR85S9pugiB63K00)** (Stripe): write the code of your PC when paying — the **unlock code
+**⚡ Pay by card and you get the unlock code right away**, on screen and by email: no waiting.
+
+You need the **code of your PC** (**🔑 Unlock** button in the program), then choose how to pay:
+
+- **[💳 Card, Google Pay or Apple Pay](https://buy.stripe.com/fZu8wO1DR85S9pugiB63K00)** (Stripe): write the code of your PC when paying — **⚡ the unlock code
   appears right after paying** and arrives by email too.
 - **[🅿️ PayPal](https://paypal.me/AutoFonicMixer/9.99EUR)**: then email **autofonic.mixer@gmail.com** the code of your PC — you get the unlock code by email.
 
@@ -285,9 +289,13 @@ Per sound check e AI servono il **cavo USB** (porta l'audio di ogni canale) e, s
 ## 🔑 Versione completa per PC
 
 Quello del PC è una **demo gratuita**: funziona tutto per 14 giorni.  **Versione completa: 9,99 €, una volta sola**, vale
-per sempre su quel PC.  Ti serve il **codice del tuo PC** (pulsante **🔑 Sblocca** nel programma), poi scegli come pagare:
+per sempre su quel PC.
 
-- **[💳 Carta, Google Pay o Apple Pay](https://buy.stripe.com/fZu8wO1DR85S9pugiB63K00)** (Stripe): scrivi il codice del PC mentre paghi — il **codice di sblocco
+**⚡ Paghi con la carta e ricevi subito il codice di sblocco**, sullo schermo e per email: senza aspettare.
+
+Ti serve il **codice del tuo PC** (pulsante **🔑 Sblocca** nel programma), poi scegli come pagare:
+
+- **[💳 Carta, Google Pay o Apple Pay](https://buy.stripe.com/fZu8wO1DR85S9pugiB63K00)** (Stripe): scrivi il codice del PC mentre paghi — **⚡ il codice di sblocco
   compare subito dopo il pagamento** e arriva anche per email.
 - **[🅿️ PayPal](https://paypal.me/AutoFonicMixer/9.99EUR)**: poi scrivi a **autofonic.mixer@gmail.com** il codice del tuo PC — ricevi il codice di sblocco per email.
 
