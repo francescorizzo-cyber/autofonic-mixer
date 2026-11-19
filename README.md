@@ -70,6 +70,22 @@ channel names written on the mixer become the instruments of the sound check.
 > 💬 Feedback, problems, ideas: **[open an issue](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (free GitHub account) or write to **autofonic.mixer@gmail.com**.
 
 
+## 🔜 Coming soon: virtual soundcheck — ZOOM L-20 / L-20R
+
+**Soundcheck without the band.**  Record the band once on the mixer's SD card, then play the tracks back through
+their own channels and set up the mix in peace: EQ, faders, monitor sends, even the AI sound check — the day
+before the gig or with the venue still empty.
+
+- **One button for everything**: AutoFonic Mixer arms the channels, records, rewinds and plays, with **loop** on
+  the part you choose
+- the recorded tracks of **CH1–16** come back into their channels, exactly as the mixer's REC/PLAY keys do
+- **"Back to live"** puts every channel back as it was, also if you close the program, the Bluetooth drops or the
+  demo ends: no channel stays without its input at the gig
+- **PC and Android**, **in the free demo too**
+
+Only for the **ZOOM LiveTrak L-20 and L-20R**: they are the only LiveTrak mixers whose tracks can be switched to
+PLAY one by one from an app.  Coming in the next version.
+
 ## 💻 On the PC (Windows · Linux · Mac)
 
 - **The whole mixer on screen**: faders, mute, solo, phase, pan, meters, monitor sends, scenes, recorder.
@@ -259,6 +275,22 @@ mixer diventano gli strumenti del sound check.
 
 > 💬 Commenti, problemi, idee: **[scrivi qui](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (account GitHub gratuito) oppure ad **autofonic.mixer@gmail.com**.
 
+
+## 🔜 In arrivo: soundcheck virtuale — ZOOM L-20 / L-20R
+
+**Il soundcheck senza la band.**  Registri la band una volta sulla scheda SD del mixer, poi rimandi le tracce
+nei loro canali e sistemi il mix con calma: EQ, fader, mandate ai monitor, anche il sound check con l'AI — il
+giorno prima del concerto o con il locale ancora vuoto.
+
+- **Un pulsante per tutto**: AutoFonic Mixer prepara i canali, registra, torna all'inizio e fa ripartire, con il
+  **loop** sul pezzo che scegli
+- le tracce registrate di **CH1–16** tornano nei loro canali, proprio come con i tasti REC/PLAY del mixer
+- **"Torna al live"** rimette ogni canale com'era, anche se chiudi il programma, cade il Bluetooth o finisce la
+  demo: al concerto nessun canale resta senza il suo ingresso
+- **PC e Android**, **anche nella demo gratuita**
+
+Solo per **ZOOM LiveTrak L-20 e L-20R**: sono gli unici LiveTrak in cui da un'app si possono mettere in PLAY le
+tracce una per una.  Arriva con la prossima versione.
 
 ## 💻 Sul PC (Windows · Linux · Mac)
 
