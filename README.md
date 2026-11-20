@@ -22,8 +22,20 @@ every channel.  In **10 languages**.
 
 🌐 **Website:** https://francescorizzo-cyber.github.io/autofonic-mixer/
 
-🆕 **New in version 2.9: Behringer and Midas mixers** — X Air **XR12 · XR16 · XR18** (and Midas MR12 / MR18) and
-**X32** (and Midas M32), from the PC over the network (Wi-Fi or cable).  See the [supported mixers](#supported).
+## 🆕 News
+
+- **2.9.2** · 20 Nov 2026 — 📱 **Monitors from the phone**: each musician sets their own monitor mix from the phone
+  or tablet browser (iPhone and iPad too), with AutoFonic Mixer on the PC holding the mixer ·
+  🎚 **Virtual soundcheck** for L-20 / L-20R (PC and Android) · 🎨 default instruments for Behringer and L6
+- **2.9.1** · 19 Nov 2026 — 🔓 the PC program **unlocks by itself** after paying by card · 💾 L-20: **SD
+  recording time left** · 🎬 scene buttons with just the number
+- **2.9** · 18 Nov 2026 — 🎛️ **Behringer and Midas** mixers on the PC: X Air XR12 · XR16 · XR18, X32, Midas MR18 ·
+  M32 · 💳 full PC version €9.99, unlock code right after paying · 🪕 ukulele instruments
+- **2.8.28** · 18 Nov 2026 — 🎛️ L-20: master graphic EQ, effects 1 and 2, master REC/PLAY · 💾 the SD project in
+  the recorder bar
+- **2.8.27** · 17 Nov 2026 — 🔴🟢 L-20: a REC/PLAY button on every channel strip, like on the mixer
+
+Full release notes: **[all versions](../../releases)**.
 
 **The ZOOM LiveTrak app for Android and PC.**  ZOOM's own control apps (L-20 Control, L-12 Control) run only on
 iPhone and iPad: AutoFonic Mixer is the **ZOOM L-20 / L-20R app for Android**, the **L12next remote control for
@@ -70,7 +82,7 @@ channel names written on the mixer become the instruments of the sound check.
 > 💬 Feedback, problems, ideas: **[open an issue](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (free GitHub account) or write to **autofonic.mixer@gmail.com**.
 
 
-## 🔜 Coming soon: virtual soundcheck — ZOOM L-20 / L-20R
+## 🎚 Virtual soundcheck — ZOOM L-20 / L-20R — new in 2.9.2
 
 **Soundcheck without the band.**  Record the band once on the mixer's SD card, then play the tracks back through
 their own channels and set up the mix in peace: EQ, faders, monitor sends, even the AI sound check — the day
@@ -84,7 +96,27 @@ before the gig or with the venue still empty.
 - **PC and Android**, **in the free demo too**
 
 Only for the **ZOOM LiveTrak L-20 and L-20R**: they are the only LiveTrak mixers whose tracks can be switched to
-PLAY one by one from an app.  Coming in the next version.
+PLAY one by one from an app.  First version: your reports from real gigs are welcome.
+
+<a id="phone-monitors"></a>
+
+## 📱 Monitors from the phone — new in 2.9.2
+
+**Every musician sets their own monitor mix, from their own phone.**  AutoFonic Mixer on the PC holds the mixer;
+the musicians scan a QR code and a page opens in the browser: **iPhone, iPad and Android, nothing to install**.
+
+- each one picks their monitor (name them on the PC, e.g. *C · Drummer*) and moves only **their own** mix: how much
+  of each channel they hear, plus the monitor volume
+- **several phones at once**; what the sound engineer changes shows up on the phones by itself
+- **safe**: a 4-digit code, only the monitor sends (never the main mix, mutes or scenes), only from the local network
+- ZOOM L12next, L-20 / L-20R, L6 and Behringer X Air / X32.  On the PC: **☰ More → 📱 Monitors from the phone**
+- free during the 14-day PC demo
+
+**Connecting the phones:** PC and phones on the same Wi-Fi, no internet needed.  The safest is any Wi-Fi router on
+stage; the venue's Wi-Fi works too (not the "guest" network), or a phone's or the PC's hotspot.  If Windows asks
+for network access, answer *Allow*; if it works at home but not at the venue, set that Wi-Fi as a *private* network.
+
+![Monitors from the phone](immagini/10_monitor_dal_telefono_en.jpg)
 
 ## 💻 On the PC (Windows · Linux · Mac)
 
@@ -97,7 +129,7 @@ PLAY one by one from an app.  Coming in the next version.
 - **SD export**: the recordings on the SD card become WAV tracks named after the channel, plus the master and
   a stereo mix, in WAV or MP3.
 - **Tuner** for guitar, bass and drums.
-- **Respects your mixer**: never changes scene by itself, never touches monitor sends or master.
+- **Respects your mixer**: never changes scene by itself, and the AI never touches monitor sends or master.
 
 Sound check and AI need the **USB cable** (it carries every channel's audio) and, on L12next and L-20, the **BTA-1**.
 
@@ -176,7 +208,12 @@ ZOOM's L-20 Control app exists only for iOS.  It connects with the ZOOM BTA-1 Bl
 Mac computer: faders, mute, solo, pan, EQ, monitor mixes A–F, effect returns, scenes and the SD recorder.
 
 **Is there an app for the ZOOM L12next / L-12 on Android or Windows?**  Yes, AutoFonic Mixer supports the L12next
-on Android and on the PC, where it also does the sound check and the automatic mix.
+on Android and on the PC, where it also does the sound check and the automatic mix.  The original L-12 is not
+supported.
+
+**Is there an iPhone / iPad app?**  Not yet.  But with the [monitors from the phone](#phone-monitors) every
+musician can set their own monitor mix from an iPhone or iPad browser, with AutoFonic Mixer on the PC holding
+the mixer.
 
 **Does it work with the ZOOM L6 / L6max?**  Yes, with the USB-C cable, or wireless with a CME WIDI Jack.
 
@@ -236,8 +273,20 @@ AutoFonic Mixer comanda il tuo LiveTrak dal **computer** o dal **telefono**, fa 
 schermo** (leggibile anche da dietro la batteria) e **bilancia il mix mentre suoni**, ascoltando l'audio di
 tutti i canali.  In **10 lingue**.
 
-🆕 **Novità della versione 2.9: mixer Behringer e Midas** — X Air **XR12 · XR16 · XR18** (e Midas MR12 / MR18) e
-**X32** (e Midas M32), dal PC in rete (Wi-Fi o cavo).  Vedi i [mixer supportati](#mixer-supportati).
+## 🆕 Novità
+
+- **2.9.2** · 20 nov 2026 — 📱 **Monitor dal telefono**: ogni musicista regola il suo monitor dal browser del
+  telefono o del tablet (anche iPhone e iPad), con AutoFonic Mixer sul PC che tiene il mixer ·
+  🎚 **Soundcheck virtuale** per L-20 / L-20R (PC e Android) · 🎨 strumenti di serie per Behringer e L6
+- **2.9.1** · 19 nov 2026 — 🔓 il programma per PC **si sblocca da solo** dopo il pagamento con la carta ·
+  💾 L-20: il **tempo di registrazione che resta sulla SD** · 🎬 tasti delle scene col solo numero
+- **2.9** · 18 nov 2026 — 🎛️ mixer **Behringer e Midas** sul PC: X Air XR12 · XR16 · XR18, X32, Midas MR18 · M32 ·
+  💳 versione completa per PC a 9,99 €, codice di sblocco subito dopo il pagamento · 🪕 strumenti ukulele
+- **2.8.28** · 18 nov 2026 — 🎛️ L-20: EQ grafico del master, effetti 1 e 2, REC/PLAY del master · 💾 il progetto
+  della SD nella barra del registratore
+- **2.8.27** · 17 nov 2026 — 🔴🟢 L-20: un tasto REC/PLAY su ogni striscia, come sul mixer
+
+Note complete: **[tutte le versioni](../../releases)**.
 
 <a id="scarica"></a>
 
@@ -279,7 +328,7 @@ mixer diventano gli strumenti del sound check.
 > 💬 Commenti, problemi, idee: **[scrivi qui](https://github.com/francescorizzo-cyber/autofonic-mixer/issues/new/choose)** (account GitHub gratuito) oppure ad **autofonic.mixer@gmail.com**.
 
 
-## 🔜 In arrivo: soundcheck virtuale — ZOOM L-20 / L-20R
+## 🎚 Soundcheck virtuale — ZOOM L-20 / L-20R — novità della 2.9.2
 
 **Il soundcheck senza la band.**  Registri la band una volta sulla scheda SD del mixer, poi rimandi le tracce
 nei loro canali e sistemi il mix con calma: EQ, fader, mandate ai monitor, anche il sound check con l'AI — il
@@ -293,7 +342,29 @@ giorno prima del concerto o con il locale ancora vuoto.
 - **PC e Android**, **anche nella demo gratuita**
 
 Solo per **ZOOM LiveTrak L-20 e L-20R**: sono gli unici LiveTrak in cui da un'app si possono mettere in PLAY le
-tracce una per una.  Arriva con la prossima versione.
+tracce una per una.  Prima versione: i vostri rapporti dai concerti veri sono benvenuti.
+
+<a id="monitor-dal-telefono"></a>
+
+## 📱 Monitor dal telefono — novità della 2.9.2
+
+**Ogni musicista regola il suo monitor, dal suo telefono.**  AutoFonic Mixer sul PC tiene il mixer; i musicisti
+inquadrano un QR e si apre una pagina nel browser: **iPhone, iPad e Android, senza installare niente**.
+
+- ognuno sceglie il suo monitor (dagli un nome sul PC, es. *C · Batterista*) e muove solo **il suo** mix: quanto
+  sente di ogni canale, più il volume del monitor
+- **più telefoni insieme**; quello che cambia il fonico si vede da solo sui telefoni
+- **sicuro**: codice di 4 cifre, solo le mandate ai monitor (mai il mix di sala, i mute o le scene), solo dalla
+  rete locale
+- ZOOM L12next, L-20 / L-20R, L6 e Behringer X Air / X32.  Sul PC: **☰ Altro → 📱 Monitor dal telefono**
+- libero nei 14 giorni della demo per PC
+
+**Come collegare i telefoni:** PC e telefoni sulla stessa Wi-Fi, internet non serve.  Il modo più sicuro è un
+router Wi-Fi qualsiasi sul palco; va bene anche il Wi-Fi del locale (non la rete "ospiti"), o l'hotspot di un
+telefono o del PC.  Se Windows chiede l'accesso alla rete, rispondi *Consenti*; se a casa funziona e al locale no,
+imposta quella Wi-Fi come rete *privata*.
+
+![Monitor dal telefono](immagini/10_monitor_dal_telefono_it.jpg)
 
 ## 💻 Sul PC (Windows · Linux · Mac)
 
@@ -306,7 +377,7 @@ tracce una per una.  Arriva con la prossima versione.
 - **Esporta SD**: le registrazioni della scheda SD diventano tracce WAV col nome del canale, il master e un
   mix stereo, in WAV o MP3.
 - **Accordatore** per chitarra, basso e batteria.
-- **Rispetta il tuo mixer**: non cambia mai scena da solo e non tocca monitor né master.
+- **Rispetta il tuo mixer**: non cambia mai scena da solo e l'AI non tocca monitor né master.
 
 Per sound check e AI servono il **cavo USB** (porta l'audio di ogni canale) e, su L12next e L-20, il **BTA-1**.
 
@@ -376,7 +447,11 @@ L'app L-20 Control di ZOOM esiste solo per iOS.  Si collega con l'adattatore Blu
 o Mac: fader, mute, solo, pan, EQ, mix monitor A–F, ritorni effetti, scene e registratore SD.
 
 **C'è un'app per ZOOM L12next / L-12 su Android o Windows?**  Sì, AutoFonic Mixer supporta il L12next su Android
-e sul PC, dove fa anche il sound check e il mix automatico.
+e sul PC, dove fa anche il sound check e il mix automatico.  Il vecchio L-12 non è supportato.
+
+**C'è un'app per iPhone / iPad?**  Non ancora.  Ma con i [monitor dal telefono](#monitor-dal-telefono) ogni
+musicista regola il suo monitor dal browser di un iPhone o di un iPad, con AutoFonic Mixer sul PC che tiene il
+mixer.
 
 **Funziona con ZOOM L6 / L6max?**  Sì, con il cavo USB-C, oppure senza fili con un CME WIDI Jack.
 

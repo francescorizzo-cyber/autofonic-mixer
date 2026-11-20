@@ -50,7 +50,7 @@
 </script>
 <style>
 :root{--bg:#141619;--panel:#1d2025;--text:#eceae6;--muted:#a9a59f;--gold:#e8aa40;--green:#45b86e;--blue:#5a96ff;--ok:#45b86e}
-@media (prefers-color-scheme: light){:root:not([data-theme="dark"]){--bg:#f6f4f0;--panel:#fff;--text:#1d1d1f;--muted:#5d5a55;--gold:#a8700f;--ok:#1d7a44}}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]){--bg:#f6f4f0;--panel:#fff;--text:#1d1d1f;--muted:#5d5a55;--gold:#a8700f;--ok:#1d7a44;--blue:#2f6fd6}}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:17px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 main{max-width:1000px;margin:0 auto;padding:24px 16px 48px}
 header p.k{color:var(--gold);letter-spacing:.12em;font-weight:600;margin:0}
@@ -81,6 +81,18 @@ small{color:var(--muted)}a{color:var(--blue)}
 </div>
 </header>
 
+<section class="card" id="news" style="margin:4px 0 28px;border:2px solid var(--green)">
+<p class="k" style="color:var(--ok);letter-spacing:.12em;font-weight:600;margin:0">🆕 NEWS</p>
+<ul style="margin:.5em 0 0;padding-left:1.2em;line-height:1.5">
+<li><strong>2.9.2</strong> · 20 Nov 2026 — 📱 <strong>Monitors from the phone</strong>: each musician sets their own monitor mix from the phone or tablet browser (iPhone and iPad too) · 🎚 <strong>Virtual soundcheck</strong> for L-20 / L-20R · 🎨 default instruments for Behringer and L6</li>
+<li><strong>2.9.1</strong> · 19 Nov 2026 — 🔓 the PC program <strong>unlocks by itself</strong> after paying by card · 💾 L-20: SD recording time left · 🎬 scene buttons with just the number</li>
+<li><strong>2.9</strong> · 18 Nov 2026 — 🎛️ <strong>Behringer and Midas</strong> mixers on the PC (X Air XR12 · XR16 · XR18, X32, Midas MR18 · M32) · 💳 full version €9.99, code right after paying · 🪕 ukulele instruments</li>
+<li><strong>2.8.28</strong> · 18 Nov 2026 — 🎛️ L-20: master graphic EQ, effects 1 and 2, master REC/PLAY</li>
+<li><strong>2.8.27</strong> · 17 Nov 2026 — 🔴🟢 L-20: a REC/PLAY button on every channel strip</li>
+</ul>
+<p style="margin:.6em 0 0"><small><a href="https://github.com/francescorizzo-cyber/autofonic-mixer/releases">All versions and full release notes</a></small></p>
+</section>
+
 <img src="img/autofonic-mixer-zoom-behringer.jpg" width="1280" height="640" alt="AutoFonic Mixer: control app for ZOOM LiveTrak and Behringer X Air / X32 on Android phone and PC">
 
 <h2>Supported mixers</h2>
@@ -103,8 +115,22 @@ small{color:var(--muted)}a{color:var(--blue)}
 <div class="card"><img src="img/livetrak-sound-check.jpg" alt="Full-screen sound check for ZOOM LiveTrak" loading="lazy"><p><strong>A sound engineer inside.</strong> On the PC, a full-screen sound check readable from behind the drums, and an assistant that listens to every channel over USB and balances the mix while you play.</p></div>
 </div>
 
-<div class="card" style="margin:36px 0 0;border:2px solid var(--gold)">
-<p class="k" style="color:var(--gold);letter-spacing:.12em;font-weight:600;margin:0">🔜 COMING SOON · ZOOM L-20 / L-20R</p>
+<div class="card" id="phone-monitors" style="margin:36px 0 0;border:2px solid var(--blue)">
+<p class="k" style="color:var(--blue);letter-spacing:.12em;font-weight:600;margin:0">🆕 NEW IN 2.9.2 · ON THE PC</p>
+<h2 style="margin:.3em 0 .4em">Monitors from the phone: every musician sets their own monitor mix</h2>
+<img src="img/phone-monitor-mix-en.jpg" width="1230" height="790" alt="Personal monitor mix from the phone browser: choose your monitor, then set how much of each channel you hear" loading="lazy" style="margin:0 0 12px">
+<p style="margin:0 0 10px">AutoFonic Mixer on the PC holds the mixer; the musicians scan a QR code and a page opens in the browser: <strong>iPhone, iPad and Android, nothing to install</strong>.</p>
+<ul style="margin:0 0 10px">
+<li>Each one picks their monitor (name them on the PC, e.g. <em>C · Drummer</em>) and moves only <strong>their own</strong> mix: how much of each channel they hear, plus the monitor volume.</li>
+<li><strong>Several phones at once</strong>; what the sound engineer changes shows up on the phones by itself.</li>
+<li><strong>Safe</strong>: a 4-digit code, only the monitor sends (never the main mix, mutes or scenes), only from the local network.</li>
+<li>ZOOM L12next, L-20 / L-20R, L6 and Behringer X Air / X32. Free during the 14-day PC demo.</li>
+</ul>
+<p style="margin:0"><small>PC and phones on the same Wi-Fi, no internet needed: any Wi-Fi router on stage (the safest), the venue's Wi-Fi (not the "guest" network), or a phone's or the PC's hotspot. If it works at home but not at the venue, set that Wi-Fi as a private network in Windows.</small></p>
+</div>
+
+<div class="card" style="margin:24px 0 0;border:2px solid var(--gold)">
+<p class="k" style="color:var(--gold);letter-spacing:.12em;font-weight:600;margin:0">🆕 NEW IN 2.9.2 · ZOOM L-20 / L-20R</p>
 <h2 style="margin:.3em 0 .4em">Virtual soundcheck: the soundcheck without the band</h2>
 <p style="margin:0 0 10px">Record the band once on the mixer's SD card, then play the tracks back through their own channels and set up the mix in peace: EQ, faders, monitor mixes, even the AI sound check. The day before the gig, or with the venue still empty.</p>
 <ul style="margin:0 0 10px">
@@ -113,13 +139,14 @@ small{color:var(--muted)}a{color:var(--blue)}
 <li><strong>"Back to live"</strong> puts every channel back as it was, even if you close the program, the Bluetooth drops or the demo ends.</li>
 <li><strong>PC and Android</strong>, <strong>in the free demo too</strong>.</li>
 </ul>
-<p style="margin:0"><small>Only for the ZOOM LiveTrak L-20 and L-20R: the only LiveTrak mixers whose tracks an app can switch to PLAY one by one. Coming in the next version.</small></p>
+<p style="margin:0"><small>Only for the ZOOM LiveTrak L-20 and L-20R: the only LiveTrak mixers whose tracks an app can switch to PLAY one by one. First version: your reports from real gigs are welcome.</small></p>
 </div>
 
 <h2>Frequently asked questions</h2>
 <p><strong>Is there a ZOOM L-20 / L-20R app for Android?</strong><br>Yes: AutoFonic Mixer, on Google Play. ZOOM's L-20 Control app exists only for iOS. It connects with the ZOOM BTA-1 Bluetooth adapter, like ZOOM's app.</p>
 <p><strong>Can I control a ZOOM LiveTrak L-20R without an iPad?</strong><br>Yes, from an Android phone or from a Windows, Linux or Mac computer.</p>
-<p><strong>Is there an app for the ZOOM L12next on Android or Windows?</strong><br>Yes, on Android and on the PC, where it also runs the sound check and the automatic mix.</p>
+<p><strong>Is there an app for the ZOOM L12next on Android or Windows?</strong><br>Yes, on Android and on the PC, where it also runs the sound check and the automatic mix. The original L-12 is not supported.</p>
+<p><strong>Is there an iPhone / iPad app?</strong><br>Not yet. But with the <a href="#phone-monitors">monitors from the phone</a> every musician can set their own monitor mix from an iPhone or iPad browser, with AutoFonic Mixer on the PC holding the mixer.</p>
 <p><strong>Does it work with the ZOOM L6 / L6max?</strong><br>Yes, with the USB-C cable, or wireless with a CME WIDI Jack.</p>
 <p><strong>Does it work with the Behringer XR18, XR12, XR16 or X32 / Midas M32?</strong><br>Yes, on the PC (Windows, Linux, Mac) over the network: faders, mute, EQ, compressor, gate, sends, mute groups, scenes. With the XR18 / MR18 and the X32 also the sound check and the automatic mix.</p>
 <p><strong>Is it free?</strong><br>Android: 7-day free trial, then a one-time purchase. PC: free 14-day demo, then the full version for €9.99, one time only: pay by card and you get the unlock code right away.</p>

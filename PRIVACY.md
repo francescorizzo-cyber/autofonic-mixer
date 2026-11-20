@@ -1,6 +1,6 @@
 # AutoFonic Mixer - Informativa sulla privacy / Privacy policy
 
-*Ultimo aggiornamento / Last updated: 19/11/2026*
+*Ultimo aggiornamento / Last updated: 20/11/2026*
 
 ## Italiano
 
@@ -26,6 +26,10 @@ nessun dato personale**.
 - **Acquisti sul PC**: si paga nel browser, sulla pagina di **Stripe** (carta, Google Pay, Apple Pay) o su **PayPal**,
   che gestiscono i dati di pagamento.  Lo sviluppatore riceve solo l'email e il codice del PC, per mandarti il codice
   di sblocco.
+- **Monitor dal telefono** (programma per PC, dalla 2.9.2): solo se lo accendi, il programma apre una pagina sulla
+  **rete locale** per i telefoni dei musicisti (codice di 4 cifre, risponde solo agli indirizzi della rete locale).
+  Il telefono ricorda solo il codice, il monitor scelto e un numero a caso per farsi riconoscere; il nome dei monitor
+  resta sul PC.  Niente passa da internet.
 - Nessuna pubblicità, nessuna statistica, nessun tracciamento.  L'app per telefono non si collega a internet
   (tranne la verifica degli acquisti con Google Play nella versione del Play Store).
 
@@ -55,6 +59,10 @@ data**.
 - **Purchases on the PC**: you pay in the browser, on the **Stripe** page (card, Google Pay, Apple Pay) or on
   **PayPal**, which handle the payment data.  The developer only receives the email and the PC code, to send you the
   unlock code.
+- **Monitors from the phone** (PC program, from 2.9.2): only if you turn it on, the program opens a page on the
+  **local network** for the musicians' phones (4-digit code, it answers only addresses of the local network).  The
+  phone remembers only the code, the chosen monitor and a random number to recognise itself; the monitor names stay
+  on the PC.  Nothing goes through the internet.
 - No ads, no analytics, no tracking.  The phone app does not connect to the internet (except checking purchases with
   Google Play in the Play Store version).
 
