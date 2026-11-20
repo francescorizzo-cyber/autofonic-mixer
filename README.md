@@ -24,6 +24,7 @@ every channel.  In **10 languages**.
 
 ## 🆕 News
 
+- **2.9.4** · 20 Nov 2026 — 🎚 L-20 / L-20R on the PC: the **FX1 RTN and FX2 RTN** strips no longer disappear when an older models file is present
 - **2.9.3** · 20 Nov 2026 — 🎚 sound check: **Pause and Stop no longer save into scene 1 or 2 by themselves**
   (Stop asks where to save) · 🎛 safer gain in Live · 💾 Behringer XR: the scene is saved at the end of the sound check ·
   🤖 L-20: AI Assist keeps working after the sound check · 🅿️ **PayPal** button in the PC Unlock window
@@ -34,8 +35,6 @@ every channel.  In **10 languages**.
   recording time left** · 🎬 scene buttons with just the number
 - **2.9** · 18 Nov 2026 — 🎛️ **Behringer and Midas** mixers on the PC: X Air XR12 · XR16 · XR18, X32, Midas MR18 ·
   M32 · 💳 full PC version €9.99, unlock code right after paying · 🪕 ukulele instruments
-- **2.8.28** · 18 Nov 2026 — 🎛️ L-20: master graphic EQ, effects 1 and 2, master REC/PLAY · 💾 the SD project in
-  the recorder bar
 
 Full release notes: **[all versions](../../releases)**.
 
@@ -277,6 +276,7 @@ tutti i canali.  In **10 lingue**.
 
 ## 🆕 Novità
 
+- **2.9.4** · 20 nov 2026 — 🎚 L-20 / L-20R sul PC: le strisce **FX1 RTN e FX2 RTN** non spariscono più se c'è un file modelli vecchio
 - **2.9.3** · 20 nov 2026 — 🎚 sound check: **Pausa e Stop non salvano più da soli nella scena 1 o 2**
   (Stop chiede dove salvare) · 🎛 gain più prudente in Live · 💾 Behringer XR: a fine sound check la scena si salva ·
   🤖 L-20: AI Assist continua dopo il sound check · 🅿️ pulsante **PayPal** nella finestra Sblocca del PC
@@ -287,8 +287,6 @@ tutti i canali.  In **10 lingue**.
   💾 L-20: il **tempo di registrazione che resta sulla SD** · 🎬 tasti delle scene col solo numero
 - **2.9** · 18 nov 2026 — 🎛️ mixer **Behringer e Midas** sul PC: X Air XR12 · XR16 · XR18, X32, Midas MR18 · M32 ·
   💳 versione completa per PC a 9,99 €, codice di sblocco subito dopo il pagamento · 🪕 strumenti ukulele
-- **2.8.28** · 18 nov 2026 — 🎛️ L-20: EQ grafico del master, effetti 1 e 2, REC/PLAY del master · 💾 il progetto
-  della SD nella barra del registratore
 
 Note complete: **[tutte le versioni](../../releases)**.
 
