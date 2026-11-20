@@ -194,7 +194,8 @@ the XR18 / MR18 and the X32 (X-USB card) also the sound check and the automatic 
 - **[haidelaidelo](https://github.com/haidelaidelo)** (Gabriele): first tests on a real **ZOOM LiveTrak L6**,
   USB audio channel order, MIDI controls, and lots of good ideas. He measured the five L6 effect types
   (Hall, Room, Spring, Delay, Echo) now chosen with buttons, and confirmed that compressor, MONO and the other
-  switches work (2.8.24).
+  switches work (2.8.24).  He keeps testing every new version on Android and Linux with his L6, and told the ZOOM
+  LiveTrak users group about it: thank you Gabriele!
 - **[alanpattle](https://github.com/alanpattle)** (Alan Pattle): the **ZOOM LiveTrak L-20** tester. Thank you Alan!
   He tests every new version on his real L-20, on the phone and on his Windows laptop, and sends detailed reports.
   His reports showed the L-20 meter layout, that the L-20 switches MUTE and SOLO with the value 1 (not 127),
@@ -207,7 +208,9 @@ the XR18 / MR18 and the X32 (X-USB card) also the sound check and the automatic 
   the stereo sends read from the mixer (2.8.20, 2.8.21) and, on 16 November, **every new L-20 control** on his
   mixer: MID FREQ, LOW CUT, polarity, EQ OFF, EFX 2, the stereo channels, the effect returns, scenes and master
   mute (2.8.23). He also found that the PC channel meters stayed still when the sound did not go through the
-  PC (fixed in 2.8.24).
+  PC (fixed in 2.8.24). Then came the master and stereo-channel REC/PLAY (2.9), the ukulele instruments (2.9), the
+  **SD recording time left**, scene buttons with just the number and the "not connected" note on the phone
+  (2.9.1). And he told the ZOOM LiveTrak users group how his tests are going: thank you Alan!
 - **The L-20R users** who sent reports from their mixers: thanks to them the FX1 / FX2 return faders were found
   in the mixer state and are now in the app (2.8.23).
 
@@ -392,7 +395,8 @@ acquisto.
 - **[haidelaidelo](https://github.com/haidelaidelo)** (Gabriele): le prime prove su un **ZOOM LiveTrak L6** vero,
   l'ordine dei canali audio USB, i comandi MIDI e tante buone idee. Ha misurato i cinque tipi di effetto del L6
   (Hall, Room, Spring, Delay, Echo), che ora si scelgono con i tasti, e ha confermato che compressore, MONO e gli
-  altri interruttori funzionano (2.8.24).
+  altri interruttori funzionano (2.8.24).  Continua a provare ogni nuova versione su Android e Linux con il suo L6,
+  e ne ha parlato nel gruppo degli utenti ZOOM LiveTrak: grazie Gabriele!
 - **[alanpattle](https://github.com/alanpattle)** (Alan Pattle): il tester del **ZOOM LiveTrak L-20**. Grazie Alan!
   Prova ogni nuova versione sul suo L-20 vero, dal telefono e dal portatile Windows, e manda rapporti dettagliati.
   I suoi rapporti hanno fatto scoprire com'è fatto il pacchetto dei meter del L-20, che il L-20 accende MUTE e SOLO
@@ -405,7 +409,10 @@ acquisto.
   hanno poi confermato mute, mandate A–F e mandate stereo lette dal mixer (2.8.20, 2.8.21) e, il 16 novembre,
   **tutti i nuovi comandi del L-20** sul suo mixer: MID FREQ, LOW CUT, fase, EQ OFF, EFX 2, canali stereo, ritorni
   degli effetti, scene e mute del master (2.8.23). Ha anche scoperto che sul PC i meter dei canali restavano
-  fermi quando il suono non passava dal PC (corretto nella 2.8.24).
+  fermi quando il suono non passava dal PC (corretto nella 2.8.24). Poi sono arrivati il REC/PLAY del master e dei
+  canali stereo (2.9), gli strumenti ukulele (2.9), il **tempo di registrazione che resta sulla SD**, i tasti delle
+  scene col solo numero e l'avviso "non collegato" sul telefono (2.9.1). E ha raccontato nel gruppo degli utenti
+  ZOOM LiveTrak come vanno le sue prove: grazie Alan!
 - **Gli utenti del L-20R** che hanno mandato i rapporti dai loro mixer: grazie a loro sono stati trovati nello
   stato del mixer i fader dei ritorni FX1 / FX2, che ora sono nell'app (2.8.23).
 
