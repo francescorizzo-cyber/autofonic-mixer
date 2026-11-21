@@ -24,6 +24,7 @@ every channel.  In **10 languages**.
 
 ## 🆕 News
 
+- **2.9.5** · 21 Nov 2026 — 🎙 **Virtual soundcheck** (L-20, PC and phone): Record really starts the recorder and **Back to live puts every REC/PLAY key back exactly as it was** · 📱 Monitors from the phone: scrolling no longer moves the faders; on Android 17 Chrome / Edge need the Nearby devices permission · 🐧 Linux: no more sudden closing with Monitors from the phone
 - **2.9.4** · 20 Nov 2026 — 🎚 L-20 / L-20R on the PC: the **FX1 RTN and FX2 RTN** strips no longer disappear when an older models file is present
 - **2.9.3** · 20 Nov 2026 — 🎚 sound check: **Pause and Stop no longer save into scene 1 or 2 by themselves**
   (Stop asks where to save) · 🎛 safer gain in Live · 💾 Behringer XR: the scene is saved at the end of the sound check ·
@@ -248,7 +249,12 @@ the XR18 / MR18 and the X32 (X-USB card) also the sound check and the automatic 
   mute (2.8.23). He also found that the PC channel meters stayed still when the sound did not go through the
   PC (fixed in 2.8.24). Then came the master and stereo-channel REC/PLAY (2.9), the ukulele instruments (2.9), the
   **SD recording time left**, scene buttons with just the number and the "not connected" note on the phone
-  (2.9.1). And he told the ZOOM LiveTrak users group how his tests are going: thank you Alan!
+  (2.9.1). His virtual soundcheck reports showed that the L-20 REC/PLAY keys work like key presses, and his phone
+  found that on Android 17 Chrome and Edge need a permission to open the monitor page (2.9.5). And he told the ZOOM
+  LiveTrak users group how his tests are going, with videos of AutoFonic Mixer on his L-20: thank you Alan!
+- **Thomas** (L-20R on Ubuntu Linux): his reports brought back the FX1 RTN / FX2 RTN strips with an older models
+  file (2.9.4), a phone monitor page that no longer moves the faders while you scroll, and, with his diary, the fix
+  for the Linux crash with Monitors from the phone (2.9.5). Thank you Thomas!
 - **The L-20R users** who sent reports from their mixers: thanks to them the FX1 / FX2 return faders were found
   in the mixer state and are now in the app (2.8.23).
 
@@ -276,6 +282,7 @@ tutti i canali.  In **10 lingue**.
 
 ## 🆕 Novità
 
+- **2.9.5** · 21 nov 2026 — 🎙 **Soundcheck virtuale** (L-20, PC e telefono): Registra fa partire davvero il registratore e **Torna al live rimette ogni tasto REC/PLAY esattamente com'era** · 📱 Monitor dal telefono: scorrendo la pagina i fader non si spostano più; su Android 17 Chrome / Edge vogliono il permesso Dispositivi nelle vicinanze · 🐧 Linux: il programma non si chiude più da solo con Monitor dal telefono
 - **2.9.4** · 20 nov 2026 — 🎚 L-20 / L-20R sul PC: le strisce **FX1 RTN e FX2 RTN** non spariscono più se c'è un file modelli vecchio
 - **2.9.3** · 20 nov 2026 — 🎚 sound check: **Pausa e Stop non salvano più da soli nella scena 1 o 2**
   (Stop chiede dove salvare) · 🎛 gain più prudente in Live · 💾 Behringer XR: a fine sound check la scena si salva ·
@@ -488,8 +495,13 @@ acquisto.
   degli effetti, scene e mute del master (2.8.23). Ha anche scoperto che sul PC i meter dei canali restavano
   fermi quando il suono non passava dal PC (corretto nella 2.8.24). Poi sono arrivati il REC/PLAY del master e dei
   canali stereo (2.9), gli strumenti ukulele (2.9), il **tempo di registrazione che resta sulla SD**, i tasti delle
-  scene col solo numero e l'avviso "non collegato" sul telefono (2.9.1). E ha raccontato nel gruppo degli utenti
-  ZOOM LiveTrak come vanno le sue prove: grazie Alan!
+  scene col solo numero e l'avviso "non collegato" sul telefono (2.9.1). I suoi rapporti sul soundcheck virtuale
+  hanno mostrato che i tasti REC/PLAY del L-20 funzionano come pressioni del tasto, e il suo telefono ha scoperto che
+  su Android 17 Chrome ed Edge vogliono un permesso per aprire la pagina dei monitor (2.9.5). E ha raccontato nel
+  gruppo degli utenti ZOOM LiveTrak come vanno le sue prove, con i video di AutoFonic Mixer sul suo L-20: grazie Alan!
+- **Thomas** (L-20R su Ubuntu Linux): i suoi rapporti hanno riportato le strisce FX1 RTN / FX2 RTN con un file
+  modelli vecchio (2.9.4), una pagina dei monitor dal telefono che non sposta più i fader mentre scorri e, con il suo
+  diario, la correzione del crash su Linux con Monitor dal telefono (2.9.5). Grazie Thomas!
 - **Gli utenti del L-20R** che hanno mandato i rapporti dai loro mixer: grazie a loro sono stati trovati nello
   stato del mixer i fader dei ritorni FX1 / FX2, che ora sono nell'app (2.8.23).
 
