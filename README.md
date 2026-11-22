@@ -8,7 +8,7 @@ from your **PC** (Windows, Linux, Mac) and your **Android phone**
 
 [![Download](https://img.shields.io/badge/⬇_Download-Windows_·_Linux_·_Mac-ffca28?style=for-the-badge)](#download)
 [![Google Play](https://img.shields.io/badge/Google_Play-Android-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer)
-[![Video](https://img.shields.io/badge/▶_Video-1_minute-e53935?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/BZv4WPJ-NJI)
+[![Video](https://img.shields.io/badge/▶_Video-1_minute-e53935?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lcbaCaBh8TQ)
 
 *[Italiano più sotto](#italiano)*
 
@@ -151,7 +151,7 @@ Sound check and AI need the **USB cable** (it carries every channel's audio) and
 
 ## ▶️ Watch the video
 
-[![Video](immagini/09_video.jpg)](https://youtu.be/BZv4WPJ-NJI)
+[![Video](immagini/09_video.jpg)](https://youtu.be/lcbaCaBh8TQ)
 
 <a id="full-version"></a>
 
@@ -272,7 +272,7 @@ dal **PC** (Windows, Linux, Mac) e dal **telefono Android**
 
 [![Scarica](https://img.shields.io/badge/⬇_Scarica-Windows_·_Linux_·_Mac-ffca28?style=for-the-badge)](#scarica)
 [![Google Play](https://img.shields.io/badge/Google_Play-Android-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer)
-[![Video](https://img.shields.io/badge/▶_Video-1_minuto-e53935?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/OXLS1chrFMM)
+[![Video](https://img.shields.io/badge/▶_Video-1_minuto-e53935?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/gXs7_-YmX_0)
 
 </div>
 
@@ -398,6 +398,10 @@ Per sound check e AI servono il **cavo USB** (porta l'audio di ogni canale) e, s
 - 🎤 **caccia ai fischi** con il microfono del telefono · 🎸 **accordatore** · 💾 **setup salvati**
 - 🎧 **modalità musicista**: ognuno regola solo la propria spia · 🔗 **canali uniti in stereo** · 🔒 **blocco dei tocchi**
 - 7 giorni di prova completa, poi un solo acquisto
+
+## ▶️ Guarda il video
+
+[![Video](immagini/09_video_it.jpg)](https://youtu.be/gXs7_-YmX_0)
 
 <a id="versione-completa"></a>
 
