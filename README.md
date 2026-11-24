@@ -6,8 +6,8 @@
 **ZOOM** L12next · L-20 / L-20R · L6 / L6max — **Behringer / Midas** XR12 · XR16 · XR18 / MR18 · X32 / M32<br>
 from your **PC** (Windows, Linux, Mac) and your **Android phone**
 
-[![Download](https://img.shields.io/badge/⬇_Download-Windows_·_Linux_·_Mac-ffca28?style=for-the-badge)](#download)
-[![Google Play](https://img.shields.io/badge/Google_Play-Android-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer)
+[![Google Play](https://img.shields.io/badge/Google_Play-Android_·_7--day_free_trial-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer)
+[![PC](https://img.shields.io/badge/PC-Windows_·_Linux_·_Mac-555555?style=for-the-badge)](#download)
 [![Video](https://img.shields.io/badge/▶_Video-1_minute-e53935?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/lcbaCaBh8TQ)
 
 *[Italiano più sotto](#italiano)*
@@ -274,8 +274,8 @@ the XR18 / MR18 and the X32 (X-USB card) also the sound check and the automatic 
 **ZOOM** L12next · L-20 / L-20R · L6 / L6max — **Behringer / Midas** XR12 · XR16 · XR18 / MR18 · X32 / M32<br>
 dal **PC** (Windows, Linux, Mac) e dal **telefono Android**
 
-[![Scarica](https://img.shields.io/badge/⬇_Scarica-Windows_·_Linux_·_Mac-ffca28?style=for-the-badge)](#scarica)
-[![Google Play](https://img.shields.io/badge/Google_Play-Android-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer)
+[![Google Play](https://img.shields.io/badge/Google_Play-Android_·_prova_gratis_7_giorni-45b86e?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.autofonic.mixer)
+[![PC](https://img.shields.io/badge/PC-Windows_·_Linux_·_Mac-555555?style=for-the-badge)](#scarica)
 [![Video](https://img.shields.io/badge/▶_Video-1_minuto-e53935?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/gXs7_-YmX_0)
 
 </div>
