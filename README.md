@@ -113,7 +113,7 @@ the musicians scan a QR code and a page opens in the browser: **iPhone, iPad and
 - **several phones at once**; what the sound engineer changes shows up on the phones by itself
 - **safe**: a 4-digit code, only the monitor sends (never the main mix, mutes or scenes), only from the local network
 - ZOOM L12next, L-20 / L-20R, L6 and Behringer X Air / X32.  On the PC: **☰ More → 📱 Monitors from the phone**
-- free during the 14-day PC demo
+- free during the 7-day PC demo
 
 **Connecting the phones:** PC and phones on the same Wi-Fi, no internet needed.  The safest is any Wi-Fi router on
 stage; the venue's Wi-Fi works too (not the "guest" network), or a phone's or the PC's hotspot.  If Windows asks
@@ -158,8 +158,9 @@ Sound check and AI need the **USB cable** (it carries every channel's audio) and
 
 ## 🔑 Full PC version
 
-The PC download is a **free demo**: everything works for 14 days.  **Full version: €9.99, one time only**, valid forever on
-that PC.
+The PC download is a **free demo**: everything works for 7 days.  **Full version: €9.99, one time only**, valid forever on
+that PC.  At the first start the demo sends only the PC code (8 characters, no personal data) to the unlock
+service, to know when the trial started.
 
 **⚡ Pay by card and you get the unlock code right away**, on screen and by email: no waiting.
 
@@ -371,7 +372,7 @@ inquadrano un QR e si apre una pagina nel browser: **iPhone, iPad e Android, sen
 - **sicuro**: codice di 4 cifre, solo le mandate ai monitor (mai il mix di sala, i mute o le scene), solo dalla
   rete locale
 - ZOOM L12next, L-20 / L-20R, L6 e Behringer X Air / X32.  Sul PC: **☰ Altro → 📱 Monitor dal telefono**
-- libero nei 14 giorni della demo per PC
+- libero nei 7 giorni della demo per PC
 
 **Come collegare i telefoni:** PC e telefoni sulla stessa Wi-Fi, internet non serve.  Il modo più sicuro è un
 router Wi-Fi qualsiasi sul palco; va bene anche il Wi-Fi del locale (non la rete "ospiti"), o l'hotspot di un
@@ -412,8 +413,9 @@ Per sound check e AI servono il **cavo USB** (porta l'audio di ogni canale) e, s
 
 ## 🔑 Versione completa per PC
 
-Quello del PC è una **demo gratuita**: funziona tutto per 14 giorni.  **Versione completa: 9,99 €, una volta sola**, vale
-per sempre su quel PC.
+Quello del PC è una **demo gratuita**: funziona tutto per 7 giorni.  **Versione completa: 9,99 €, una volta sola**, vale
+per sempre su quel PC.  Al primo avvio la demo manda al servizio di sblocco solo il codice del PC (8 caratteri, nessun
+dato personale), per sapere quando è iniziata la prova.
 
 **⚡ Paghi con la carta e ricevi subito il codice di sblocco**, sullo schermo e per email: senza aspettare.
 
