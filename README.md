@@ -24,6 +24,9 @@ every channel.  In **10 languages**.
 
 ## 🆕 News
 
+- **2.9.9** · 25 Nov 2026 — 📱 phone: **monitors for the musicians** in the app too: the sound engineer's phone stays connected to the mixer and shows a QR code, every musician sets their own monitor mix from the browser of their phone (iPhone and Android, nothing to install), on Wi-Fi or on the hotspot of that phone · free during the 7-day trial, then an optional extra on Google Play (€2.99)
+- **2.9.8** · 25 Nov 2026 — 📱 phone: the app now speaks **Polish, Dutch and Japanese** too (13 languages)
+- **2.9.7** · 24 Nov 2026 — 💻 PC DEMO: the free trial is now **7 days, like on Android**, linked to the PC, so reinstalling does not restart it (only the 8-character PC code is sent, no personal data)
 - **2.9.6** · 23 Nov 2026 — 🎙 **Virtual soundcheck** (L-20, PC and phone): Play back first goes back to the start of the project, so the tracks go to PLAY also after a loop has ended, and the loop retries up to 3 times · 🪕 ukulele: **acoustic (pickup)** and **electric (solid body)**, with a starting EQ set on a real L-20 · 🎚 L-20 on the PC: the sound check says clearly that it gives advice · ⏳ phone: a reminder 2 days before the trial ends
 - **2.9.5** · 21 Nov 2026 — 🎙 **Virtual soundcheck** (L-20, PC and phone): Record really starts the recorder and **Back to live puts every REC/PLAY key back exactly as it was** · 📱 Monitors from the phone: scrolling no longer moves the faders; on Android 17 Chrome / Edge need the Nearby devices permission · 🐧 Linux: no more sudden closing with Monitors from the phone
 - **2.9.4** · 20 Nov 2026 — 🎚 L-20 / L-20R on the PC: the **FX1 RTN and FX2 RTN** strips no longer disappear when an older models file is present
@@ -287,6 +290,9 @@ tutti i canali.  In **10 lingue**.
 
 ## 🆕 Novità
 
+- **2.9.9** · 25 nov 2026 — 📱 telefono: **monitor per i musicisti** anche nell'app: il telefono del fonico resta collegato al mixer e mostra un QR, ogni musicista regola il suo monitor dal browser del suo telefono (iPhone e Android, niente da installare), sulla Wi-Fi o sull'hotspot di quel telefono · gratis nei 7 giorni di prova, poi un'aggiunta facoltativa su Google Play (2,99 €)
+- **2.9.8** · 25 nov 2026 — 📱 telefono: l'app ora parla anche **polacco, olandese e giapponese** (13 lingue)
+- **2.9.7** · 24 nov 2026 — 💻 DEMO per PC: la prova gratuita ora dura **7 giorni, come su Android**, ed è legata al PC, quindi reinstallare non la fa ripartire (si manda solo il codice del PC di 8 caratteri, nessun dato personale)
 - **2.9.6** · 23 nov 2026 — 🎙 **Soundcheck virtuale** (L-20, PC e telefono): Riascolta prima torna all'inizio del progetto, così le tracce vanno in PLAY anche dopo la fine di un loop, e il loop riprova fino a 3 volte · 🪕 ukulele: **acustico (con pickup)** ed **elettrico (solid body)**, con un EQ di partenza regolato su un L-20 vero · 🎚 L-20 sul PC: il sound check dice chiaramente che dà consigli · ⏳ telefono: un promemoria 2 giorni prima della fine della prova
 - **2.9.5** · 21 nov 2026 — 🎙 **Soundcheck virtuale** (L-20, PC e telefono): Registra fa partire davvero il registratore e **Torna al live rimette ogni tasto REC/PLAY esattamente com'era** · 📱 Monitor dal telefono: scorrendo la pagina i fader non si spostano più; su Android 17 Chrome / Edge vogliono il permesso Dispositivi nelle vicinanze · 🐧 Linux: il programma non si chiude più da solo con Monitor dal telefono
 - **2.9.4** · 20 nov 2026 — 🎚 L-20 / L-20R sul PC: le strisce **FX1 RTN e FX2 RTN** non spariscono più se c'è un file modelli vecchio
